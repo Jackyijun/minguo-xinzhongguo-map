@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-"""民国形势图 · 一键构建。
+"""民国至新中国初期形势图 · 一键构建。
 
   python run.py               检查史料 → 底图缺失则下载 → 计算疆域 → 生成 docs/index.html
-  python run.py --html        只重新拼装 HTML（改了 src/template.html 时用，几秒钟）
+  python run.py --html        只重新拼装 HTML（改了 src/template.html 或英文时用，几秒钟）
+  python run.py --draft       英文有缺译或过期时也照样出图（缺译处显示中文），只给警告
   python run.py --open        构建完成后用浏览器打开
   python run.py --preview 1937.12,1944.12
                               构建后用 matplotlib 画出这几个节点的疆域草图（build/preview-*.png）
@@ -22,8 +23,9 @@ def step(title, script, args=()):
     print(f"   用时 {time.time() - t0:.1f}s")
 
 def main():
-    ap = argparse.ArgumentParser(description="构建民国形势图")
+    ap = argparse.ArgumentParser(description="构建民国至新中国初期形势图")
     ap.add_argument("--html", action="store_true", help="跳过计算，只重新拼装 HTML")
+    ap.add_argument("--draft", action="store_true", help="英文缺译时也出图（缺译处显示中文）")
     ap.add_argument("--open", action="store_true", help="完成后在浏览器中打开")
     ap.add_argument("--preview", metavar="NODES", help="逗号分隔的节点（年.月），画疆域草图")
     a = ap.parse_args()
@@ -31,7 +33,7 @@ def main():
         step("检查史料", ROOT / "tools" / "check.py")
         step("下载底图（已有则跳过）", SRC / "fetch_data.py")
         step("计算疆域（约 10—20 分钟）", SRC / "build.py")
-    step("拼装 HTML", SRC / "assemble.py")
+    step("拼装 HTML", SRC / "assemble.py", ["--draft"] if a.draft else [])
     if a.preview:
         step("画草图", ROOT / "tools" / "preview.py", [a.preview])
     out = ROOT / "docs" / "index.html"

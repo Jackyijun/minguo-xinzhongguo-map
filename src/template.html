@@ -254,6 +254,7 @@
   html[lang="en"] .lbl-riv { letter-spacing:.03em; }
   html[lang="en"] .legend h2, html[lang="en"] .grp > h2, html[lang="en"] thead th, html[lang="en"] .legend .sub, html[lang="en"] .inset .cap { text-transform:uppercase; letter-spacing:.06em !important; }
   html[lang="en"] .legend { width:272px; }
+  html[lang="en"] .caption { max-height:9.8em; }
   html[lang="en"] .tick { flex-basis:74px; }
   html[lang="en"] .tick .tt { white-space:normal; text-align:center; line-height:1.2; max-width:72px; }
   html[lang="en"] .row .o { white-space:normal; }
@@ -393,7 +394,7 @@
   const K_OF = { capital: "var(--c-capital)", battle: "var(--c-battle)", pass: "var(--c-pass)", event: "var(--c-culture)", pref: "var(--c-city)", range: "var(--range)", river: "var(--water)", canal: "var(--water)", desert: "var(--desert)", region: "var(--c-yanyun)", route: "var(--c-route)", conc: "var(--c-conc)", rail: "var(--c-rail)", road: "var(--c-road)", air: "var(--c-air)" };
   // 时间：一律用月序 t = 年 × 12 + (月 − 1)；节点取所标月份之末，本期 = 上一节点之后（不含）至本节点（含）
   const MN = ["", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二"];
-  const MON_EN = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+  const MON_EN = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   const tY = t => Math.floor(t / 12), tM = t => t % 12 + 1;
   const tShort = t => `${tY(t)}.${tM(t)}`;                                                 // 1937.7
   const tLong = t => LZ(`${tY(t)} 年 ${tM(t)} 月`, `${MON_EN[tM(t)]} ${tY(t)}`);           // 1937 年 7 月
@@ -1684,9 +1685,9 @@
     const txt = (id, zh, en) => { $(id).textContent = LZ(zh, en); };
     const at = (node, a, zh, en) => node.setAttribute(a, LZ(zh, en));
     document.documentElement.lang = LZ("zh-CN", "en");
-    document.title = LZ("民国至新中国初期形势图", "China and Asia, 1911–1954");
+    document.title = LZ("民国至新中国初期形势图", "Republican China to the Early PRC");
     txt("h1", "民国至新中国初期形势图", "Republican China to the Early PRC");
-    txt("h1src", "1911 — 1954 · 辛亥革命至抗美援朝胜利、日内瓦会议 · 古今地名对照", "1911–1954 · from the 1911 Revolution to the Korean Armistice and Geneva · historical and modern place names");
+    txt("h1src", "1911 — 1954 · 辛亥革命至抗美援朝胜利、日内瓦会议 · 古今地名对照", "1911–1954 · from the 1911 Revolution to victory in Korea and the Geneva Conference · historical and modern place names");
     at($("fit"), "aria-label", "视野", "View"); at($("fit").parentNode, "title", "视野", "View");
     for (const o of $("fit").options) o.textContent = LZ(FIT_ZH[o.value], FIT_EN[o.value]);
     at($("cmode"), "aria-label", "着色方式", "Coloring");

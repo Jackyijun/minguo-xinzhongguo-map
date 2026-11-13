@@ -562,7 +562,7 @@ for nd, st in zip(NODES, STATES):
         lz = {str(u): anchor(A == u) for u in present if (A == u).any()}
         lp = {str(p): anchor(PR == p) for p in multi if (PR == p).any()}
         _cache[ck] = (z, p_, lz, lp, multi)
-    OUTSN.append(dict(y=nd["y"], m=nd["m"], t=nd["t"], era=nd["era"], t_=nd["title"], d=nd["d"], z=z, lz=lz, p=p_, lp=lp,
+    OUTSN.append(dict(y=nd["y"], m=nd["m"], t=nd["t"], era=nd["era"], ti=nd["title"], d=nd["d"], z=z, lz=lz, p=p_, lp=lp,
              own=own_seed.tolist(),
              pol={str(u): p for u, p in polmap.items()},
              lab={str(UK[k]): v for k, v in sorted(st["lab"].items()) if UK[k] in polmap or UK[k] in polmap.values()},

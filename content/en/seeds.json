@@ -1,0 +1,8160 @@
+{
+ "万丹": {
+  "mod": "Serang, Banten, Indonesia",
+  "n": {
+   "万丹": "Banten"
+  }
+ },
+ "万伦": {
+  "mod": "Surat Thani, Thailand",
+  "n": {
+   "万伦": "Ban Don"
+  }
+ },
+ "万县": {
+  "mod": "Wanzhou, Chongqing",
+  "n": {
+   "万县": "Wanxian"
+  }
+ },
+ "万宁": {
+  "mod": "Wanning, Hainan",
+  "n": {
+   "万宁": "Wanning"
+  }
+ },
+ "万安": {
+  "mod": "Wan'an, Jiangxi",
+  "n": {
+   "万安": "Wan'an"
+  }
+ },
+ "万象": {
+  "mod": "Vientiane, Laos",
+  "n": {
+   "万象": "Vientiane"
+  }
+ },
+ "万隆": {
+  "mod": "Bandung, Indonesia",
+  "n": {
+   "万隆": "Bandung"
+  }
+ },
+ "万鸦老": {
+  "mod": "Manado, Indonesia",
+  "n": {
+   "万鸦老": "Manado"
+  }
+ },
+ "三原": {
+  "mod": "Sanyuan, Shaanxi",
+  "n": {
+   "三原": "Sanyuan"
+  }
+ },
+ "三宝垄": {
+  "mod": "Semarang, Indonesia",
+  "n": {
+   "三宝垄": "Semarang"
+  }
+ },
+ "三宝颜": {
+  "mod": "Zamboanga, Philippines",
+  "n": {
+   "三宝颜": "Zamboanga"
+  }
+ },
+ "三陟": {
+  "mod": "Samcheok, South Korea",
+  "n": {
+   "三陟": "Samcheok"
+  }
+ },
+ "三隆": {
+  "mod": "Samraong, Oddar Meanchey, Cambodia",
+  "n": {
+   "三隆": "Samraong"
+  }
+ },
+ "三马林达": {
+  "mod": "Samarinda, Indonesia",
+  "n": {
+   "三马林达": "Samarinda"
+  }
+ },
+ "上丁": {
+  "mod": "Stung Treng, Cambodia",
+  "n": {
+   "上丁": "Stung Treng"
+  }
+ },
+ "上乌金斯克": {
+  "mod": "Ulan-Ude, Russia",
+  "n": {
+   "上乌金斯克": "Verkhneudinsk",
+   "乌兰乌德": "Ulan-Ude"
+  }
+ },
+ "上杭": {
+  "mod": "Shanghang, Fujian",
+  "n": {
+   "上杭": "Shanghang"
+  }
+ },
+ "上海": {
+  "mod": "Shanghai",
+  "n": {
+   "上海": "Shanghai"
+  }
+ },
+ "上饶": {
+  "mod": "Shangrao, Jiangxi",
+  "n": {
+   "上饶": "Shangrao"
+  }
+ },
+ "下乌金斯克": {
+  "mod": "Nizhneudinsk, Russia",
+  "n": {
+   "下乌金斯克": "Nizhneudinsk"
+  }
+ },
+ "且末": {
+  "mod": "Qiemo, Xinjiang",
+  "n": {
+   "且末": "Qiemo"
+  }
+ },
+ "东京": {
+  "mod": "Tokyo, Japan",
+  "n": {
+   "东京": "Tokyo"
+  }
+ },
+ "东兰": {
+  "mod": "Donglan, Guangxi",
+  "n": {
+   "东兰": "Donglan"
+  }
+ },
+ "东台": {
+  "mod": "Dongtai, Jiangsu",
+  "n": {
+   "东台": "Dongtai"
+  }
+ },
+ "东枝": {
+  "mod": "Taunggyi, Shan State, Myanmar",
+  "n": {
+   "东枝": "Taunggyi"
+  }
+ },
+ "东河": {
+  "mod": "Đông Hà, Quảng Trị, Vietnam",
+  "n": {
+   "东河": "Đông Hà"
+  }
+ },
+ "东溪": {
+  "mod": "Đông Khê, Cao Bằng, Vietnam",
+  "n": {
+   "东溪": "Đông Khê"
+  }
+ },
+ "东胜": {
+  "mod": "Dongsheng District, Ordos, Inner Mongolia",
+  "n": {
+   "东胜": "Dongsheng"
+  }
+ },
+ "东莞": {
+  "mod": "Dongguan, Guangdong",
+  "n": {
+   "东莞": "Dongguan"
+  }
+ },
+ "中卫": {
+  "mod": "Zhongwei, Ningxia",
+  "n": {
+   "中卫": "Zhongwei"
+  }
+ },
+ "中甸": {
+  "mod": "Shangri-La, Yunnan",
+  "n": {
+   "中甸": "Zhongdian"
+  }
+ },
+ "中科雷姆斯克": {
+  "mod": "Srednekolymsk, Russia",
+  "n": {
+   "中科雷姆斯克": "Srednekolymsk"
+  }
+ },
+ "丰原": {
+  "mod": "Yuzhno-Sakhalinsk, Russia",
+  "n": {
+   "丰原": "Toyohara",
+   "南萨哈林斯克": "Yuzhno-Sakhalinsk"
+  }
+ },
+ "丰宁": {
+  "mod": "Fengning, Hebei",
+  "n": {
+   "丰宁": "Fengning"
+  }
+ },
+ "丰沙里": {
+  "mod": "Phongsaly, Laos",
+  "n": {
+   "丰沙里": "Phongsaly"
+  }
+ },
+ "丰镇": {
+  "mod": "Fengzhen, Inner Mongolia",
+  "n": {
+   "丰镇": "Fengzhen"
+  }
+ },
+ "临夏": {
+  "mod": "Linxia, Gansu",
+  "n": {
+   "临夏": "Linxia",
+   "导河": "Daohe",
+   "河州": "Hezhou"
+  }
+ },
+ "临川": {
+  "mod": "Fuzhou, Jiangxi",
+  "n": {
+   "临川": "Linchuan"
+  }
+ },
+ "临江": {
+  "mod": "Linjiang, Jilin",
+  "n": {
+   "临江": "Linjiang"
+  }
+ },
+ "临汾": {
+  "mod": "Linfen, Shanxi",
+  "n": {
+   "临汾": "Linfen"
+  }
+ },
+ "临沂": {
+  "mod": "Linyi, Shandong",
+  "n": {
+   "临沂": "Linyi"
+  }
+ },
+ "临河": {
+  "mod": "Linhe District, Bayannur, Inner Mongolia",
+  "n": {
+   "临河": "Linhe"
+  }
+ },
+ "临洮": {
+  "mod": "Lintao, Gansu",
+  "n": {
+   "临洮": "Lintao"
+  }
+ },
+ "临海": {
+  "mod": "Linhai, Zhejiang",
+  "n": {
+   "临海": "Linhai"
+  }
+ },
+ "临清": {
+  "mod": "Linqing, Shandong",
+  "n": {
+   "临清": "Linqing"
+  }
+ },
+ "丹巴": {
+  "mod": "Danba, Sichuan",
+  "n": {
+   "丹巴": "Danba"
+  }
+ },
+ "丹戎槟榔": {
+  "mod": "Tanjung Pinang, Riau Islands, Indonesia",
+  "n": {
+   "丹戎槟榔": "Tanjung Pinang"
+  }
+ },
+ "丹老": {
+  "mod": "Myeik, Myanmar",
+  "n": {
+   "丹老": "Mergui"
+  }
+ },
+ "丽水": {
+  "mod": "Lishui, Zhejiang",
+  "n": {
+   "丽水": "Lishui"
+  }
+ },
+ "丽水·朝鲜": {
+  "mod": "Yeosu, South Korea",
+  "n": {
+   "丽水": "Yeosu"
+  }
+ },
+ "丽江": {
+  "mod": "Lijiang, Yunnan",
+  "n": {
+   "丽江": "Lijiang"
+  }
+ },
+ "义路": {
+  "mod": "Nghĩa Lộ, Lào Cai, Vietnam",
+  "n": {
+   "义路": "Nghĩa Lộ"
+  }
+ },
+ "乌代浦尔": {
+  "mod": "Udaipur, India",
+  "n": {
+   "乌代浦尔": "Udaipur"
+  }
+ },
+ "乌克鲁尔": {
+  "mod": "Ukhrul, India",
+  "n": {
+   "乌克鲁尔": "Ukhrul"
+  }
+ },
+ "乌兰固木": {
+  "mod": "Ulaangom, Uvs Province, Mongolia",
+  "n": {
+   "乌兰固木": "Ulaangom"
+  }
+ },
+ "乌尔法": {
+  "mod": "Şanlıurfa, Türkiye",
+  "n": {
+   "乌尔法": "Urfa"
+  }
+ },
+ "乌尔米耶": {
+  "mod": "Urmia, Iran",
+  "n": {
+   "乌尔米耶": "Urmia"
+  }
+ },
+ "乌斯季堪察茨克": {
+  "mod": "Ust-Kamchatsk, Russia",
+  "n": {
+   "乌斯季堪察茨克": "Ust-Kamchatsk"
+  }
+ },
+ "乌汶": {
+  "mod": "Ubon Ratchathani, Thailand",
+  "n": {
+   "乌汶": "Ubon"
+  }
+ },
+ "乌沙克": {
+  "mod": "Uşak, Türkiye",
+  "n": {
+   "乌沙克": "Uşak"
+  }
+ },
+ "乌苏": {
+  "mod": "Wusu, Xinjiang",
+  "n": {
+   "乌苏": "Wusu"
+  }
+ },
+ "乌里雅苏台": {
+  "mod": "Uliastai, Zavkhan Province, Mongolia",
+  "n": {
+   "乌里雅苏台": "Uliassutai"
+  }
+ },
+ "乌隆": {
+  "mod": "Udon Thani, Thailand",
+  "n": {
+   "乌隆": "Udon"
+  }
+ },
+ "乐山": {
+  "mod": "Leshan, Sichuan",
+  "n": {
+   "乐山": "Leshan",
+   "嘉定": "Jiading"
+  }
+ },
+ "乐都": {
+  "mod": "Ledu District, Haidong, Qinghai",
+  "n": {
+   "乐都": "Ledu"
+  }
+ },
+ "九江": {
+  "mod": "Jiujiang, Jiangxi",
+  "n": {
+   "九江": "Jiujiang"
+  }
+ },
+ "习水": {
+  "mod": "Xishui, Guizhou",
+  "n": {
+   "习水": "Xishui"
+  }
+ },
+ "买卖城": {
+  "mod": "Altanbulag, Selenge Province, Mongolia",
+  "n": {
+   "买卖城": "Maimaicheng"
+  }
+ },
+ "乾城": {
+  "mod": "Jishou, Hunan",
+  "n": {
+   "乾城": "Qiancheng"
+  }
+ },
+ "于田": {
+  "mod": "Yutian, Xinjiang",
+  "n": {
+   "于田": "Yutian"
+  }
+ },
+ "云山": {
+  "mod": "Unsan, North Korea",
+  "n": {
+   "云山": "Unsan"
+  }
+ },
+ "五原": {
+  "mod": "Wuyuan, Inner Mongolia",
+  "n": {
+   "五原": "Wuyuan"
+  }
+ },
+ "五台": {
+  "mod": "Wutai, Shanxi",
+  "n": {
+   "五台": "Wutai"
+  }
+ },
+ "井冈山": {
+  "mod": "Ciping, Jinggangshan, Jiangxi",
+  "n": {
+   "井冈山": "Jinggangshan"
+  }
+ },
+ "井里汶": {
+  "mod": "Cirebon, Indonesia",
+  "n": {
+   "井里汶": "Cirebon"
+  }
+ },
+ "亚丁": {
+  "mod": "Aden, Yemen",
+  "n": {
+   "亚丁": "Aden"
+  }
+ },
+ "亚东": {
+  "mod": "Yadong, Xizang",
+  "n": {
+   "亚东": "Yadong"
+  }
+ },
+ "亚历山大勒塔": {
+  "mod": "İskenderun, Türkiye",
+  "n": {
+   "亚历山大勒塔": "Alexandretta"
+  }
+ },
+ "亚历山德罗夫斯克": {
+  "mod": "Aleksandrovsk-Sakhalinsky, Sakhalin Oblast, Russia (Ako)",
+  "n": {
+   "亚历山德罗夫斯克": "Aleksandrovsk"
+  }
+ },
+ "亚历山德罗波尔": {
+  "mod": "Gyumri, Armenia",
+  "n": {
+   "亚历山德罗波尔": "Alexandropol",
+   "列宁纳坎": "Leninakan"
+  }
+ },
+ "亚喀巴": {
+  "mod": "Aqaba, Jordan",
+  "n": {
+   "亚喀巴": "Aqaba"
+  }
+ },
+ "亚罗士打": {
+  "mod": "Alor Setar, Malaysia",
+  "n": {
+   "亚罗士打": "Alor Star"
+  }
+ },
+ "亚齐": {
+  "mod": "Banda Aceh, Indonesia",
+  "n": {
+   "亚齐": "Aceh"
+  }
+ },
+ "京都": {
+  "mod": "Kyoto, Japan",
+  "n": {
+   "京都": "Kyoto"
+  }
+ },
+ "亳县": {
+  "mod": "Bozhou, Anhui",
+  "n": {
+   "亳县": "Boxian"
+  }
+ },
+ "仁安羌": {
+  "mod": "Yenangyaung, Myanmar",
+  "n": {
+   "仁安羌": "Yenangyaung"
+  }
+ },
+ "仁川": {
+  "mod": "Incheon, South Korea",
+  "n": {
+   "仁川": "Incheon"
+  }
+ },
+ "介休": {
+  "mod": "Jiexiu, Shanxi",
+  "n": {
+   "介休": "Jiexiu"
+  }
+ },
+ "他曲": {
+  "mod": "Thakhek, Laos",
+  "n": {
+   "他曲": "Thakhek"
+  }
+ },
+ "仙台": {
+  "mod": "Sendai, Japan",
+  "n": {
+   "仙台": "Sendai"
+  }
+ },
+ "代县": {
+  "mod": "Daixian, Shanxi",
+  "n": {
+   "代县": "Daixian"
+  }
+ },
+ "代尔祖尔": {
+  "mod": "Deir ez-Zor, Syria",
+  "n": {
+   "代尔祖尔": "Deir ez-Zor"
+  }
+ },
+ "仰光": {
+  "mod": "Yangon, Myanmar",
+  "n": {
+   "仰光": "Rangoon"
+  }
+ },
+ "任丘": {
+  "mod": "Renqiu, Hebei",
+  "n": {
+   "任丘": "Renqiu"
+  }
+ },
+ "任抹": {
+  "mod": "Jember, Indonesia",
+  "n": {
+   "任抹": "Jember"
+  }
+ },
+ "伊兹米特": {
+  "mod": "İzmit, Türkiye",
+  "n": {
+   "伊兹米特": "İzmit"
+  }
+ },
+ "伊宁": {
+  "mod": "Yining, Xinjiang",
+  "n": {
+   "伊宁": "Yining",
+   "宁远": "Ningyuan"
+  }
+ },
+ "伊尔库茨克": {
+  "mod": "Irkutsk, Russia",
+  "n": {
+   "伊尔库茨克": "Irkutsk"
+  }
+ },
+ "伊斯坦布尔": {
+  "mod": "Istanbul, Türkiye",
+  "n": {
+   "伊斯坦布尔": "Istanbul",
+   "君士坦丁堡": "Constantinople"
+  }
+ },
+ "伊斯法罕": {
+  "mod": "Isfahan, Iran",
+  "n": {
+   "伊斯法罕": "Isfahan"
+  }
+ },
+ "伊曼": {
+  "mod": "Dalnerechensk, Russia",
+  "n": {
+   "伊曼": "Iman"
+  }
+ },
+ "会宁": {
+  "mod": "Huining, Gansu",
+  "n": {
+   "会宁": "Huining"
+  }
+ },
+ "会宁·朝鲜": {
+  "mod": "Hoeryong, North Korea",
+  "n": {
+   "会宁": "Hoeryong"
+  }
+ },
+ "会昌": {
+  "mod": "Huichang, Jiangxi",
+  "n": {
+   "会昌": "Huichang"
+  }
+ },
+ "会晒": {
+  "mod": "Houayxay, Laos",
+  "n": {
+   "会晒": "Houei Sai"
+  }
+ },
+ "会理": {
+  "mod": "Huili, Sichuan",
+  "n": {
+   "会理": "Huili"
+  }
+ },
+ "佳木斯": {
+  "mod": "Jiamusi, Heilongjiang",
+  "n": {
+   "佳木斯": "Jiamusi"
+  }
+ },
+ "依兰": {
+  "mod": "Yilan, Heilongjiang",
+  "n": {
+   "依兰": "Yilan"
+  }
+ },
+ "保安": {
+  "mod": "Zhidan, Shaanxi",
+  "n": {
+   "保安": "Bao'an",
+   "志丹": "Zhidan"
+  }
+ },
+ "保定": {
+  "mod": "Baoding, Hebei",
+  "n": {
+   "保定": "Baoding"
+  }
+ },
+ "保山": {
+  "mod": "Baoshan, Yunnan",
+  "n": {
+   "保山": "Baoshan"
+  }
+ },
+ "信丰": {
+  "mod": "Xinfeng, Jiangxi",
+  "n": {
+   "信丰": "Xinfeng"
+  }
+ },
+ "信阳": {
+  "mod": "Xinyang, Henan",
+  "n": {
+   "信阳": "Xinyang"
+  }
+ },
+ "修水": {
+  "mod": "Xiushui, Jiangxi",
+  "n": {
+   "修水": "Xiushui"
+  }
+ },
+ "儋县": {
+  "mod": "Danzhou, Hainan",
+  "n": {
+   "儋县": "Danxian"
+  }
+ },
+ "元山": {
+  "mod": "Wonsan, North Korea",
+  "n": {
+   "元山": "Wonsan"
+  }
+ },
+ "光山": {
+  "mod": "Guangshan, Henan",
+  "n": {
+   "光山": "Guangshan"
+  }
+ },
+ "光州": {
+  "mod": "Gwangju, South Korea",
+  "n": {
+   "光州": "Gwangju"
+  }
+ },
+ "克塔克": {
+  "mod": "Cuttack, India",
+  "n": {
+   "克塔克": "Cuttack"
+  }
+ },
+ "克孜勒": {
+  "mod": "Kyzyl, Tuva, Russia",
+  "n": {
+   "乌梁海": "Uriankhai",
+   "克孜勒": "Kyzyl",
+   "别洛察尔斯克": "Belotsarsk",
+   "赫姆别勒迪尔": "Khem-Beldyr"
+  }
+ },
+ "克尔曼": {
+  "mod": "Kerman, Iran",
+  "n": {
+   "克尔曼": "Kerman"
+  }
+ },
+ "克尔曼沙阿": {
+  "mod": "Kermanshah, Iran",
+  "n": {
+   "克尔曼沙阿": "Kermanshah"
+  }
+ },
+ "克山": {
+  "mod": "Keshan, Heilongjiang",
+  "n": {
+   "克山": "Keshan"
+  }
+ },
+ "克拉斯诺亚尔斯克": {
+  "mod": "Krasnoyarsk, Russia",
+  "n": {
+   "克拉斯诺亚尔斯克": "Krasnoyarsk"
+  }
+ },
+ "克拉斯诺沃茨克": {
+  "mod": "Türkmenbaşy, Turkmenistan",
+  "n": {
+   "克拉斯诺沃茨克": "Krasnovodsk"
+  }
+ },
+ "兖州": {
+  "mod": "Yanzhou, Shandong",
+  "n": {
+   "兖州": "Yanzhou"
+  }
+ },
+ "全州": {
+  "mod": "Quanzhou, Guangxi",
+  "n": {
+   "全州": "Quanzhou"
+  }
+ },
+ "全州·朝鲜": {
+  "mod": "Jeonju, South Korea",
+  "n": {
+   "全州": "Jeonju"
+  }
+ },
+ "八莫": {
+  "mod": "Bhamo, Myanmar",
+  "n": {
+   "八莫": "Bhamo"
+  }
+ },
+ "公主岭": {
+  "mod": "Gongzhuling, Jilin",
+  "n": {
+   "公主岭": "Gongzhuling"
+  }
+ },
+ "公安": {
+  "mod": "Gong'an, Hubei",
+  "n": {
+   "公安": "Gong'an"
+  }
+ },
+ "六安": {
+  "mod": "Lu'an, Anhui",
+  "n": {
+   "六安": "Lu'an"
+  }
+ },
+ "兰契": {
+  "mod": "Ranchi, India",
+  "n": {
+   "兰契": "Ranchi"
+  }
+ },
+ "兰封": {
+  "mod": "Lankao, Henan",
+  "n": {
+   "兰封": "Lanfeng"
+  }
+ },
+ "兰州": {
+  "mod": "Lanzhou, Gansu",
+  "n": {
+   "兰州": "Lanzhou"
+  }
+ },
+ "共和": {
+  "mod": "Gonghe, Qinghai (Qabqa)",
+  "n": {
+   "共和": "Gonghe"
+  }
+ },
+ "共青城": {
+  "mod": "Komsomolsk-on-Amur, Russia",
+  "n": {
+   "共青城": "Komsomolsk",
+   "彼尔姆斯科耶": "Permskoye"
+  }
+ },
+ "关丹": {
+  "mod": "Kuantan, Malaysia",
+  "n": {
+   "关丹": "Kuantan"
+  }
+ },
+ "关岛": {
+  "mod": "Hagåtña, Guam (US)",
+  "n": {
+   "关岛": "Guam",
+   "大宫岛": "Omiya-jima"
+  }
+ },
+ "兴义": {
+  "mod": "Xingyi, Guizhou",
+  "n": {
+   "兴义": "Xingyi"
+  }
+ },
+ "兴南": {
+  "mod": "Hungnam District, Hamhung, North Korea",
+  "n": {
+   "兴南": "Hungnam"
+  }
+ },
+ "兴县": {
+  "mod": "Xingxian, Shanxi",
+  "n": {
+   "兴县": "Xingxian"
+  }
+ },
+ "兴国": {
+  "mod": "Xingguo, Jiangxi",
+  "n": {
+   "兴国": "Xingguo"
+  }
+ },
+ "兴安": {
+  "mod": "Xing'an, Guangxi",
+  "n": {
+   "兴安": "Xing'an"
+  }
+ },
+ "内江": {
+  "mod": "Neijiang, Sichuan",
+  "n": {
+   "内江": "Neijiang"
+  }
+ },
+ "冕宁": {
+  "mod": "Mianning, Sichuan",
+  "n": {
+   "冕宁": "Mianning"
+  }
+ },
+ "农安": {
+  "mod": "Nong'an, Jilin",
+  "n": {
+   "农安": "Nong'an"
+  }
+ },
+ "凌源": {
+  "mod": "Lingyuan, Liaoning",
+  "n": {
+   "凌源": "Lingyuan"
+  }
+ },
+ "凡城": {
+  "mod": "Van, Türkiye",
+  "n": {
+   "凡城": "Van"
+  }
+ },
+ "凤城": {
+  "mod": "Fengcheng, Liaoning",
+  "n": {
+   "凤城": "Fengcheng"
+  }
+ },
+ "凤翔": {
+  "mod": "Fengxiang District, Baoji, Shaanxi",
+  "n": {
+   "凤翔": "Fengxiang"
+  }
+ },
+ "函馆": {
+  "mod": "Hakodate, Japan",
+  "n": {
+   "函馆": "Hakodate"
+  }
+ },
+ "列城": {
+  "mod": "Leh, Indian-controlled Kashmir (Ladakh)",
+  "n": {
+   "列城": "Leh"
+  }
+ },
+ "利雅得": {
+  "mod": "Riyadh, Saudi Arabia",
+  "n": {
+   "利雅得": "Riyadh"
+  }
+ },
+ "剑阁": {
+  "mod": "Jiange, Sichuan",
+  "n": {
+   "剑阁": "Jiange"
+  }
+ },
+ "加兹温": {
+  "mod": "Qazvin, Iran",
+  "n": {
+   "加兹温": "Qazvin"
+  }
+ },
+ "加央": {
+  "mod": "Kangar, Malaysia",
+  "n": {
+   "加央": "Kangar"
+  }
+ },
+ "加尔各答": {
+  "mod": "Kolkata, India",
+  "n": {
+   "加尔各答": "Calcutta"
+  }
+ },
+ "加德满都": {
+  "mod": "Kathmandu, Nepal",
+  "n": {
+   "加德满都": "Kathmandu"
+  }
+ },
+ "加沙": {
+  "mod": "Gaza, Palestine",
+  "n": {
+   "加沙": "Gaza"
+  }
+ },
+ "加迈": {
+  "mod": "Kamaing, Myanmar",
+  "n": {
+   "加迈": "Kamaing"
+  }
+ },
+ "加里波利": {
+  "mod": "Gelibolu, Türkiye",
+  "n": {
+   "加里波利": "Gallipoli"
+  }
+ },
+ "勃固": {
+  "mod": "Bago, Myanmar",
+  "n": {
+   "勃固": "Pegu"
+  }
+ },
+ "勃生": {
+  "mod": "Pathein, Myanmar",
+  "n": {
+   "勃生": "Bassein"
+  }
+ },
+ "勒克瑙": {
+  "mod": "Lucknow, India",
+  "n": {
+   "勒克瑙": "Lucknow"
+  }
+ },
+ "包头": {
+  "mod": "Baotou, Inner Mongolia",
+  "n": {
+   "包头": "Baotou"
+  }
+ },
+ "包考": {
+  "mod": "Baucau, Timor-Leste",
+  "n": {
+   "包考": "Baucau"
+  }
+ },
+ "北京": {
+  "mod": "Beijing",
+  "n": {
+   "北京": "Beijing",
+   "北平": "Beiping"
+  }
+ },
+ "北加浪岸": {
+  "mod": "Pekalongan, Indonesia",
+  "n": {
+   "北加浪岸": "Pekalongan"
+  }
+ },
+ "北大年": {
+  "mod": "Pattani, Thailand",
+  "n": {
+   "北大年": "Pattani"
+  }
+ },
+ "北安": {
+  "mod": "Bei'an, Heilongjiang",
+  "n": {
+   "北安": "Bei'an"
+  }
+ },
+ "北干巴鲁": {
+  "mod": "Pekanbaru, Indonesia",
+  "n": {
+   "北干巴鲁": "Pekanbaru"
+  }
+ },
+ "北拉金普尔": {
+  "mod": "North Lakhimpur, India",
+  "n": {
+   "北拉金普尔": "North Lakhimpur"
+  }
+ },
+ "北海": {
+  "mod": "Beihai, Guangxi",
+  "n": {
+   "北海": "Beihai"
+  }
+ },
+ "北碧": {
+  "mod": "Kanchanaburi, Thailand",
+  "n": {
+   "北碧": "Kanchanaburi"
+  }
+ },
+ "华川": {
+  "mod": "Hwacheon, South Korea",
+  "n": {
+   "华川": "Hwacheon"
+  }
+ },
+ "卑谬": {
+  "mod": "Pyay, Myanmar",
+  "n": {
+   "卑谬": "Prome"
+  }
+ },
+ "卓克基": {
+  "mod": "Zhuokeji, Barkam, Sichuan",
+  "n": {
+   "卓克基": "Zhuokeji"
+  }
+ },
+ "南丰": {
+  "mod": "Nanfeng, Jiangxi",
+  "n": {
+   "南丰": "Nanfeng"
+  }
+ },
+ "南京": {
+  "mod": "Nanjing, Jiangsu",
+  "n": {
+   "南京": "Nanjing"
+  }
+ },
+ "南充": {
+  "mod": "Nanchong, Sichuan",
+  "n": {
+   "南充": "Nanchong",
+   "顺庆": "Shunqing"
+  }
+ },
+ "南坎": {
+  "mod": "Namhkam, Shan State, Myanmar",
+  "n": {
+   "南坎": "Namhkam"
+  }
+ },
+ "南塔": {
+  "mod": "Luang Namtha, Laos",
+  "n": {
+   "南塔": "Namtha"
+  }
+ },
+ "南宁": {
+  "mod": "Nanning, Guangxi",
+  "n": {
+   "南宁": "Nanning"
+  }
+ },
+ "南定": {
+  "mod": "Nam Định, Vietnam",
+  "n": {
+   "南定": "Nam Định"
+  }
+ },
+ "南宫": {
+  "mod": "Nangong, Hebei",
+  "n": {
+   "南宫": "Nangong"
+  }
+ },
+ "南平": {
+  "mod": "Nanping, Fujian",
+  "n": {
+   "南平": "Nanping"
+  }
+ },
+ "南戈壁": {
+  "mod": "Dalanzadgad, Ömnögovi Province, Mongolia",
+  "n": {
+   "南戈壁": "Ömnögovi"
+  }
+ },
+ "南旺": {
+  "mod": "Rembang, Indonesia",
+  "n": {
+   "南旺": "Rembang"
+  }
+ },
+ "南昌": {
+  "mod": "Nanchang, Jiangxi",
+  "n": {
+   "南昌": "Nanchang"
+  }
+ },
+ "南江": {
+  "mod": "Nanjiang, Sichuan",
+  "n": {
+   "南江": "Nanjiang"
+  }
+ },
+ "南通": {
+  "mod": "Nantong, Jiangsu",
+  "n": {
+   "南通": "Nantong"
+  }
+ },
+ "南阳": {
+  "mod": "Nanyang, Henan",
+  "n": {
+   "南阳": "Nanyang"
+  }
+ },
+ "南雄": {
+  "mod": "Nanxiong, Guangdong",
+  "n": {
+   "南雄": "Nanxiong"
+  }
+ },
+ "南麂": {
+  "mod": "Nanji Islands, Pingyang, Zhejiang",
+  "n": {
+   "南麂": "Nanji"
+  }
+ },
+ "博代博": {
+  "mod": "Bodaybo, Russia (Lena goldfields)",
+  "n": {
+   "博代博": "Bodaybo"
+  }
+ },
+ "博尔贾": {
+  "mod": "Borzya, Zabaykalsky Krai, Russia",
+  "n": {
+   "博尔贾": "Borzya"
+  }
+ },
+ "博山": {
+  "mod": "Boshan District, Zibo, Shandong",
+  "n": {
+   "博山": "Boshan"
+  }
+ },
+ "占守岛": {
+  "mod": "Shumshu, Kuril Islands, Russia",
+  "n": {
+   "占守岛": "Shimushu"
+  }
+ },
+ "占巴塞": {
+  "mod": "Champasak, Laos (west bank of the Mekong)",
+  "n": {
+   "占巴塞": "Champassak"
+  }
+ },
+ "占碑": {
+  "mod": "Jambi, Indonesia",
+  "n": {
+   "占碑": "Jambi"
+  }
+ },
+ "卡利卡特": {
+  "mod": "Kozhikode, India",
+  "n": {
+   "卡利卡特": "Calicut"
+  }
+ },
+ "卡加延德奥罗": {
+  "mod": "Cagayan de Oro, Philippines",
+  "n": {
+   "卡加延德奥罗": "Cagayan de Oro"
+  }
+ },
+ "卡吉尔": {
+  "mod": "Kargil, Indian-controlled Kashmir",
+  "n": {
+   "卡吉尔": "Kargil"
+  }
+ },
+ "卡尔斯": {
+  "mod": "Kars, Türkiye",
+  "n": {
+   "卡尔斯": "Kars"
+  }
+ },
+ "卡巴洛甘": {
+  "mod": "Catbalogan, Samar, Philippines",
+  "n": {
+   "卡巴洛甘": "Catbalogan"
+  }
+ },
+ "卡拉克": {
+  "mod": "Kerak, Jordan",
+  "n": {
+   "卡拉克": "Kerak"
+  }
+ },
+ "卡拉奇": {
+  "mod": "Karachi, Pakistan",
+  "n": {
+   "卡拉奇": "Karachi"
+  }
+ },
+ "卡拉特": {
+  "mod": "Kalat, Pakistan",
+  "n": {
+   "卡拉特": "Kalat"
+  }
+ },
+ "卡斯塔莫努": {
+  "mod": "Kastamonu, Türkiye",
+  "n": {
+   "卡斯塔莫努": "Kastamonu"
+  }
+ },
+ "卡维恩": {
+  "mod": "Kavieng, Papua New Guinea",
+  "n": {
+   "卡维恩": "Kavieng"
+  }
+ },
+ "卢氏": {
+  "mod": "Lushi, Henan",
+  "n": {
+   "卢氏": "Lushi"
+  }
+ },
+ "印多尔": {
+  "mod": "Indore, India",
+  "n": {
+   "印多尔": "Indore"
+  }
+ },
+ "印江": {
+  "mod": "Yinjiang, Guizhou",
+  "n": {
+   "印江": "Yinjiang"
+  }
+ },
+ "原州": {
+  "mod": "Wonju, South Korea",
+  "n": {
+   "原州": "Wonju"
+  }
+ },
+ "厦门": {
+  "mod": "Xiamen, Fujian",
+  "n": {
+   "厦门": "Xiamen"
+  }
+ },
+ "双城子": {
+  "mod": "Ussuriysk, Russia",
+  "n": {
+   "伏罗希洛夫": "Voroshilov",
+   "双城子": "Nikolsk-Ussuriysky",
+   "尼科利斯克-乌苏里斯基": "Nikolsk-Ussuriysky"
+  }
+ },
+ "叙永": {
+  "mod": "Xuyong, Sichuan",
+  "n": {
+   "叙永": "Xuyong"
+  }
+ },
+ "古晋": {
+  "mod": "Kuching, Malaysia",
+  "n": {
+   "古晋": "Kuching"
+  }
+ },
+ "古浪": {
+  "mod": "Gulang, Gansu",
+  "n": {
+   "古浪": "Gulang"
+  }
+ },
+ "古蔺": {
+  "mod": "Gulin, Sichuan",
+  "n": {
+   "古蔺": "Gulin"
+  }
+ },
+ "古邦": {
+  "mod": "Kupang, Indonesia",
+  "n": {
+   "古邦": "Kupang"
+  }
+ },
+ "古里耶夫": {
+  "mod": "Atyrau, Kazakhstan",
+  "n": {
+   "古里耶夫": "Guryev"
+  }
+ },
+ "句容": {
+  "mod": "Jurong, Jiangsu",
+  "n": {
+   "句容": "Jurong"
+  }
+ },
+ "台东": {
+  "mod": "Taitung, Taiwan",
+  "n": {
+   "台东": "Taitung"
+  }
+ },
+ "台中": {
+  "mod": "Taichung, Taiwan",
+  "n": {
+   "台中": "Taichung"
+  }
+ },
+ "台儿庄": {
+  "mod": "Tai'erzhuang District, Zaozhuang, Shandong",
+  "n": {
+   "台儿庄": "Tai'erzhuang"
+  }
+ },
+ "台北": {
+  "mod": "Taipei, Taiwan",
+  "n": {
+   "台北": "Taipei"
+  }
+ },
+ "台南": {
+  "mod": "Tainan, Taiwan",
+  "n": {
+   "台南": "Tainan"
+  }
+ },
+ "叶卡捷琳堡": {
+  "mod": "Yekaterinburg, Russia",
+  "n": {
+   "叶卡捷琳堡": "Yekaterinburg",
+   "斯维尔德洛夫斯克": "Sverdlovsk"
+  }
+ },
+ "叶尼塞斯克": {
+  "mod": "Yeniseysk, Russia",
+  "n": {
+   "叶尼塞斯克": "Yeniseysk"
+  }
+ },
+ "合川": {
+  "mod": "Hechuan, Chongqing",
+  "n": {
+   "合川": "Hechuan"
+  }
+ },
+ "合浦": {
+  "mod": "Hepu, Guangxi",
+  "n": {
+   "合浦": "Hepu"
+  }
+ },
+ "合肥": {
+  "mod": "Hefei, Anhui",
+  "n": {
+   "合肥": "Hefei"
+  }
+ },
+ "吉县": {
+  "mod": "Jixian, Shanxi",
+  "n": {
+   "吉县": "Jixian"
+  }
+ },
+ "吉大港": {
+  "mod": "Chattogram, Bangladesh",
+  "n": {
+   "吉大港": "Chittagong"
+  }
+ },
+ "吉安": {
+  "mod": "Ji'an, Jiangxi",
+  "n": {
+   "吉安": "Ji'an"
+  }
+ },
+ "吉尔吉特": {
+  "mod": "Gilgit, Pakistani-controlled Kashmir",
+  "n": {
+   "吉尔吉特": "Gilgit"
+  }
+ },
+ "吉德拉尔": {
+  "mod": "Chitral, Pakistan",
+  "n": {
+   "吉德拉尔": "Chitral"
+  }
+ },
+ "吉林": {
+  "mod": "Jilin, Jilin",
+  "n": {
+   "吉林": "Jilin"
+  }
+ },
+ "吉达": {
+  "mod": "Jeddah, Saudi Arabia",
+  "n": {
+   "吉达": "Jeddah"
+  }
+ },
+ "吉隆坡": {
+  "mod": "Kuala Lumpur, Malaysia",
+  "n": {
+   "吉隆坡": "Kuala Lumpur"
+  }
+ },
+ "同仁": {
+  "mod": "Tongren, Qinghai",
+  "n": {
+   "同仁": "Tongren"
+  }
+ },
+ "同古": {
+  "mod": "Taungoo, Myanmar",
+  "n": {
+   "同古": "Toungoo"
+  }
+ },
+ "同心城": {
+  "mod": "Tongxin, Ningxia",
+  "n": {
+   "同心城": "Tongxincheng"
+  }
+ },
+ "同江": {
+  "mod": "Tongjiang, Heilongjiang",
+  "n": {
+   "同江": "Tongjiang"
+  }
+ },
+ "名古屋": {
+  "mod": "Nagoya, Japan",
+  "n": {
+   "名古屋": "Nagoya"
+  }
+ },
+ "吐噶喇": {
+  "mod": "Toshima Village, Kagoshima, Japan (Tokara Islands)",
+  "n": {
+   "吐噶喇": "Tokara"
+  }
+ },
+ "吐鲁番": {
+  "mod": "Turpan, Xinjiang",
+  "n": {
+   "吐鲁番": "Turpan"
+  }
+ },
+ "吴起镇": {
+  "mod": "Wuqi, Shaanxi",
+  "n": {
+   "吴起镇": "Wuqizhen"
+  }
+ },
+ "周口": {
+  "mod": "Zhoukou, Henan",
+  "n": {
+   "周口": "Zhoukou"
+  }
+ },
+ "呵叻": {
+  "mod": "Nakhon Ratchasima, Thailand",
+  "n": {
+   "呵叻": "Khorat"
+  }
+ },
+ "呼玛": {
+  "mod": "Huma, Heilongjiang",
+  "n": {
+   "呼玛": "Huma"
+  }
+ },
+ "和乐": {
+  "mod": "Jolo, Sulu, Philippines",
+  "n": {
+   "和乐": "Jolo"
+  }
+ },
+ "和平": {
+  "mod": "Hòa Bình, Vietnam",
+  "n": {
+   "和平": "Hòa Bình"
+  }
+ },
+ "和田": {
+  "mod": "Hotan, Xinjiang",
+  "n": {
+   "和田": "Hotan",
+   "和阗": "Hotan"
+  }
+ },
+ "咸兴": {
+  "mod": "Hamhung, North Korea",
+  "n": {
+   "咸兴": "Hamhung"
+  }
+ },
+ "咸宁": {
+  "mod": "Xianning, Hubei",
+  "n": {
+   "咸宁": "Xianning"
+  }
+ },
+ "咸阳": {
+  "mod": "Xianyang, Shaanxi",
+  "n": {
+   "咸阳": "Xianyang"
+  }
+ },
+ "哈伊勒": {
+  "mod": "Ha'il, Saudi Arabia",
+  "n": {
+   "哈伊勒": "Ha'il"
+  }
+ },
+ "哈卡": {
+  "mod": "Hakha, Chin State, Myanmar",
+  "n": {
+   "哈卡": "Haka"
+  }
+ },
+ "哈卡里": {
+  "mod": "Hakkâri, Türkiye",
+  "n": {
+   "哈卡里": "Hakkâri"
+  }
+ },
+ "哈坦加": {
+  "mod": "Khatanga, Russia",
+  "n": {
+   "哈坦加": "Khatanga"
+  }
+ },
+ "哈密": {
+  "mod": "Hami, Xinjiang",
+  "n": {
+   "哈密": "Hami"
+  }
+ },
+ "哈尔普特": {
+  "mod": "Harput, Elazığ, Türkiye",
+  "n": {
+   "哈尔普特": "Harput"
+  }
+ },
+ "哈尔滨": {
+  "mod": "Harbin, Heilongjiang",
+  "n": {
+   "哈尔滨": "Harbin"
+  }
+ },
+ "哈巴罗夫斯克": {
+  "mod": "Khabarovsk, Russia (Boli)",
+  "n": {
+   "哈巴罗夫斯克": "Khabarovsk"
+  }
+ },
+ "哈达铺": {
+  "mod": "Hadapu, Tanchang, Gansu",
+  "n": {
+   "哈达铺": "Hadapu"
+  }
+ },
+ "哈马丹": {
+  "mod": "Hamadan, Iran",
+  "n": {
+   "哈马丹": "Hamadan"
+  }
+ },
+ "哥伦打洛": {
+  "mod": "Gorontalo, Indonesia",
+  "n": {
+   "哥伦打洛": "Gorontalo"
+  }
+ },
+ "哥打巴鲁": {
+  "mod": "Kota Bharu, Malaysia",
+  "n": {
+   "哥打巴鲁": "Kota Bharu"
+  }
+ },
+ "哲斯顿": {
+  "mod": "Kota Kinabalu, Malaysia",
+  "n": {
+   "哲斯顿": "Jesselton"
+  }
+ },
+ "唐山": {
+  "mod": "Tangshan, Hebei",
+  "n": {
+   "唐山": "Tangshan"
+  }
+ },
+ "商丘": {
+  "mod": "Shangqiu, Henan",
+  "n": {
+   "商丘": "Shangqiu",
+   "归德": "Guide"
+  }
+ },
+ "商县": {
+  "mod": "Shangzhou District, Shangluo, Shaanxi",
+  "n": {
+   "商县": "Shangxian"
+  }
+ },
+ "商城": {
+  "mod": "Shangcheng, Henan",
+  "n": {
+   "商城": "Shangcheng"
+  }
+ },
+ "商都": {
+  "mod": "Shangdu, Inner Mongolia",
+  "n": {
+   "商都": "Shangdu"
+  }
+ },
+ "喀什": {
+  "mod": "Kashi, Xinjiang",
+  "n": {
+   "喀什": "Kashi"
+  }
+ },
+ "喀布尔": {
+  "mod": "Kabul, Afghanistan",
+  "n": {
+   "喀布尔": "Kabul"
+  }
+ },
+ "嘉义": {
+  "mod": "Chiayi, Taiwan",
+  "n": {
+   "嘉义": "Chiayi"
+  }
+ },
+ "嘉兴": {
+  "mod": "Jiaxing, Zhejiang",
+  "n": {
+   "嘉兴": "Jiaxing"
+  }
+ },
+ "噶大克": {
+  "mod": "Gar, Xizang",
+  "n": {
+   "噶大克": "Gartok"
+  }
+ },
+ "四平": {
+  "mod": "Siping, Jilin",
+  "n": {
+   "四平": "Siping"
+  }
+ },
+ "围场": {
+  "mod": "Weichang, Hebei",
+  "n": {
+   "围场": "Weichang"
+  }
+ },
+ "固原": {
+  "mod": "Guyuan, Ningxia",
+  "n": {
+   "固原": "Guyuan"
+  }
+ },
+ "固始": {
+  "mod": "Gushi, Henan",
+  "n": {
+   "固始": "Gushi"
+  }
+ },
+ "国后岛": {
+  "mod": "Kunashir, Kuril Islands, Russia",
+  "n": {
+   "国后岛": "Kunashiri"
+  }
+ },
+ "图尔": {
+  "mod": "El Tor, Egypt",
+  "n": {
+   "图尔": "El Tor"
+  }
+ },
+ "图尔特库尔": {
+  "mod": "Turtkul, Karakalpakstan, Uzbekistan",
+  "n": {
+   "图尔特库尔": "Turtkul"
+  }
+ },
+ "图尔盖": {
+  "mod": "Torgay, Kazakhstan",
+  "n": {
+   "图尔盖": "Turgay"
+  }
+ },
+ "图拉吉": {
+  "mod": "Tulagi, Solomon Islands",
+  "n": {
+   "图拉吉": "Tulagi"
+  }
+ },
+ "图拉巴": {
+  "mod": "Turabah, Saudi Arabia",
+  "n": {
+   "图拉巴": "Turabah"
+  }
+ },
+ "图鲁汉斯克": {
+  "mod": "Turukhansk, Russia",
+  "n": {
+   "图鲁汉斯克": "Turukhansk"
+  }
+ },
+ "土伦": {
+  "mod": "Đà Nẵng, Vietnam",
+  "n": {
+   "土伦": "Tourane"
+  }
+ },
+ "土瓦": {
+  "mod": "Dawei, Myanmar",
+  "n": {
+   "土瓦": "Tavoy"
+  }
+ },
+ "坎塔拉东": {
+  "mod": "East Qantara, Egypt (east bank of the Suez Canal)",
+  "n": {
+   "坎塔拉东": "East Qantara"
+  }
+ },
+ "坎大哈": {
+  "mod": "Kandahar, Afghanistan",
+  "n": {
+   "坎大哈": "Kandahar"
+  }
+ },
+ "坤甸": {
+  "mod": "Pontianak, Indonesia",
+  "n": {
+   "坤甸": "Pontianak"
+  }
+ },
+ "垒固": {
+  "mod": "Loikaw, Kayah State, Myanmar",
+  "n": {
+   "垒固": "Loikaw"
+  }
+ },
+ "垣曲": {
+  "mod": "Yuanqu, Shanxi",
+  "n": {
+   "垣曲": "Yuanqu"
+  }
+ },
+ "埃尔津詹": {
+  "mod": "Erzincan, Türkiye",
+  "n": {
+   "埃尔津詹": "Erzincan"
+  }
+ },
+ "埃尔祖鲁姆": {
+  "mod": "Erzurum, Türkiye",
+  "n": {
+   "埃尔祖鲁姆": "Erzurum"
+  }
+ },
+ "埃拉特": {
+  "mod": "Eilat, Israel (Umm al-Rashrash)",
+  "n": {
+   "埃拉特": "Eilat"
+  }
+ },
+ "埃斯基谢希尔": {
+  "mod": "Eskişehir, Türkiye",
+  "n": {
+   "埃斯基谢希尔": "Eskişehir"
+  }
+ },
+ "埃迪尔内": {
+  "mod": "Edirne, Türkiye (Adrianople)",
+  "n": {
+   "埃迪尔内": "Edirne"
+  }
+ },
+ "埃里温": {
+  "mod": "Yerevan, Armenia",
+  "n": {
+   "埃里温": "Erivan"
+  }
+ },
+ "城津": {
+  "mod": "Kimchaek, North Korea",
+  "n": {
+   "城津": "Songjin"
+  }
+ },
+ "基尔库克": {
+  "mod": "Kirkuk, Iraq",
+  "n": {
+   "基尔库克": "Kirkuk"
+  }
+ },
+ "基廉斯克": {
+  "mod": "Kirensk, Russia",
+  "n": {
+   "基廉斯克": "Kirensk"
+  }
+ },
+ "基斯卡岛": {
+  "mod": "Kiska Island, Alaska, United States",
+  "n": {
+   "基斯卡岛": "Kiska"
+  }
+ },
+ "基隆": {
+  "mod": "Keelung, Taiwan",
+  "n": {
+   "基隆": "Keelung"
+  }
+ },
+ "堤川": {
+  "mod": "Jecheon, South Korea",
+  "n": {
+   "堤川": "Jecheon"
+  }
+ },
+ "塔什干": {
+  "mod": "Tashkent, Uzbekistan",
+  "n": {
+   "塔什干": "Tashkent"
+  }
+ },
+ "塔伊兹": {
+  "mod": "Taiz, Yemen",
+  "n": {
+   "塔伊兹": "Taiz"
+  }
+ },
+ "塔克洛班": {
+  "mod": "Tacloban, Leyte, Philippines",
+  "n": {
+   "塔克洛班": "Tacloban"
+  }
+ },
+ "塔城": {
+  "mod": "Tacheng, Xinjiang",
+  "n": {
+   "塔城": "Tacheng"
+  }
+ },
+ "塔布克": {
+  "mod": "Tabuk, Saudi Arabia",
+  "n": {
+   "塔布克": "Tabuk"
+  }
+ },
+ "塔拉瓦": {
+  "mod": "Tarawa, Kiribati",
+  "n": {
+   "塔拉瓦": "Tarawa"
+  }
+ },
+ "塔绍古兹": {
+  "mod": "Daşoguz, Turkmenistan",
+  "n": {
+   "塔绍古兹": "Tashauz"
+  }
+ },
+ "塞拉莱": {
+  "mod": "Salalah, Oman (Dhofar)",
+  "n": {
+   "塞拉莱": "Salalah"
+  }
+ },
+ "塞班": {
+  "mod": "Saipan, Northern Mariana Islands",
+  "n": {
+   "塞班": "Saipan"
+  }
+ },
+ "塞米巴拉金斯克": {
+  "mod": "Semey, Kazakhstan",
+  "n": {
+   "塞米巴拉金斯克": "Semipalatinsk"
+  }
+ },
+ "士麦那": {
+  "mod": "İzmir, Türkiye",
+  "n": {
+   "伊兹密尔": "İzmir",
+   "士麦那": "Smyrna"
+  }
+ },
+ "夏河": {
+  "mod": "Labrang, Xiahe, Gansu",
+  "n": {
+   "夏河": "Xiahe",
+   "拉卜楞": "Labrang"
+  }
+ },
+ "外南梦": {
+  "mod": "Banyuwangi, Indonesia",
+  "n": {
+   "外南梦": "Banyuwangi"
+  }
+ },
+ "多伦": {
+  "mod": "Duolun, Inner Mongolia",
+  "n": {
+   "多伦": "Duolun"
+  }
+ },
+ "多哈": {
+  "mod": "Doha, Qatar",
+  "n": {
+   "多哈": "Doha"
+  }
+ },
+ "大不里士": {
+  "mod": "Tabriz, Iran",
+  "n": {
+   "大不里士": "Tabriz"
+  }
+ },
+ "大冶": {
+  "mod": "Daye, Hubei",
+  "n": {
+   "大冶": "Daye"
+  }
+ },
+ "大叻": {
+  "mod": "Đà Lạt, Vietnam",
+  "n": {
+   "大叻": "Đà Lạt"
+  }
+ },
+ "大吉岭": {
+  "mod": "Darjeeling, India",
+  "n": {
+   "大吉岭": "Darjeeling"
+  }
+ },
+ "大同": {
+  "mod": "Datong, Shanxi",
+  "n": {
+   "大同": "Datong"
+  }
+ },
+ "大名": {
+  "mod": "Daming, Hebei",
+  "n": {
+   "大名": "Daming"
+  }
+ },
+ "大城": {
+  "mod": "Ayutthaya, Thailand",
+  "n": {
+   "大城": "Ayutthaya"
+  }
+ },
+ "大庸": {
+  "mod": "Yongding District, Zhangjiajie, Hunan",
+  "n": {
+   "大庸": "Dayong"
+  }
+ },
+ "大庾": {
+  "mod": "Dayu, Jiangxi",
+  "n": {
+   "大庾": "Dayu"
+  }
+ },
+ "大泊": {
+  "mod": "Korsakov, Russia",
+  "n": {
+   "大泊": "Odomari",
+   "科尔萨科夫": "Korsakov"
+  }
+ },
+ "大洋岛": {
+  "mod": "Banaba Island, Kiribati",
+  "n": {
+   "大洋岛": "Ocean Island"
+  }
+ },
+ "大理": {
+  "mod": "Dali, Yunnan",
+  "n": {
+   "大理": "Dali"
+  }
+ },
+ "大田": {
+  "mod": "Daejeon, South Korea",
+  "n": {
+   "大田": "Daejeon"
+  }
+ },
+ "大荔": {
+  "mod": "Dali, Shaanxi",
+  "n": {
+   "大荔": "Dali"
+  }
+ },
+ "大连": {
+  "mod": "Dalian, Liaoning",
+  "n": {
+   "大连": "Dalian"
+  }
+ },
+ "大通": {
+  "mod": "Datong, Qinghai",
+  "n": {
+   "大通": "Datong"
+  }
+ },
+ "大邱": {
+  "mod": "Daegu, South Korea",
+  "n": {
+   "大邱": "Daegu"
+  }
+ },
+ "大阪": {
+  "mod": "Osaka, Japan",
+  "n": {
+   "大阪": "Osaka"
+  }
+ },
+ "大马士革": {
+  "mod": "Damascus, Syria",
+  "n": {
+   "大马士革": "Damascus"
+  }
+ },
+ "天全": {
+  "mod": "Tianquan, Sichuan",
+  "n": {
+   "天全": "Tianquan"
+  }
+ },
+ "天宁": {
+  "mod": "Tinian, Northern Mariana Islands",
+  "n": {
+   "天宁": "Tinian"
+  }
+ },
+ "天水": {
+  "mod": "Tianshui, Gansu",
+  "n": {
+   "天水": "Tianshui"
+  }
+ },
+ "天津": {
+  "mod": "Tianjin",
+  "n": {
+   "天津": "Tianjin"
+  }
+ },
+ "天门": {
+  "mod": "Tianmen, Hubei",
+  "n": {
+   "天门": "Tianmen"
+  }
+ },
+ "太原": {
+  "mod": "Taiyuan, Shanxi",
+  "n": {
+   "太原": "Taiyuan"
+  }
+ },
+ "太原·越": {
+  "mod": "Thái Nguyên, Vietnam",
+  "n": {
+   "太原": "Thái Nguyên"
+  }
+ },
+ "头顿": {
+  "mod": "Vũng Tàu, Vietnam",
+  "n": {
+   "头顿": "Vũng Tàu"
+  }
+ },
+ "夸贾林": {
+  "mod": "Kwajalein, Marshall Islands",
+  "n": {
+   "夸贾林": "Kwajalein"
+  }
+ },
+ "奄美": {
+  "mod": "Naze, Amami, Kagoshima, Japan",
+  "n": {
+   "奄美": "Amami"
+  }
+ },
+ "奇台": {
+  "mod": "Qitai, Xinjiang",
+  "n": {
+   "奇台": "Qitai"
+  }
+ },
+ "奇姆肯特": {
+  "mod": "Shymkent, Kazakhstan",
+  "n": {
+   "奇姆肯特": "Chimkent"
+  }
+ },
+ "奈季兰": {
+  "mod": "Najran, Saudi Arabia",
+  "n": {
+   "奈季兰": "Najran"
+  }
+ },
+ "奉化": {
+  "mod": "Fenghua District, Ningbo, Zhejiang",
+  "n": {
+   "奉化": "Fenghua"
+  }
+ },
+ "奉节": {
+  "mod": "Fengjie, Chongqing",
+  "n": {
+   "奉节": "Fengjie"
+  }
+ },
+ "奎达": {
+  "mod": "Quetta, Pakistan",
+  "n": {
+   "奎达": "Quetta"
+  }
+ },
+ "奠边府": {
+  "mod": "Điện Biên Phủ, Vietnam",
+  "n": {
+   "奠边府": "Điện Biên Phủ"
+  }
+ },
+ "奥什": {
+  "mod": "Osh, Kyrgyzstan",
+  "n": {
+   "奥什": "Osh"
+  }
+ },
+ "奥伊米亚康": {
+  "mod": "Oymyakon, Russia",
+  "n": {
+   "奥伊米亚康": "Oymyakon"
+  }
+ },
+ "奥兰加巴德": {
+  "mod": "Aurangabad, India",
+  "n": {
+   "奥兰加巴德": "Aurangabad"
+  }
+ },
+ "奥哈": {
+  "mod": "Okha, Russia",
+  "n": {
+   "奥哈": "Okha"
+  }
+ },
+ "奥尔加": {
+  "mod": "Olga, Primorsky Krai, Russia",
+  "n": {
+   "奥尔加": "Olga"
+  }
+ },
+ "奥廖克明斯克": {
+  "mod": "Olyokminsk, Russia",
+  "n": {
+   "奥廖克明斯克": "Olyokminsk"
+  }
+ },
+ "如皋": {
+  "mod": "Rugao, Jiangsu",
+  "n": {
+   "如皋": "Rugao"
+  }
+ },
+ "威克": {
+  "mod": "Wake Island (US)",
+  "n": {
+   "大鸟岛": "Otori-shima",
+   "威克": "Wake",
+   "威克岛": "Wake Island"
+  }
+ },
+ "威宁": {
+  "mod": "Weining, Guizhou",
+  "n": {
+   "威宁": "Weining"
+  }
+ },
+ "威海": {
+  "mod": "Weihai, Shandong",
+  "n": {
+   "威海": "Weihai",
+   "威海卫": "Weihaiwei"
+  }
+ },
+ "婺源": {
+  "mod": "Wuyuan, Jiangxi",
+  "n": {
+   "婺源": "Wuyuan"
+  }
+ },
+ "嫩江": {
+  "mod": "Nenjiang, Heilongjiang",
+  "n": {
+   "嫩江": "Nenjiang"
+  }
+ },
+ "孝感": {
+  "mod": "Xiaogan, Hubei",
+  "n": {
+   "孝感": "Xiaogan"
+  }
+ },
+ "孟买": {
+  "mod": "Mumbai, India",
+  "n": {
+   "孟买": "Bombay"
+  }
+ },
+ "孟拱": {
+  "mod": "Mogaung, Myanmar",
+  "n": {
+   "孟拱": "Mogaung"
+  }
+ },
+ "孟板": {
+  "mod": "Mong Pan, Shan State, Myanmar",
+  "n": {
+   "孟板": "Mong Pan"
+  }
+ },
+ "孟萨": {
+  "mod": "Mong Hsat, Shan State, Myanmar",
+  "n": {
+   "孟萨": "Mong Hsat"
+  }
+ },
+ "孟都": {
+  "mod": "Maungdaw, Rakhine State, Myanmar",
+  "n": {
+   "孟都": "Maungdaw"
+  }
+ },
+ "宁冈": {
+  "mod": "Jinggangshan City, Jiangxi (formerly Ninggang)",
+  "n": {
+   "宁冈": "Ninggang"
+  }
+ },
+ "宁化": {
+  "mod": "Ninghua, Fujian",
+  "n": {
+   "宁化": "Ninghua"
+  }
+ },
+ "宁夏": {
+  "mod": "Yinchuan, Ningxia",
+  "n": {
+   "宁夏": "Ningxia"
+  }
+ },
+ "宁德": {
+  "mod": "Ningde, Fujian",
+  "n": {
+   "宁德": "Ningde"
+  }
+ },
+ "宁武": {
+  "mod": "Ningwu, Shanxi",
+  "n": {
+   "宁武": "Ningwu"
+  }
+ },
+ "宁波": {
+  "mod": "Ningbo, Zhejiang",
+  "n": {
+   "宁波": "Ningbo"
+  }
+ },
+ "宁羌": {
+  "mod": "Ningqiang, Shaanxi",
+  "n": {
+   "宁羌": "Ningqiang"
+  }
+ },
+ "宁越": {
+  "mod": "Yeongwol, South Korea",
+  "n": {
+   "宁越": "Yeongwol"
+  }
+ },
+ "宁都": {
+  "mod": "Ningdu, Jiangxi",
+  "n": {
+   "宁都": "Ningdu"
+  }
+ },
+ "安东": {
+  "mod": "Dandong, Liaoning",
+  "n": {
+   "安东": "Andong"
+  }
+ },
+ "安东·朝鲜": {
+  "mod": "Andong, South Korea",
+  "n": {
+   "安东": "Andong"
+  }
+ },
+ "安卡拉": {
+  "mod": "Ankara, Türkiye",
+  "n": {
+   "安卡拉": "Ankara"
+  }
+ },
+ "安国": {
+  "mod": "Anguo, Hebei",
+  "n": {
+   "安国": "Anguo"
+  }
+ },
+ "安塔利亚": {
+  "mod": "Antalya, Türkiye",
+  "n": {
+   "安塔利亚": "Antalya"
+  }
+ },
+ "安州": {
+  "mod": "Anju, North Korea (mouth of the Chongchon River)",
+  "n": {
+   "安州": "Anju"
+  }
+ },
+ "安庆": {
+  "mod": "Anqing, Anhui",
+  "n": {
+   "安庆": "Anqing"
+  }
+ },
+ "安康": {
+  "mod": "Ankang, Shaanxi",
+  "n": {
+   "安康": "Ankang"
+  }
+ },
+ "安曼": {
+  "mod": "Amman, Jordan",
+  "n": {
+   "安曼": "Amman"
+  }
+ },
+ "安条克": {
+  "mod": "Antakya, Türkiye",
+  "n": {
+   "安条克": "Antioch"
+  }
+ },
+ "安汶": {
+  "mod": "Ambon, Indonesia",
+  "n": {
+   "安汶": "Ambon"
+  }
+ },
+ "安泰普": {
+  "mod": "Gaziantep, Türkiye",
+  "n": {
+   "安泰普": "Aintab"
+  }
+ },
+ "安西": {
+  "mod": "Guazhou, Gansu",
+  "n": {
+   "安西": "Anxi"
+  }
+ },
+ "安阳": {
+  "mod": "Anyang, Henan",
+  "n": {
+   "安阳": "Anyang",
+   "彰德": "Zhangde"
+  }
+ },
+ "安顺": {
+  "mod": "Anshun, Guizhou",
+  "n": {
+   "安顺": "Anshun"
+  }
+ },
+ "宋卡": {
+  "mod": "Songkhla, Thailand",
+  "n": {
+   "宋卡": "Singora"
+  }
+ },
+ "定州": {
+  "mod": "Chongju, North Korea",
+  "n": {
+   "定州": "Chongju"
+  }
+ },
+ "定日": {
+  "mod": "Tingri, Xizang",
+  "n": {
+   "定日": "Tingri"
+  }
+ },
+ "定海": {
+  "mod": "Dinghai District, Zhoushan, Zhejiang",
+  "n": {
+   "定海": "Dinghai"
+  }
+ },
+ "定边": {
+  "mod": "Dingbian, Shaanxi",
+  "n": {
+   "定边": "Dingbian"
+  }
+ },
+ "定远": {
+  "mod": "Dingyuan, Anhui",
+  "n": {
+   "定远": "Dingyuan"
+  }
+ },
+ "定远营": {
+  "mod": "Bayanhot, Alxa Left Banner, Inner Mongolia",
+  "n": {
+   "定远营": "Dingyuanying"
+  }
+ },
+ "宛平": {
+  "mod": "Wanping Fortress, Fengtai, Beijing (Lugou Bridge)",
+  "n": {
+   "宛平": "Wanping"
+  }
+ },
+ "宜兰": {
+  "mod": "Yilan, Taiwan",
+  "n": {
+   "宜兰": "Yilan"
+  }
+ },
+ "宜力": {
+  "mod": "Gerik, Perak, Malaysia",
+  "n": {
+   "宜力": "Grik"
+  }
+ },
+ "宜城": {
+  "mod": "Yicheng, Hubei",
+  "n": {
+   "宜城": "Yicheng"
+  }
+ },
+ "宜宾": {
+  "mod": "Yibin, Sichuan",
+  "n": {
+   "宜宾": "Yibin"
+  }
+ },
+ "宜山": {
+  "mod": "Yizhou District, Hechi, Guangxi",
+  "n": {
+   "宜山": "Yishan"
+  }
+ },
+ "宜川": {
+  "mod": "Yichuan, Shaanxi",
+  "n": {
+   "宜川": "Yichuan"
+  }
+ },
+ "宜昌": {
+  "mod": "Yichang, Hubei",
+  "n": {
+   "宜昌": "Yichang"
+  }
+ },
+ "宜春": {
+  "mod": "Yichun, Jiangxi",
+  "n": {
+   "宜春": "Yichun"
+  }
+ },
+ "宜章": {
+  "mod": "Yizhang, Hunan",
+  "n": {
+   "宜章": "Yizhang"
+  }
+ },
+ "宝安": {
+  "mod": "Shenzhen, Guangdong",
+  "n": {
+   "宝安": "Bao'an"
+  }
+ },
+ "宝鸡": {
+  "mod": "Baoji, Shaanxi",
+  "n": {
+   "宝鸡": "Baoji"
+  }
+ },
+ "实武牙": {
+  "mod": "Sibolga, Indonesia",
+  "n": {
+   "实武牙": "Sibolga"
+  }
+ },
+ "宣光": {
+  "mod": "Tuyên Quang, Vietnam",
+  "n": {
+   "宣光": "Tuyên Quang"
+  }
+ },
+ "宣化": {
+  "mod": "Xuanhua District, Zhangjiakou, Hebei",
+  "n": {
+   "宣化": "Xuanhua"
+  }
+ },
+ "宣城": {
+  "mod": "Xuancheng, Anhui",
+  "n": {
+   "宣城": "Xuancheng"
+  }
+ },
+ "宣威": {
+  "mod": "Xuanwei, Yunnan",
+  "n": {
+   "宣威": "Xuanwei"
+  }
+ },
+ "宣汉": {
+  "mod": "Xuanhan, Sichuan",
+  "n": {
+   "宣汉": "Xuanhan"
+  }
+ },
+ "宫古": {
+  "mod": "Miyako Island, Okinawa, Japan",
+  "n": {
+   "宫古": "Miyako"
+  }
+ },
+ "宾阳": {
+  "mod": "Binyang, Guangxi",
+  "n": {
+   "宾阳": "Binyang"
+  }
+ },
+ "宿务": {
+  "mod": "Cebu, Philippines",
+  "n": {
+   "宿务": "Cebu"
+  }
+ },
+ "宿县": {
+  "mod": "Suzhou, Anhui",
+  "n": {
+   "宿县": "Suxian"
+  }
+ },
+ "宿迁": {
+  "mod": "Suqian, Jiangsu",
+  "n": {
+   "宿迁": "Suqian"
+  }
+ },
+ "密山": {
+  "mod": "Mishan, Heilongjiang",
+  "n": {
+   "密山": "Mishan"
+  }
+ },
+ "密支那": {
+  "mod": "Myitkyina, Myanmar",
+  "n": {
+   "密支那": "Myitkyina"
+  }
+ },
+ "富锦": {
+  "mod": "Fujin, Heilongjiang",
+  "n": {
+   "富锦": "Fujin"
+  }
+ },
+ "察隅": {
+  "mod": "Zayu, Xizang",
+  "n": {
+   "察隅": "Zayu"
+  }
+ },
+ "对马": {
+  "mod": "Izuhara, Tsushima, Nagasaki, Japan",
+  "n": {
+   "对马": "Tsushima"
+  }
+ },
+ "寻乌": {
+  "mod": "Xunwu, Jiangxi",
+  "n": {
+   "寻乌": "Xunwu"
+  }
+ },
+ "寿县": {
+  "mod": "Shouxian, Anhui",
+  "n": {
+   "寿县": "Shouxian"
+  }
+ },
+ "尖竹汶": {
+  "mod": "Chanthaburi, Thailand",
+  "n": {
+   "尖竹汶": "Chanthaburi"
+  }
+ },
+ "尼兹瓦": {
+  "mod": "Nizwa, Oman",
+  "n": {
+   "尼兹瓦": "Nizwa"
+  }
+ },
+ "尼古拉耶夫斯克": {
+  "mod": "Nikolayevsk-on-Amur, Russia (Miaojie)",
+  "n": {
+   "尼古拉耶夫斯克": "Nikolayevsk"
+  }
+ },
+ "尼泊尔甘杰": {
+  "mod": "Nepalgunj, Nepal",
+  "n": {
+   "尼泊尔甘杰": "Nepalgunj"
+  }
+ },
+ "尼科西亚": {
+  "mod": "Nicosia, Cyprus",
+  "n": {
+   "尼科西亚": "Nicosia"
+  }
+ },
+ "屈塔希亚": {
+  "mod": "Kütahya, Türkiye",
+  "n": {
+   "屈塔希亚": "Kütahya"
+  }
+ },
+ "屯溪": {
+  "mod": "Tunxi District, Huangshan, Anhui",
+  "n": {
+   "屯溪": "Tunxi"
+  }
+ },
+ "山丹": {
+  "mod": "Shandan, Gansu",
+  "n": {
+   "山丹": "Shandan"
+  }
+ },
+ "山打根": {
+  "mod": "Sandakan, Malaysia",
+  "n": {
+   "山打根": "Sandakan"
+  }
+ },
+ "山海关": {
+  "mod": "Shanhaiguan, Qinhuangdao, Hebei",
+  "n": {
+   "山海关": "Shanhaiguan"
+  }
+ },
+ "山罗": {
+  "mod": "Sơn La, Vietnam",
+  "n": {
+   "山罗": "Sơn La"
+  }
+ },
+ "岢岚": {
+  "mod": "Kelan, Shanxi",
+  "n": {
+   "岢岚": "Kelan"
+  }
+ },
+ "岳阳": {
+  "mod": "Yueyang, Hunan",
+  "n": {
+   "岳阳": "Yueyang"
+  }
+ },
+ "岷县": {
+  "mod": "Minxian, Gansu",
+  "n": {
+   "岷县": "Minxian"
+  }
+ },
+ "崖县": {
+  "mod": "Sanya, Hainan",
+  "n": {
+   "崖县": "Yaxian"
+  }
+ },
+ "川圹": {
+  "mod": "Xiangkhouang, Laos",
+  "n": {
+   "川圹": "Xieng Khouang"
+  }
+ },
+ "巨港": {
+  "mod": "Palembang, Indonesia",
+  "n": {
+   "巨港": "Palembang"
+  }
+ },
+ "巴东": {
+  "mod": "Badong, Hubei",
+  "n": {
+   "巴东": "Badong"
+  }
+ },
+ "巴东·苏": {
+  "mod": "Padang, Indonesia",
+  "n": {
+   "巴东": "Padang"
+  }
+ },
+ "巴中": {
+  "mod": "Bazhong, Sichuan",
+  "n": {
+   "巴中": "Bazhong"
+  }
+ },
+ "巴亚泽特": {
+  "mod": "Doğubayazıt, Türkiye",
+  "n": {
+   "巴亚泽特": "Bayazid"
+  }
+ },
+ "巴勒克埃西尔": {
+  "mod": "Balıkesir, Türkiye",
+  "n": {
+   "巴勒克埃西尔": "Balıkesir"
+  }
+ },
+ "巴勒贝克": {
+  "mod": "Baalbek, Lebanon (Beqaa Valley)",
+  "n": {
+   "巴勒贝克": "Baalbek"
+  }
+ },
+ "巴厘巴板": {
+  "mod": "Balikpapan, Indonesia",
+  "n": {
+   "巴厘巴板": "Balikpapan"
+  }
+ },
+ "巴吕": {
+  "mod": "Palu, Indonesia",
+  "n": {
+   "巴吕": "Palu"
+  }
+ },
+ "巴哈瓦尔布尔": {
+  "mod": "Bahawalpur, Pakistan",
+  "n": {
+   "巴哈瓦尔布尔": "Bahawalpur"
+  }
+ },
+ "巴塘": {
+  "mod": "Batang, Sichuan",
+  "n": {
+   "巴塘": "Batang"
+  }
+ },
+ "巴士拉": {
+  "mod": "Basra, Iraq",
+  "n": {
+   "巴士拉": "Basra"
+  }
+ },
+ "巴尔瑙尔": {
+  "mod": "Barnaul, Russia",
+  "n": {
+   "巴尔瑙尔": "Barnaul"
+  }
+ },
+ "巴库": {
+  "mod": "Baku, Azerbaijan",
+  "n": {
+   "巴库": "Baku"
+  }
+ },
+ "巴格达": {
+  "mod": "Baghdad, Iraq",
+  "n": {
+   "巴格达": "Baghdad"
+  }
+ },
+ "巴楚": {
+  "mod": "Bachu, Xinjiang",
+  "n": {
+   "巴楚": "Bachu"
+  }
+ },
+ "巴特那": {
+  "mod": "Patna, India",
+  "n": {
+   "巴特那": "Patna"
+  }
+ },
+ "巴科洛德": {
+  "mod": "Bacolod, Philippines",
+  "n": {
+   "巴科洛德": "Bacolod"
+  }
+ },
+ "巴统": {
+  "mod": "Batumi, Georgia",
+  "n": {
+   "巴统": "Batum"
+  }
+ },
+ "巴罗达": {
+  "mod": "Vadodara, India",
+  "n": {
+   "巴罗达": "Baroda"
+  }
+ },
+ "巴色": {
+  "mod": "Pakse, Laos",
+  "n": {
+   "巴色": "Pakse"
+  }
+ },
+ "巴莱": {
+  "mod": "Paklay, Xaignabouli, Laos",
+  "n": {
+   "巴莱": "Paklay"
+  }
+ },
+ "巴蜀": {
+  "mod": "Prachuap Khiri Khan, Thailand",
+  "n": {
+   "巴蜀": "Prachuap"
+  }
+ },
+ "巴达维亚": {
+  "mod": "Jakarta, Indonesia",
+  "n": {
+   "巴达维亚": "Batavia",
+   "雅加达": "Djakarta"
+  }
+ },
+ "布哈拉": {
+  "mod": "Bukhara, Uzbekistan",
+  "n": {
+   "布哈拉": "Bukhara"
+  }
+ },
+ "布尔萨": {
+  "mod": "Bursa, Türkiye",
+  "n": {
+   "布尔萨": "Bursa"
+  }
+ },
+ "布干维尔": {
+  "mod": "Kieta, Bougainville, Papua New Guinea",
+  "n": {
+   "布干维尔": "Bougainville"
+  }
+ },
+ "布拉戈维申斯克": {
+  "mod": "Blagoveshchensk, Russia (Hailanpao)",
+  "n": {
+   "布拉戈维申斯克": "Blagoveshchensk"
+  }
+ },
+ "布杰": {
+  "mod": "Bhuj, India (Kutch)",
+  "n": {
+   "布杰": "Bhuj"
+  }
+ },
+ "布纳": {
+  "mod": "Buna, Oro Province, Papua New Guinea",
+  "n": {
+   "布纳": "Buna"
+  }
+ },
+ "布莱尔港": {
+  "mod": "Port Blair, Andaman Islands, India",
+  "n": {
+   "布莱尔港": "Port Blair"
+  }
+ },
+ "布赖代": {
+  "mod": "Buraidah, Saudi Arabia (Qassim)",
+  "n": {
+   "布赖代": "Buraidah"
+  }
+ },
+ "希伯伦": {
+  "mod": "Hebron, Palestine",
+  "n": {
+   "希伯伦": "Hebron"
+  }
+ },
+ "希俄斯": {
+  "mod": "Chios, Greece",
+  "n": {
+   "希俄斯": "Chios"
+  }
+ },
+ "希瓦": {
+  "mod": "Khiva, Uzbekistan",
+  "n": {
+   "希瓦": "Khiva"
+  }
+ },
+ "帕米尔哨所": {
+  "mod": "Murghab, Tajikistan",
+  "n": {
+   "帕米尔哨所": "Pamirsky Post"
+  }
+ },
+ "帝力": {
+  "mod": "Dili, Timor-Leste",
+  "n": {
+   "帝力": "Dili"
+  }
+ },
+ "常州": {
+  "mod": "Changzhou, Jiangsu",
+  "n": {
+   "常州": "Changzhou"
+  }
+ },
+ "常德": {
+  "mod": "Changde, Hunan",
+  "n": {
+   "常德": "Changde"
+  }
+ },
+ "幌筵岛": {
+  "mod": "Paramushir, Kuril Islands, Russia",
+  "n": {
+   "幌筵岛": "Paramushiro"
+  }
+ },
+ "平凉": {
+  "mod": "Pingliang, Gansu",
+  "n": {
+   "平凉": "Pingliang"
+  }
+ },
+ "平壤": {
+  "mod": "Pyongyang, North Korea",
+  "n": {
+   "平壤": "Pyongyang"
+  }
+ },
+ "平山": {
+  "mod": "Pingshan, Hebei (Xibaipo lies to its northwest)",
+  "n": {
+   "平山": "Pingshan"
+  }
+ },
+ "平康": {
+  "mod": "Pyonggang, North Korea",
+  "n": {
+   "平康": "Pyonggang"
+  }
+ },
+ "平武": {
+  "mod": "Pingwu, Sichuan",
+  "n": {
+   "平武": "Pingwu"
+  }
+ },
+ "平江": {
+  "mod": "Pingjiang, Hunan",
+  "n": {
+   "平江": "Pingjiang"
+  }
+ },
+ "平泉": {
+  "mod": "Pingquan, Hebei",
+  "n": {
+   "平泉": "Pingquan"
+  }
+ },
+ "平泽": {
+  "mod": "Pyeongtaek, South Korea",
+  "n": {
+   "平泽": "Pyeongtaek"
+  }
+ },
+ "平陆": {
+  "mod": "Pinglu, Shanxi",
+  "n": {
+   "平陆": "Pinglu"
+  }
+ },
+ "广义": {
+  "mod": "Quảng Ngãi, Vietnam",
+  "n": {
+   "广义": "Quảng Ngãi"
+  }
+ },
+ "广元": {
+  "mod": "Guangyuan, Sichuan",
+  "n": {
+   "广元": "Guangyuan"
+  }
+ },
+ "广岛": {
+  "mod": "Hiroshima, Japan",
+  "n": {
+   "广岛": "Hiroshima"
+  }
+ },
+ "广州": {
+  "mod": "Guangzhou, Guangdong",
+  "n": {
+   "广州": "Guangzhou"
+  }
+ },
+ "广州湾": {
+  "mod": "Zhanjiang, Guangdong",
+  "n": {
+   "广州湾": "Guangzhouwan",
+   "湛江": "Zhanjiang"
+  }
+ },
+ "广昌": {
+  "mod": "Guangchang, Jiangxi",
+  "n": {
+   "广昌": "Guangchang"
+  }
+ },
+ "广治": {
+  "mod": "Quảng Trị, Vietnam",
+  "n": {
+   "广治": "Quảng Trị"
+  }
+ },
+ "广饶": {
+  "mod": "Guangrao, Shandong",
+  "n": {
+   "广饶": "Guangrao"
+  }
+ },
+ "庄河": {
+  "mod": "Zhuanghe, Liaoning",
+  "n": {
+   "庄河": "Zhuanghe"
+  }
+ },
+ "庆州": {
+  "mod": "Gyeongju, South Korea",
+  "n": {
+   "庆州": "Gyeongju"
+  }
+ },
+ "庆阳": {
+  "mod": "Qingcheng, Gansu",
+  "n": {
+   "庆阳": "Qingyang"
+  }
+ },
+ "库什卡": {
+  "mod": "Serhetabat, Turkmenistan",
+  "n": {
+   "库什卡": "Kushka"
+  }
+ },
+ "库伦": {
+  "mod": "Ulaanbaatar, Mongolia",
+  "n": {
+   "乌兰巴托": "Ulan Bator",
+   "库伦": "Urga"
+  }
+ },
+ "库利亚布": {
+  "mod": "Kulob, Tajikistan",
+  "n": {
+   "库利亚布": "Kulyab"
+  }
+ },
+ "库塔伊西": {
+  "mod": "Kutaisi, Georgia",
+  "n": {
+   "库塔伊西": "Kutaisi"
+  }
+ },
+ "库尔勒": {
+  "mod": "Korla, Xinjiang",
+  "n": {
+   "库尔勒": "Korla"
+  }
+ },
+ "库尔干": {
+  "mod": "Kurgan, Russia",
+  "n": {
+   "库尔干": "Kurgan"
+  }
+ },
+ "库斯塔奈": {
+  "mod": "Kostanay, Kazakhstan",
+  "n": {
+   "库斯塔奈": "Kustanay"
+  }
+ },
+ "库特": {
+  "mod": "Kut, Iraq",
+  "n": {
+   "库特": "Kut"
+  }
+ },
+ "库车": {
+  "mod": "Kuqa, Xinjiang",
+  "n": {
+   "库车": "Kuqa"
+  }
+ },
+ "府谷": {
+  "mod": "Fugu, Shaanxi",
+  "n": {
+   "府谷": "Fugu"
+  }
+ },
+ "康保": {
+  "mod": "Kangbao, Hebei",
+  "n": {
+   "康保": "Kangbao"
+  }
+ },
+ "康定": {
+  "mod": "Kangding, Sichuan",
+  "n": {
+   "康定": "Kangding",
+   "打箭炉": "Dajianlu"
+  }
+ },
+ "延吉": {
+  "mod": "Yanji, Jilin",
+  "n": {
+   "延吉": "Yanji"
+  }
+ },
+ "延安": {
+  "mod": "Yan'an, Shaanxi",
+  "n": {
+   "延安": "Yan'an"
+  }
+ },
+ "延安·朝鲜": {
+  "mod": "Yonan, North Korea (South Hwanghae)",
+  "n": {
+   "延安": "Yonan"
+  }
+ },
+ "建宁": {
+  "mod": "Jianning, Fujian",
+  "n": {
+   "建宁": "Jianning"
+  }
+ },
+ "建瓯": {
+  "mod": "Jian'ou, Fujian",
+  "n": {
+   "建瓯": "Jian'ou"
+  }
+ },
+ "开原": {
+  "mod": "Kaiyuan, Liaoning",
+  "n": {
+   "开原": "Kaiyuan"
+  }
+ },
+ "开县": {
+  "mod": "Kaizhou, Chongqing",
+  "n": {
+   "开县": "Kaixian"
+  }
+ },
+ "开城": {
+  "mod": "Kaesong, North Korea",
+  "n": {
+   "开城": "Kaesong"
+  }
+ },
+ "开封": {
+  "mod": "Kaifeng, Henan",
+  "n": {
+   "开封": "Kaifeng"
+  }
+ },
+ "开鲁": {
+  "mod": "Kailu, Inner Mongolia",
+  "n": {
+   "开鲁": "Kailu"
+  }
+ },
+ "弋阳": {
+  "mod": "Yiyang, Jiangxi",
+  "n": {
+   "弋阳": "Yiyang"
+  }
+ },
+ "张北": {
+  "mod": "Zhangbei, Hebei",
+  "n": {
+   "张北": "Zhangbei"
+  }
+ },
+ "张家口": {
+  "mod": "Zhangjiakou, Hebei",
+  "n": {
+   "张家口": "Zhangjiakou"
+  }
+ },
+ "张掖": {
+  "mod": "Zhangye, Gansu",
+  "n": {
+   "张掖": "Zhangye",
+   "甘州": "Ganzhou"
+  }
+ },
+ "归仁": {
+  "mod": "Quy Nhơn, Vietnam",
+  "n": {
+   "归仁": "Quy Nhơn"
+  }
+ },
+ "归绥": {
+  "mod": "Hohhot, Inner Mongolia",
+  "n": {
+   "厚和": "Houhe",
+   "呼和浩特": "Hohhot",
+   "归化": "Guihua",
+   "归绥": "Guisui"
+  }
+ },
+ "彬马那": {
+  "mod": "Pyinmana, Myanmar",
+  "n": {
+   "彬马那": "Pyinmana"
+  }
+ },
+ "彭世洛": {
+  "mod": "Phitsanulok, Thailand",
+  "n": {
+   "彭世洛": "Phitsanulok"
+  }
+ },
+ "彼得罗巴甫洛夫斯克": {
+  "mod": "Petropavl, Kazakhstan",
+  "n": {
+   "彼得罗巴甫洛夫斯克": "Petropavlovsk"
+  }
+ },
+ "彼得罗巴甫洛夫斯克·堪察加": {
+  "mod": "Petropavlovsk-Kamchatsky, Russia",
+  "n": {
+   "彼得罗巴甫洛夫斯克": "Petropavlovsk"
+  }
+ },
+ "彼罗夫斯克": {
+  "mod": "Kyzylorda, Kazakhstan",
+  "n": {
+   "克孜勒奥尔达": "Kzyl-Orda",
+   "彼罗夫斯克": "Perovsk"
+  }
+ },
+ "徐州": {
+  "mod": "Xuzhou, Jiangsu",
+  "n": {
+   "徐州": "Xuzhou"
+  }
+ },
+ "德化": {
+  "mod": "Huade, Inner Mongolia",
+  "n": {
+   "嘉卜寺": "Jiabusi",
+   "德化": "Dehua"
+  }
+ },
+ "德安": {
+  "mod": "De'an, Jiangxi",
+  "n": {
+   "德安": "De'an"
+  }
+ },
+ "德州": {
+  "mod": "Dezhou, Shandong",
+  "n": {
+   "德州": "Dezhou"
+  }
+ },
+ "德拉伊斯梅尔汗": {
+  "mod": "Dera Ismail Khan, Pakistan",
+  "n": {
+   "德拉伊斯梅尔汗": "Dera Ismail Khan"
+  }
+ },
+ "德格": {
+  "mod": "Dege, Sichuan",
+  "n": {
+   "德格": "Dege"
+  }
+ },
+ "德那第": {
+  "mod": "Ternate, Indonesia",
+  "n": {
+   "德那第": "Ternate"
+  }
+ },
+ "德里": {
+  "mod": "Delhi, India",
+  "n": {
+   "德里": "Delhi"
+  }
+ },
+ "德黑兰": {
+  "mod": "Tehran, Iran",
+  "n": {
+   "德黑兰": "Tehran"
+  }
+ },
+ "忻县": {
+  "mod": "Xinzhou, Shanxi",
+  "n": {
+   "忻县": "Xinxian"
+  }
+ },
+ "怀来": {
+  "mod": "Huailai, Hebei",
+  "n": {
+   "怀来": "Huailai"
+  }
+ },
+ "思南": {
+  "mod": "Sinan, Guizhou",
+  "n": {
+   "思南": "Sinan"
+  }
+ },
+ "思茅": {
+  "mod": "Simao District, Pu'er, Yunnan",
+  "n": {
+   "思茅": "Simao"
+  }
+ },
+ "怡保": {
+  "mod": "Ipoh, Malaysia",
+  "n": {
+   "怡保": "Ipoh"
+  }
+ },
+ "怡朗": {
+  "mod": "Iloilo, Philippines",
+  "n": {
+   "怡朗": "Iloilo"
+  }
+ },
+ "恩德": {
+  "mod": "Ende, Flores, Indonesia",
+  "n": {
+   "恩德": "Ende"
+  }
+ },
+ "恩施": {
+  "mod": "Enshi, Hubei",
+  "n": {
+   "恩施": "Enshi"
+  }
+ },
+ "恰克图": {
+  "mod": "Kyakhta, Russia",
+  "n": {
+   "恰克图": "Kyakhta",
+   "特罗伊茨科萨夫斯克": "Troitskosavsk"
+  }
+ },
+ "恰尔朱": {
+  "mod": "Türkmenabat, Turkmenistan",
+  "n": {
+   "恰尔朱": "Chardzhou"
+  }
+ },
+ "恰纳卡莱": {
+  "mod": "Çanakkale, Türkiye",
+  "n": {
+   "恰纳卡莱": "Çanakkale"
+  }
+ },
+ "惠山": {
+  "mod": "Hyesan, North Korea",
+  "n": {
+   "惠山": "Hyesan"
+  }
+ },
+ "惠州": {
+  "mod": "Huizhou, Guangdong",
+  "n": {
+   "惠州": "Huizhou"
+  }
+ },
+ "惠民": {
+  "mod": "Huimin, Shandong",
+  "n": {
+   "惠民": "Huimin"
+  }
+ },
+ "惠远": {
+  "mod": "Huiyuan, Huocheng, Xinjiang",
+  "n": {
+   "惠远": "Huiyuan"
+  }
+ },
+ "惠须取": {
+  "mod": "Uglegorsk, Russia",
+  "n": {
+   "乌格列戈尔斯克": "Uglegorsk",
+   "惠须取": "Esutoru"
+  }
+ },
+ "懋功": {
+  "mod": "Xiaojin, Sichuan",
+  "n": {
+   "懋功": "Maogong"
+  }
+ },
+ "戈尔甘": {
+  "mod": "Gorgan, Iran (formerly Astarabad)",
+  "n": {
+   "戈尔甘": "Gorgan"
+  }
+ },
+ "戈尔诺阿尔泰斯克": {
+  "mod": "Gorno-Altaysk, Altai Republic, Russia",
+  "n": {
+   "乌拉拉": "Ulala",
+   "奥伊罗特-图拉": "Oyrot-Tura",
+   "戈尔诺-阿尔泰斯克": "Gorno-Altaysk",
+   "戈尔诺阿尔泰斯克": "Gorno-Altaysk"
+  }
+ },
+ "戈里斯": {
+  "mod": "Goris, Armenia (Zangezur)",
+  "n": {
+   "戈里斯": "Goris"
+  }
+ },
+ "成都": {
+  "mod": "Chengdu, Sichuan",
+  "n": {
+   "成都": "Chengdu"
+  }
+ },
+ "房县": {
+  "mod": "Fangxian, Hubei",
+  "n": {
+   "房县": "Fangxian"
+  }
+ },
+ "扎兰屯": {
+  "mod": "Zalantun, Inner Mongolia",
+  "n": {
+   "扎兰屯": "Zalantun"
+  }
+ },
+ "扎西": {
+  "mod": "Zhaxi, Weixin, Yunnan",
+  "n": {
+   "扎西": "Zhaxi"
+  }
+ },
+ "扎门乌德": {
+  "mod": "Zamyn-Üüd, Dornogovi Province, Mongolia",
+  "n": {
+   "扎门乌德": "Zamyn-Üüd"
+  }
+ },
+ "打拉根": {
+  "mod": "Tarakan, Indonesia",
+  "n": {
+   "打拉根": "Tarakan"
+  }
+ },
+ "打横": {
+  "mod": "Tegal, Indonesia",
+  "n": {
+   "打横": "Tegal"
+  }
+ },
+ "托博尔斯克": {
+  "mod": "Tobolsk, Russia",
+  "n": {
+   "托博尔斯克": "Tobolsk"
+  }
+ },
+ "托木斯克": {
+  "mod": "Tomsk, Russia",
+  "n": {
+   "托木斯克": "Tomsk"
+  }
+ },
+ "扬州": {
+  "mod": "Yangzhou, Jiangsu",
+  "n": {
+   "扬州": "Yangzhou"
+  }
+ },
+ "扶余": {
+  "mod": "Ningjiang District, Songyuan, Jilin",
+  "n": {
+   "扶余": "Fuyu"
+  }
+ },
+ "承化": {
+  "mod": "Altay, Xinjiang",
+  "n": {
+   "承化": "Chenghua",
+   "承化寺": "Chenghuasi"
+  }
+ },
+ "承德": {
+  "mod": "Chengde, Hebei",
+  "n": {
+   "承德": "Chengde"
+  }
+ },
+ "抚松": {
+  "mod": "Fusong, Jilin",
+  "n": {
+   "抚松": "Fusong"
+  }
+ },
+ "抚远": {
+  "mod": "Fuyuan, Heilongjiang",
+  "n": {
+   "抚远": "Fuyuan"
+  }
+ },
+ "抚顺": {
+  "mod": "Fushun, Liaoning",
+  "n": {
+   "抚顺": "Fushun"
+  }
+ },
+ "抱川": {
+  "mod": "Pocheon, South Korea",
+  "n": {
+   "抱川": "Pocheon"
+  }
+ },
+ "拉什特": {
+  "mod": "Rasht, Iran",
+  "n": {
+   "拉什特": "Rasht"
+  }
+ },
+ "拉合尔": {
+  "mod": "Lahore, Pakistan",
+  "n": {
+   "拉合尔": "Lahore"
+  }
+ },
+ "拉塔基亚": {
+  "mod": "Latakia, Syria",
+  "n": {
+   "拉塔基亚": "Latakia"
+  }
+ },
+ "拉杰沙希": {
+  "mod": "Rajshahi, Bangladesh",
+  "n": {
+   "拉杰沙希": "Rajshahi"
+  }
+ },
+ "拉瓦尔品第": {
+  "mod": "Rawalpindi, Pakistan",
+  "n": {
+   "拉瓦尔品第": "Rawalpindi"
+  }
+ },
+ "拉萨": {
+  "mod": "Lhasa, Xizang",
+  "n": {
+   "拉萨": "Lhasa"
+  }
+ },
+ "拉赫季": {
+  "mod": "Lahij, Yemen",
+  "n": {
+   "拉赫季": "Lahej"
+  }
+ },
+ "拉马迪": {
+  "mod": "Ramadi, Iraq",
+  "n": {
+   "拉马迪": "Ramadi"
+  }
+ },
+ "拜林": {
+  "mod": "Pailin, Cambodia",
+  "n": {
+   "拜林": "Pailin"
+  }
+ },
+ "择捉岛": {
+  "mod": "Iturup, Kuril Islands, Russia",
+  "n": {
+   "择捉岛": "Etorofu"
+  }
+ },
+ "掖县": {
+  "mod": "Laizhou, Shandong",
+  "n": {
+   "掖县": "Yexian"
+  }
+ },
+ "提丁": {
+  "mod": "Tedim, Chin State, Myanmar",
+  "n": {
+   "提丁": "Tiddim"
+  }
+ },
+ "揭阳": {
+  "mod": "Jieyang, Guangdong",
+  "n": {
+   "揭阳": "Jieyang"
+  }
+ },
+ "摩罗泰": {
+  "mod": "Morotai Island, Indonesia",
+  "n": {
+   "摩罗泰": "Morotai"
+  }
+ },
+ "摩苏尔": {
+  "mod": "Mosul, Iraq",
+  "n": {
+   "摩苏尔": "Mosul"
+  }
+ },
+ "撒马尔罕": {
+  "mod": "Samarkand, Uzbekistan",
+  "n": {
+   "撒马尔罕": "Samarkand"
+  }
+ },
+ "敏铁拉": {
+  "mod": "Meiktila, Myanmar",
+  "n": {
+   "敏铁拉": "Meiktila"
+  }
+ },
+ "敦化": {
+  "mod": "Dunhua, Jilin",
+  "n": {
+   "敦化": "Dunhua"
+  }
+ },
+ "敦煌": {
+  "mod": "Dunhuang, Gansu",
+  "n": {
+   "敦煌": "Dunhuang"
+  }
+ },
+ "敷香": {
+  "mod": "Poronaysk, Russia",
+  "n": {
+   "敷香": "Shisuka",
+   "波罗奈斯克": "Poronaysk"
+  }
+ },
+ "文山": {
+  "mod": "Wenshan, Yunnan",
+  "n": {
+   "文山": "Wenshan"
+  }
+ },
+ "文莱": {
+  "mod": "Bandar Seri Begawan, Brunei",
+  "n": {
+   "文莱": "Brunei Town"
+  }
+ },
+ "斋浦尔": {
+  "mod": "Jaipur, India",
+  "n": {
+   "斋浦尔": "Jaipur"
+  }
+ },
+ "斗湖": {
+  "mod": "Tawau, Malaysia",
+  "n": {
+   "斗湖": "Tawau"
+  }
+ },
+ "斯列坚斯克": {
+  "mod": "Sretensk, Russia",
+  "n": {
+   "斯列坚斯克": "Sretensk"
+  }
+ },
+ "斯利那加": {
+  "mod": "Srinagar, Indian-controlled Kashmir",
+  "n": {
+   "斯利那加": "Srinagar"
+  }
+ },
+ "斯卡都": {
+  "mod": "Skardu, Pakistani-controlled Kashmir (Baltistan)",
+  "n": {
+   "斯卡都": "Skardu"
+  }
+ },
+ "斯帕斯克": {
+  "mod": "Spassk-Dalny, Russia",
+  "n": {
+   "斯帕斯克": "Spassk"
+  }
+ },
+ "斯沃博德内": {
+  "mod": "Svobodny, Russia",
+  "n": {
+   "斯沃博德内": "Svobodny",
+   "阿列克谢耶夫斯克": "Alekseyevsk"
+  }
+ },
+ "新义州": {
+  "mod": "Sinuiju, North Korea",
+  "n": {
+   "新义州": "Sinuiju"
+  }
+ },
+ "新乡": {
+  "mod": "Xinxiang, Henan",
+  "n": {
+   "新乡": "Xinxiang"
+  }
+ },
+ "新余": {
+  "mod": "Xinyu, Jiangxi",
+  "n": {
+   "新余": "Xinyu",
+   "新喻": "Xinyu"
+  }
+ },
+ "新加坡": {
+  "mod": "Singapore",
+  "n": {
+   "新加坡": "Singapore",
+   "昭南": "Syonan"
+  }
+ },
+ "新堤": {
+  "mod": "Xindi, Honghu, Hubei",
+  "n": {
+   "新堤": "Xindi"
+  }
+ },
+ "新平洋": {
+  "mod": "Shingbwiyang, Kachin State, Myanmar",
+  "n": {
+   "新平洋": "Shingbwiyang"
+  }
+ },
+ "新库兹涅茨克": {
+  "mod": "Novokuznetsk, Russia",
+  "n": {
+   "库兹涅茨克": "Kuznetsk",
+   "斯大林斯克": "Stalinsk",
+   "新库兹涅茨克": "Novokuznetsk"
+  }
+ },
+ "新民": {
+  "mod": "Xinmin, Liaoning",
+  "n": {
+   "新民": "Xinmin"
+  }
+ },
+ "新浦": {
+  "mod": "Lianyungang, Jiangsu",
+  "n": {
+   "新浦": "Xinpu"
+  }
+ },
+ "新潟": {
+  "mod": "Niigata, Japan",
+  "n": {
+   "新潟": "Niigata"
+  }
+ },
+ "新竹": {
+  "mod": "Hsinchu, Taiwan",
+  "n": {
+   "新竹": "Hsinchu"
+  }
+ },
+ "新西伯利亚": {
+  "mod": "Novosibirsk, Russia",
+  "n": {
+   "新尼古拉耶夫斯克": "Novonikolayevsk",
+   "新西伯利亚": "Novosibirsk"
+  }
+ },
+ "新集": {
+  "mod": "Xinxian, Henan",
+  "n": {
+   "新集": "Xinji"
+  }
+ },
+ "旅顺": {
+  "mod": "Lüshunkou District, Dalian, Liaoning",
+  "n": {
+   "旅顺": "Lüshun"
+  }
+ },
+ "无为": {
+  "mod": "Wuwei, Anhui",
+  "n": {
+   "无为": "Wuwei"
+  }
+ },
+ "无锡": {
+  "mod": "Wuxi, Jiangsu",
+  "n": {
+   "无锡": "Wuxi"
+  }
+ },
+ "日喀则": {
+  "mod": "Xigaze, Xizang",
+  "n": {
+   "日喀则": "Xigaze"
+  }
+ },
+ "日惹": {
+  "mod": "Yogyakarta, Indonesia",
+  "n": {
+   "日惹": "Yogyakarta"
+  }
+ },
+ "日照": {
+  "mod": "Rizhao, Shandong",
+  "n": {
+   "日照": "Rizhao"
+  }
+ },
+ "旭川": {
+  "mod": "Asahikawa, Japan",
+  "n": {
+   "旭川": "Asahikawa"
+  }
+ },
+ "昆嵩": {
+  "mod": "Kon Tum, Vietnam",
+  "n": {
+   "昆嵩": "Kon Tum"
+  }
+ },
+ "昆明": {
+  "mod": "Kunming, Yunnan",
+  "n": {
+   "昆明": "Kunming"
+  }
+ },
+ "昌都": {
+  "mod": "Qamdo, Xizang",
+  "n": {
+   "昌都": "Qamdo"
+  }
+ },
+ "昌黎": {
+  "mod": "Changli, Hebei",
+  "n": {
+   "昌黎": "Changli"
+  }
+ },
+ "明古鲁": {
+  "mod": "Bengkulu, Indonesia",
+  "n": {
+   "明古鲁": "Bengkulu"
+  }
+ },
+ "易县": {
+  "mod": "Yixian, Hebei",
+  "n": {
+   "易县": "Yixian"
+  }
+ },
+ "春川": {
+  "mod": "Chuncheon, South Korea",
+  "n": {
+   "春川": "Chuncheon"
+  }
+ },
+ "春蓬": {
+  "mod": "Chumphon, Thailand",
+  "n": {
+   "春蓬": "Chumphon"
+  }
+ },
+ "昭通": {
+  "mod": "Zhaotong, Yunnan",
+  "n": {
+   "昭通": "Zhaotong"
+  }
+ },
+ "晋城": {
+  "mod": "Jincheng, Shanxi",
+  "n": {
+   "晋城": "Jincheng"
+  }
+ },
+ "晋州": {
+  "mod": "Jinju, South Korea",
+  "n": {
+   "晋州": "Jinju"
+  }
+ },
+ "普吉": {
+  "mod": "Phuket, Thailand",
+  "n": {
+   "普吉": "Phuket"
+  }
+ },
+ "普林塞萨港": {
+  "mod": "Puerto Princesa, Palawan, Philippines",
+  "n": {
+   "普林塞萨港": "Puerto Princesa"
+  }
+ },
+ "普禾加多": {
+  "mod": "Purwokerto, Indonesia",
+  "n": {
+   "普禾加多": "Purwokerto"
+  }
+ },
+ "普那卡": {
+  "mod": "Punakha, Bhutan",
+  "n": {
+   "普那卡": "Punakha"
+  }
+ },
+ "景德镇": {
+  "mod": "Jingdezhen, Jiangxi",
+  "n": {
+   "景德镇": "Jingdezhen"
+  }
+ },
+ "景栋": {
+  "mod": "Kengtung, Shan State, Myanmar",
+  "n": {
+   "景栋": "Kengtung"
+  }
+ },
+ "景泰": {
+  "mod": "Jingtai, Gansu",
+  "n": {
+   "景泰": "Jingtai"
+  }
+ },
+ "暹粒": {
+  "mod": "Siem Reap, Cambodia",
+  "n": {
+   "暹粒": "Siem Reap"
+  }
+ },
+ "曲沃": {
+  "mod": "Quwo, Shanxi",
+  "n": {
+   "曲沃": "Quwo"
+  }
+ },
+ "曲靖": {
+  "mod": "Qujing, Yunnan",
+  "n": {
+   "曲靖": "Qujing"
+  }
+ },
+ "曼德勒": {
+  "mod": "Mandalay, Myanmar",
+  "n": {
+   "曼德勒": "Mandalay"
+  }
+ },
+ "曼谷": {
+  "mod": "Bangkok, Thailand",
+  "n": {
+   "曼谷": "Bangkok"
+  }
+ },
+ "朔县": {
+  "mod": "Shuozhou, Shanxi",
+  "n": {
+   "朔县": "Shuoxian"
+  }
+ },
+ "望加锡": {
+  "mod": "Makassar, Indonesia",
+  "n": {
+   "望加锡": "Makassar"
+  }
+ },
+ "朝阳": {
+  "mod": "Chaoyang, Liaoning",
+  "n": {
+   "朝阳": "Chaoyang"
+  }
+ },
+ "木尔坦": {
+  "mod": "Multan, Pakistan",
+  "n": {
+   "木尔坦": "Multan"
+  }
+ },
+ "木浦": {
+  "mod": "Mokpo, South Korea",
+  "n": {
+   "木浦": "Mokpo"
+  }
+ },
+ "本溪": {
+  "mod": "Benxi, Liaoning",
+  "n": {
+   "本溪": "Benxi"
+  }
+ },
+ "札幌": {
+  "mod": "Sapporo, Japan",
+  "n": {
+   "札幌": "Sapporo"
+  }
+ },
+ "朱纳格特": {
+  "mod": "Junagadh, India",
+  "n": {
+   "朱纳格特": "Junagadh"
+  }
+ },
+ "杆城": {
+  "mod": "Ganseong, Goseong, South Korea",
+  "n": {
+   "杆城": "Ganseong"
+  }
+ },
+ "杜尚别": {
+  "mod": "Dushanbe, Tajikistan",
+  "n": {
+   "斯大林纳巴德": "Stalinabad",
+   "杜尚别": "Dushanbe"
+  }
+ },
+ "杜金卡": {
+  "mod": "Dudinka, Russia",
+  "n": {
+   "杜金卡": "Dudinka"
+  }
+ },
+ "束草": {
+  "mod": "Sokcho, South Korea",
+  "n": {
+   "束草": "Sokcho"
+  }
+ },
+ "来凤": {
+  "mod": "Laifeng, Hubei",
+  "n": {
+   "来凤": "Laifeng"
+  }
+ },
+ "杨口": {
+  "mod": "Yanggu, South Korea",
+  "n": {
+   "杨口": "Yanggu"
+  }
+ },
+ "杭州": {
+  "mod": "Hangzhou, Zhejiang",
+  "n": {
+   "杭州": "Hangzhou"
+  }
+ },
+ "杰伊瑟尔梅尔": {
+  "mod": "Jaisalmer, India",
+  "n": {
+   "杰伊瑟尔梅尔": "Jaisalmer"
+  }
+ },
+ "杰沙": {
+  "mod": "Katha, Myanmar",
+  "n": {
+   "杰沙": "Katha"
+  }
+ },
+ "杰索尔": {
+  "mod": "Jashore, Bangladesh",
+  "n": {
+   "杰索尔": "Jessore"
+  }
+ },
+ "松山": {
+  "mod": "Matsuyama, Japan",
+  "n": {
+   "松山": "Matsuyama"
+  }
+ },
+ "松巴": {
+  "mod": "Waingapu, Sumba, Indonesia",
+  "n": {
+   "松巴": "Sumba"
+  }
+ },
+ "松江": {
+  "mod": "Songjiang, Shanghai",
+  "n": {
+   "松江": "Songjiang"
+  }
+ },
+ "松潘": {
+  "mod": "Songpan, Sichuan",
+  "n": {
+   "松潘": "Songpan"
+  }
+ },
+ "林加延": {
+  "mod": "Lingayen, Philippines",
+  "n": {
+   "林加延": "Lingayen"
+  }
+ },
+ "林芝": {
+  "mod": "Nyingchi, Xizang (Kongpo)",
+  "n": {
+   "林芝": "Nyingchi"
+  }
+ },
+ "林西": {
+  "mod": "Linxi, Inner Mongolia",
+  "n": {
+   "林西": "Linxi"
+  }
+ },
+ "果阿": {
+  "mod": "Old Goa, India",
+  "n": {
+   "果阿": "Goa"
+  }
+ },
+ "枣庄": {
+  "mod": "Zaozhuang, Shandong",
+  "n": {
+   "枣庄": "Zaozhuang"
+  }
+ },
+ "枣阳": {
+  "mod": "Zaoyang, Hubei",
+  "n": {
+   "枣阳": "Zaoyang"
+  }
+ },
+ "柔佛巴鲁": {
+  "mod": "Johor Bahru, Malaysia",
+  "n": {
+   "柔佛巴鲁": "Johore Bahru"
+  }
+ },
+ "查谟": {
+  "mod": "Jammu, Indian-controlled Kashmir",
+  "n": {
+   "查谟": "Jammu"
+  }
+ },
+ "柳州": {
+  "mod": "Liuzhou, Guangxi",
+  "n": {
+   "柳州": "Liuzhou"
+  }
+ },
+ "株洲": {
+  "mod": "Zhuzhou, Hunan",
+  "n": {
+   "株洲": "Zhuzhou"
+  }
+ },
+ "根室": {
+  "mod": "Nemuro, Japan",
+  "n": {
+   "根室": "Nemuro"
+  }
+ },
+ "格洛斯特角": {
+  "mod": "Cape Gloucester, Papua New Guinea",
+  "n": {
+   "格洛斯特角": "Cape Gloucester"
+  }
+ },
+ "桂林": {
+  "mod": "Guilin, Guangxi",
+  "n": {
+   "桂林": "Guilin"
+  }
+ },
+ "桐梓": {
+  "mod": "Tongzi, Guizhou",
+  "n": {
+   "桐梓": "Tongzi"
+  }
+ },
+ "桑巴尔布尔": {
+  "mod": "Sambalpur, India",
+  "n": {
+   "桑巴尔布尔": "Sambalpur"
+  }
+ },
+ "桑怒": {
+  "mod": "Xam Neua, Laos",
+  "n": {
+   "桑怒": "Sam Neua"
+  }
+ },
+ "桑植": {
+  "mod": "Sangzhi, Hunan",
+  "n": {
+   "桑植": "Sangzhi"
+  }
+ },
+ "桑皮特": {
+  "mod": "Sampit, Central Kalimantan, Indonesia",
+  "n": {
+   "桑皮特": "Sampit"
+  }
+ },
+ "桑贝子": {
+  "mod": "Choibalsan, Mongolia",
+  "n": {
+   "乔巴山": "Choibalsan",
+   "桑贝子": "Sanbeise"
+  }
+ },
+ "桔井": {
+  "mod": "Kratie, Cambodia",
+  "n": {
+   "桔井": "Kratie"
+  }
+ },
+ "桦甸": {
+  "mod": "Huadian, Jilin",
+  "n": {
+   "桦甸": "Huadian"
+  }
+ },
+ "梅劳克": {
+  "mod": "Merauke, Indonesia",
+  "n": {
+   "梅劳克": "Merauke"
+  }
+ },
+ "梅县": {
+  "mod": "Meizhou, Guangdong",
+  "n": {
+   "梅县": "Meixian"
+  }
+ },
+ "梅尔夫": {
+  "mod": "Mary, Turkmenistan",
+  "n": {
+   "梅尔夫": "Merv",
+   "马雷": "Mary"
+  }
+ },
+ "梅尔辛": {
+  "mod": "Mersin, Türkiye",
+  "n": {
+   "梅尔辛": "Mersin"
+  }
+ },
+ "梧州": {
+  "mod": "Wuzhou, Guangxi",
+  "n": {
+   "梧州": "Wuzhou"
+  }
+ },
+ "梭罗": {
+  "mod": "Surakarta, Indonesia",
+  "n": {
+   "梭罗": "Solo"
+  }
+ },
+ "梯弗里斯": {
+  "mod": "Tbilisi, Georgia",
+  "n": {
+   "梯弗里斯": "Tiflis",
+   "第比利斯": "Tbilisi"
+  }
+ },
+ "棉兰": {
+  "mod": "Medan, Indonesia",
+  "n": {
+   "棉兰": "Medan"
+  }
+ },
+ "楚山": {
+  "mod": "Chosan, North Korea",
+  "n": {
+   "楚山": "Chosan"
+  }
+ },
+ "楚雄": {
+  "mod": "Chuxiong, Yunnan",
+  "n": {
+   "楚雄": "Chuxiong"
+  }
+ },
+ "楠榜": {
+  "mod": "Bandar Lampung, Indonesia",
+  "n": {
+   "楠榜": "Lampung"
+  }
+ },
+ "榆林": {
+  "mod": "Yulin, Shaanxi",
+  "n": {
+   "榆林": "Yulin"
+  }
+ },
+ "榆次": {
+  "mod": "Yuci District, Jinzhong, Shanxi",
+  "n": {
+   "榆次": "Yuci"
+  }
+ },
+ "槟城": {
+  "mod": "George Town, Malaysia",
+  "n": {
+   "槟城": "Penang",
+   "槟榔屿": "Penang"
+  }
+ },
+ "横滨": {
+  "mod": "Yokohama, Japan",
+  "n": {
+   "横滨": "Yokohama"
+  }
+ },
+ "欧库西": {
+  "mod": "Oecusse, Timor-Leste",
+  "n": {
+   "欧库西": "Oecusse"
+  }
+ },
+ "正定": {
+  "mod": "Zhengding, Hebei",
+  "n": {
+   "正定": "Zhengding"
+  }
+ },
+ "武乡": {
+  "mod": "Wuxiang, Shanxi",
+  "n": {
+   "武乡": "Wuxiang"
+  }
+ },
+ "武吉丁宜": {
+  "mod": "Bukittinggi, Indonesia",
+  "n": {
+   "武吉丁宜": "Bukittinggi"
+  }
+ },
+ "武威": {
+  "mod": "Wuwei, Gansu",
+  "n": {
+   "凉州": "Liangzhou",
+   "武威": "Wuwei"
+  }
+ },
+ "武安": {
+  "mod": "Wu'an, Hebei",
+  "n": {
+   "武安": "Wu'an"
+  }
+ },
+ "武昌": {
+  "mod": "Wuchang, Wuhan, Hubei",
+  "n": {
+   "武昌": "Wuchang"
+  }
+ },
+ "武都": {
+  "mod": "Wudu District, Longnan, Gansu",
+  "n": {
+   "武都": "Wudu"
+  }
+ },
+ "比亚克": {
+  "mod": "Biak Island, Indonesia",
+  "n": {
+   "比亚克": "Biak"
+  }
+ },
+ "比什凯克": {
+  "mod": "Bishkek, Kyrgyzstan",
+  "n": {
+   "伏龙芝": "Frunze",
+   "比什凯克": "Bishkek",
+   "皮什佩克": "Pishpek"
+  }
+ },
+ "比卡内尔": {
+  "mod": "Bikaner, India",
+  "n": {
+   "比卡内尔": "Bikaner"
+  }
+ },
+ "比斯克": {
+  "mod": "Biysk, Russia",
+  "n": {
+   "比斯克": "Biysk"
+  }
+ },
+ "比特利斯": {
+  "mod": "Bitlis, Türkiye",
+  "n": {
+   "比特利斯": "Bitlis"
+  }
+ },
+ "比罗比詹": {
+  "mod": "Birobidzhan, Russia",
+  "n": {
+   "季洪卡亚": "Tikhonkaya",
+   "比罗比詹": "Birobidzhan"
+  }
+ },
+ "比马": {
+  "mod": "Bima, Indonesia",
+  "n": {
+   "比马": "Bima"
+  }
+ },
+ "毕节": {
+  "mod": "Bijie, Guizhou",
+  "n": {
+   "毕节": "Bijie"
+  }
+ },
+ "毛淡棉": {
+  "mod": "Mawlamyine, Myanmar",
+  "n": {
+   "毛淡棉": "Moulmein"
+  }
+ },
+ "民都洛": {
+  "mod": "San Jose, Occidental Mindoro, Philippines",
+  "n": {
+   "民都洛": "Mindoro"
+  }
+ },
+ "水原": {
+  "mod": "Suwon, South Korea",
+  "n": {
+   "水原": "Suwon"
+  }
+ },
+ "永城": {
+  "mod": "Yongcheng, Henan",
+  "n": {
+   "永城": "Yongcheng"
+  }
+ },
+ "永安": {
+  "mod": "Yong'an, Fujian",
+  "n": {
+   "永安": "Yong'an"
+  }
+ },
+ "永新": {
+  "mod": "Yongxin, Jiangxi",
+  "n": {
+   "永新": "Yongxin"
+  }
+ },
+ "永登": {
+  "mod": "Yongdeng, Gansu",
+  "n": {
+   "永登": "Yongdeng"
+  }
+ },
+ "永顺": {
+  "mod": "Yongshun, Hunan",
+  "n": {
+   "永顺": "Yongshun"
+  }
+ },
+ "汉中": {
+  "mod": "Hanzhong, Shaanxi",
+  "n": {
+   "汉中": "Hanzhong"
+  }
+ },
+ "汉口": {
+  "mod": "Hankou, Wuhan, Hubei",
+  "n": {
+   "汉口": "Hankou"
+  }
+ },
+ "汉城": {
+  "mod": "Seoul, South Korea",
+  "n": {
+   "京城": "Keijo",
+   "汉城": "Seoul"
+  }
+ },
+ "汉源": {
+  "mod": "Hanyuan, Sichuan",
+  "n": {
+   "汉源": "Hanyuan"
+  }
+ },
+ "汉特曼西斯克": {
+  "mod": "Khanty-Mansiysk, Russia",
+  "n": {
+   "奥斯加科-沃古尔斯克": "Ostyako-Vogulsk",
+   "汉特-曼西斯克": "Khanty-Mansiysk",
+   "汉特曼西斯克": "Khanty-Mansiysk",
+   "萨马罗沃": "Samarovo"
+  }
+ },
+ "汕头": {
+  "mod": "Shantou, Guangdong",
+  "n": {
+   "汕头": "Shantou"
+  }
+ },
+ "汝城": {
+  "mod": "Rucheng, Hunan",
+  "n": {
+   "汝城": "Rucheng"
+  }
+ },
+ "江华": {
+  "mod": "Ganghwa, Incheon, South Korea",
+  "n": {
+   "江华": "Ganghwa"
+  }
+ },
+ "江孜": {
+  "mod": "Gyangze, Xizang",
+  "n": {
+   "江孜": "Gyangze"
+  }
+ },
+ "江油": {
+  "mod": "Jiangyou, Sichuan",
+  "n": {
+   "江油": "Jiangyou"
+  }
+ },
+ "江界": {
+  "mod": "Kanggye, North Korea",
+  "n": {
+   "江界": "Kanggye"
+  }
+ },
+ "江门": {
+  "mod": "Jiangmen, Guangdong",
+  "n": {
+   "江门": "Jiangmen"
+  }
+ },
+ "江阴": {
+  "mod": "Jiangyin, Jiangsu",
+  "n": {
+   "江阴": "Jiangyin"
+  }
+ },
+ "江陵": {
+  "mod": "Gangneung, South Korea",
+  "n": {
+   "江陵": "Gangneung"
+  }
+ },
+ "汶山": {
+  "mod": "Munsan, Paju, South Korea",
+  "n": {
+   "汶山": "Munsan"
+  }
+ },
+ "汾阳": {
+  "mod": "Fenyang, Shanxi",
+  "n": {
+   "汾阳": "Fenyang"
+  }
+ },
+ "沁县": {
+  "mod": "Qinxian, Shanxi",
+  "n": {
+   "沁县": "Qinxian"
+  }
+ },
+ "沁阳": {
+  "mod": "Qinyang, Henan",
+  "n": {
+   "沁阳": "Qinyang"
+  }
+ },
+ "沂水": {
+  "mod": "Yishui, Shandong",
+  "n": {
+   "沂水": "Yishui"
+  }
+ },
+ "沃季": {
+  "mod": "Al Wajh, Saudi Arabia",
+  "n": {
+   "沃季": "Wajh"
+  }
+ },
+ "沅陵": {
+  "mod": "Yuanling, Hunan",
+  "n": {
+   "沅陵": "Yuanling"
+  }
+ },
+ "沈阳": {
+  "mod": "Shenyang, Liaoning",
+  "n": {
+   "奉天": "Fengtian",
+   "沈阳": "Shenyang"
+  }
+ },
+ "沙市": {
+  "mod": "Shashi District, Jingzhou, Hubei",
+  "n": {
+   "沙市": "Shashi"
+  }
+ },
+ "沙拉湾": {
+  "mod": "Salavan, Laos",
+  "n": {
+   "沙拉湾": "Saravane"
+  }
+ },
+ "沙湾拿吉": {
+  "mod": "Savannakhet, Laos",
+  "n": {
+   "沙湾拿吉": "Savannakhet"
+  }
+ },
+ "沙耶武里": {
+  "mod": "Xaignabouli, Laos",
+  "n": {
+   "沙耶武里": "Sayaboury"
+  }
+ },
+ "沙迦": {
+  "mod": "Sharjah, United Arab Emirates",
+  "n": {
+   "沙迦": "Sharjah"
+  }
+ },
+ "沙里院": {
+  "mod": "Sariwon, North Korea",
+  "n": {
+   "沙里院": "Sariwon"
+  }
+ },
+ "沧州": {
+  "mod": "Cangzhou, Hebei",
+  "n": {
+   "沧州": "Cangzhou"
+  }
+ },
+ "沭阳": {
+  "mod": "Shuyang, Jiangsu",
+  "n": {
+   "沭阳": "Shuyang"
+  }
+ },
+ "河内": {
+  "mod": "Hà Nội, Vietnam",
+  "n": {
+   "河内": "Hà Nội"
+  }
+ },
+ "河口": {
+  "mod": "Hekou, Yunnan",
+  "n": {
+   "河口": "Hekou"
+  }
+ },
+ "河曲": {
+  "mod": "Hequ, Shanxi",
+  "n": {
+   "河曲": "Hequ"
+  }
+ },
+ "河江": {
+  "mod": "Hà Giang, Vietnam",
+  "n": {
+   "河江": "Hà Giang"
+  }
+ },
+ "河池": {
+  "mod": "Hechi, Guangxi",
+  "n": {
+   "河池": "Hechi"
+  }
+ },
+ "河间": {
+  "mod": "Hejian, Hebei",
+  "n": {
+   "河间": "Hejian"
+  }
+ },
+ "沽源": {
+  "mod": "Guyuan, Hebei",
+  "n": {
+   "沽源": "Guyuan"
+  }
+ },
+ "泉州": {
+  "mod": "Quanzhou, Fujian",
+  "n": {
+   "泉州": "Quanzhou"
+  }
+ },
+ "法克法克": {
+  "mod": "Fakfak, Indonesia",
+  "n": {
+   "法克法克": "Fakfak"
+  }
+ },
+ "法扎巴德": {
+  "mod": "Faizabad, Afghanistan (Badakhshan)",
+  "n": {
+   "法扎巴德": "Faizabad"
+  }
+ },
+ "泗水": {
+  "mod": "Surabaya, Indonesia",
+  "n": {
+   "泗水": "Surabaya"
+  }
+ },
+ "波密": {
+  "mod": "Bomi, Xizang",
+  "n": {
+   "波密": "Bomi"
+  }
+ },
+ "波来古": {
+  "mod": "Pleiku, Gia Lai, Vietnam",
+  "n": {
+   "波来古": "Pleiku"
+  }
+ },
+ "波纳佩": {
+  "mod": "Pohnpei, Micronesia",
+  "n": {
+   "波纳佩": "Ponape"
+  }
+ },
+ "波西耶特": {
+  "mod": "Posyet, Primorsky Krai, Russia",
+  "n": {
+   "波西耶特": "Posyet"
+  }
+ },
+ "泰安": {
+  "mod": "Tai'an, Shandong",
+  "n": {
+   "泰安": "Tai'an"
+  }
+ },
+ "泰州": {
+  "mod": "Taizhou, Jiangsu",
+  "n": {
+   "泰州": "Taizhou"
+  }
+ },
+ "泸定": {
+  "mod": "Luding, Sichuan",
+  "n": {
+   "泸定": "Luding"
+  }
+ },
+ "泸州": {
+  "mod": "Luzhou, Sichuan",
+  "n": {
+   "泸州": "Luzhou"
+  }
+ },
+ "泽当": {
+  "mod": "Zetang, Shannan, Xizang",
+  "n": {
+   "泽当": "Zetang"
+  }
+ },
+ "泾县": {
+  "mod": "Jingxian, Anhui (Yunling lies to its north)",
+  "n": {
+   "泾县": "Jingxian"
+  }
+ },
+ "洛坤": {
+  "mod": "Nakhon Si Thammarat, Thailand",
+  "n": {
+   "洛坤": "Nakhon Si Thammarat"
+  }
+ },
+ "洛川": {
+  "mod": "Luochuan, Shaanxi",
+  "n": {
+   "洛川": "Luochuan"
+  }
+ },
+ "洛阳": {
+  "mod": "Luoyang, Henan",
+  "n": {
+   "洛阳": "Luoyang"
+  }
+ },
+ "洞海": {
+  "mod": "Đồng Hới, Vietnam",
+  "n": {
+   "洞海": "Đồng Hới"
+  }
+ },
+ "洪川": {
+  "mod": "Hongcheon, South Korea",
+  "n": {
+   "洪川": "Hongcheon"
+  }
+ },
+ "洪江": {
+  "mod": "Hongjiang, Hunan",
+  "n": {
+   "洪江": "Hongjiang"
+  }
+ },
+ "洮南": {
+  "mod": "Taonan, Jilin",
+  "n": {
+   "洮南": "Taonan"
+  }
+ },
+ "济南": {
+  "mod": "Jinan, Shandong",
+  "n": {
+   "济南": "Jinan"
+  }
+ },
+ "济宁": {
+  "mod": "Jining, Shandong",
+  "n": {
+   "济宁": "Jining"
+  }
+ },
+ "济州": {
+  "mod": "Jeju, South Korea",
+  "n": {
+   "济州": "Jeju"
+  }
+ },
+ "浏阳": {
+  "mod": "Liuyang, Hunan",
+  "n": {
+   "浏阳": "Liuyang"
+  }
+ },
+ "浦项": {
+  "mod": "Pohang, South Korea",
+  "n": {
+   "浦项": "Pohang"
+  }
+ },
+ "浩罕": {
+  "mod": "Kokand, Uzbekistan",
+  "n": {
+   "浩罕": "Kokand"
+  }
+ },
+ "海丰": {
+  "mod": "Haifeng, Guangdong",
+  "n": {
+   "海丰": "Haifeng"
+  }
+ },
+ "海原": {
+  "mod": "Haiyuan, Ningxia",
+  "n": {
+   "海原": "Haiyuan"
+  }
+ },
+ "海参崴": {
+  "mod": "Vladivostok, Russia (Haishenwai)",
+  "n": {
+   "海参崴": "Vladivostok"
+  }
+ },
+ "海口": {
+  "mod": "Haikou, Hainan",
+  "n": {
+   "海口": "Haikou"
+  }
+ },
+ "海城": {
+  "mod": "Haicheng, Liaoning",
+  "n": {
+   "海城": "Haicheng"
+  }
+ },
+ "海塞卜": {
+  "mod": "Khasab, Musandam, Oman",
+  "n": {
+   "海塞卜": "Khasab"
+  }
+ },
+ "海安": {
+  "mod": "Hai'an, Jiangsu",
+  "n": {
+   "海安": "Hai'an"
+  }
+ },
+ "海州": {
+  "mod": "Haeju, North Korea",
+  "n": {
+   "海州": "Haeju"
+  }
+ },
+ "海得拉巴": {
+  "mod": "Hyderabad, India",
+  "n": {
+   "海得拉巴": "Hyderabad"
+  }
+ },
+ "海得拉巴·信德": {
+  "mod": "Hyderabad, Pakistan",
+  "n": {
+   "海得拉巴": "Hyderabad"
+  }
+ },
+ "海拉尔": {
+  "mod": "Hailar District, Hulunbuir, Inner Mongolia",
+  "n": {
+   "海拉尔": "Hailar"
+  }
+ },
+ "海法": {
+  "mod": "Haifa, Israel",
+  "n": {
+   "海法": "Haifa"
+  }
+ },
+ "海防": {
+  "mod": "Hải Phòng, Vietnam",
+  "n": {
+   "海防": "Hải Phòng"
+  }
+ },
+ "海阳": {
+  "mod": "Hải Dương, Vietnam",
+  "n": {
+   "海阳": "Hải Dương"
+  }
+ },
+ "涅尔琴斯克": {
+  "mod": "Nerchinsk, Russia (Nibuchu)",
+  "n": {
+   "涅尔琴斯克": "Nerchinsk"
+  }
+ },
+ "涉县": {
+  "mod": "Shexian, Hebei",
+  "n": {
+   "涉县": "Shexian"
+  }
+ },
+ "涞源": {
+  "mod": "Laiyuan, Hebei",
+  "n": {
+   "涞源": "Laiyuan"
+  }
+ },
+ "涟川": {
+  "mod": "Yeoncheon, South Korea",
+  "n": {
+   "涟川": "Yeoncheon"
+  }
+ },
+ "涪陵": {
+  "mod": "Fuling, Chongqing",
+  "n": {
+   "涪陵": "Fuling"
+  }
+ },
+ "涿县": {
+  "mod": "Zhuozhou, Hebei",
+  "n": {
+   "涿县": "Zhuoxian"
+  }
+ },
+ "淮阴": {
+  "mod": "Huaiyin District, Huai'an, Jiangsu",
+  "n": {
+   "淮阴": "Huaiyin"
+  }
+ },
+ "清化": {
+  "mod": "Thanh Hóa, Vietnam",
+  "n": {
+   "清化": "Thanh Hóa"
+  }
+ },
+ "清州": {
+  "mod": "Cheongju, South Korea",
+  "n": {
+   "清州": "Cheongju"
+  }
+ },
+ "清津": {
+  "mod": "Chongjin, North Korea",
+  "n": {
+   "清津": "Chongjin"
+  }
+ },
+ "清涧": {
+  "mod": "Qingjian, Shaanxi",
+  "n": {
+   "清涧": "Qingjian"
+  }
+ },
+ "清莱": {
+  "mod": "Chiang Rai, Thailand",
+  "n": {
+   "清莱": "Chiang Rai"
+  }
+ },
+ "清迈": {
+  "mod": "Chiang Mai, Thailand",
+  "n": {
+   "清迈": "Chiang Mai"
+  }
+ },
+ "清远": {
+  "mod": "Qingyuan, Guangdong",
+  "n": {
+   "清远": "Qingyuan"
+  }
+ },
+ "渠县": {
+  "mod": "Quxian, Sichuan",
+  "n": {
+   "渠县": "Quxian"
+  }
+ },
+ "温州": {
+  "mod": "Wenzhou, Zhejiang",
+  "n": {
+   "温州": "Wenzhou"
+  }
+ },
+ "渭南": {
+  "mod": "Weinan, Shaanxi",
+  "n": {
+   "渭南": "Weinan"
+  }
+ },
+ "湖口": {
+  "mod": "Hukou, Jiangxi",
+  "n": {
+   "湖口": "Hukou"
+  }
+ },
+ "湖州": {
+  "mod": "Huzhou, Zhejiang",
+  "n": {
+   "湖州": "Huzhou"
+  }
+ },
+ "湘潭": {
+  "mod": "Xiangtan, Hunan",
+  "n": {
+   "湘潭": "Xiangtan"
+  }
+ },
+ "湟源": {
+  "mod": "Huangyuan, Qinghai",
+  "n": {
+   "湟源": "Huangyuan"
+  }
+ },
+ "溧阳": {
+  "mod": "Liyang, Jiangsu",
+  "n": {
+   "溧阳": "Liyang"
+  }
+ },
+ "滁县": {
+  "mod": "Chuzhou, Anhui",
+  "n": {
+   "滁县": "Chuxian"
+  }
+ },
+ "滕县": {
+  "mod": "Tengzhou, Shandong",
+  "n": {
+   "滕县": "Tengxian"
+  }
+ },
+ "满洲里": {
+  "mod": "Manzhouli, Inner Mongolia",
+  "n": {
+   "满洲里": "Manzhouli"
+  }
+ },
+ "滦县": {
+  "mod": "Luanzhou, Hebei",
+  "n": {
+   "滦县": "Luanxian"
+  }
+ },
+ "漠河": {
+  "mod": "Mohe, Heilongjiang",
+  "n": {
+   "漠河": "Mohe"
+  }
+ },
+ "漯河": {
+  "mod": "Luohe, Henan",
+  "n": {
+   "漯河": "Luohe"
+  }
+ },
+ "漳州": {
+  "mod": "Zhangzhou, Fujian",
+  "n": {
+   "漳州": "Zhangzhou"
+  }
+ },
+ "潍县": {
+  "mod": "Weifang, Shandong",
+  "n": {
+   "潍县": "Weixian"
+  }
+ },
+ "潘切": {
+  "mod": "Phan Thiết, Vietnam",
+  "n": {
+   "潘切": "Phan Thiết"
+  }
+ },
+ "潢川": {
+  "mod": "Huangchuan, Henan",
+  "n": {
+   "潢川": "Huangchuan"
+  }
+ },
+ "潮州": {
+  "mod": "Chaozhou, Guangdong",
+  "n": {
+   "潮州": "Chaozhou"
+  }
+ },
+ "潼关": {
+  "mod": "Tongguan, Shaanxi",
+  "n": {
+   "潼关": "Tongguan"
+  }
+ },
+ "澎湖": {
+  "mod": "Penghu, Taiwan",
+  "n": {
+   "澎湖": "Penghu"
+  }
+ },
+ "澧县": {
+  "mod": "Lixian, Hunan",
+  "n": {
+   "澧县": "Lixian"
+  }
+ },
+ "濮阳": {
+  "mod": "Puyang, Henan",
+  "n": {
+   "濮阳": "Puyang"
+  }
+ },
+ "灌县": {
+  "mod": "Dujiangyan, Sichuan",
+  "n": {
+   "灌县": "Guanxian"
+  }
+ },
+ "灌阳": {
+  "mod": "Guanyang, Guangxi",
+  "n": {
+   "灌阳": "Guanyang"
+  }
+ },
+ "灵宝": {
+  "mod": "Lingbao, Henan",
+  "n": {
+   "灵宝": "Lingbao"
+  }
+ },
+ "炉山": {
+  "mod": "Kaili, Guizhou",
+  "n": {
+   "炉山": "Lushan"
+  }
+ },
+ "炉霍": {
+  "mod": "Luhuo, Sichuan",
+  "n": {
+   "炉霍": "Luhuo"
+  }
+ },
+ "烟台": {
+  "mod": "Yantai, Shandong",
+  "n": {
+   "烟台": "Yantai"
+  }
+ },
+ "焉耆": {
+  "mod": "Yanqi, Xinjiang",
+  "n": {
+   "焉耆": "Yanqi"
+  }
+ },
+ "焦作": {
+  "mod": "Jiaozuo, Henan",
+  "n": {
+   "焦作": "Jiaozuo"
+  }
+ },
+ "焦夫": {
+  "mod": "Dumat al-Jandal, Saudi Arabia (Jawf)",
+  "n": {
+   "焦夫": "Jawf"
+  }
+ },
+ "焦特布尔": {
+  "mod": "Jodhpur, India",
+  "n": {
+   "焦特布尔": "Jodhpur"
+  }
+ },
+ "照金": {
+  "mod": "Zhaojin, Yaozhou District, Tongchuan, Shaanxi",
+  "n": {
+   "照金": "Zhaojin"
+  }
+ },
+ "熙川": {
+  "mod": "Huichon, North Korea",
+  "n": {
+   "熙川": "Huichon"
+  }
+ },
+ "父岛": {
+  "mod": "Chichijima, Ogasawara, Tokyo, Japan",
+  "n": {
+   "父岛": "Chichijima"
+  }
+ },
+ "牡丹江": {
+  "mod": "Mudanjiang, Heilongjiang",
+  "n": {
+   "牡丹江": "Mudanjiang"
+  }
+ },
+ "特拉布宗": {
+  "mod": "Trabzon, Türkiye",
+  "n": {
+   "特拉布宗": "Trebizond"
+  }
+ },
+ "特里凡得琅": {
+  "mod": "Thiruvananthapuram, India",
+  "n": {
+   "特里凡得琅": "Trivandrum"
+  }
+ },
+ "特鲁克": {
+  "mod": "Chuuk, Micronesia",
+  "n": {
+   "特鲁克": "Truk"
+  }
+ },
+ "独山": {
+  "mod": "Dushan, Guizhou",
+  "n": {
+   "独山": "Dushan"
+  }
+ },
+ "献县": {
+  "mod": "Xianxian, Hebei",
+  "n": {
+   "献县": "Xianxian"
+  }
+ },
+ "玉林": {
+  "mod": "Yulin, Guangxi",
+  "n": {
+   "玉林": "Yulin"
+  }
+ },
+ "玉树": {
+  "mod": "Yushu, Qinghai",
+  "n": {
+   "玉树": "Yushu",
+   "结古": "Gyegu"
+  }
+ },
+ "王爷庙": {
+  "mod": "Ulanhot, Inner Mongolia",
+  "n": {
+   "王爷庙": "Wangyemiao"
+  }
+ },
+ "玛琅": {
+  "mod": "Malang, Indonesia",
+  "n": {
+   "玛琅": "Malang"
+  }
+ },
+ "环县": {
+  "mod": "Huanxian, Gansu",
+  "n": {
+   "环县": "Huanxian"
+  }
+ },
+ "班加罗尔": {
+  "mod": "Bengaluru, India",
+  "n": {
+   "班加罗尔": "Bangalore"
+  }
+ },
+ "珲春": {
+  "mod": "Hunchun, Jilin",
+  "n": {
+   "珲春": "Hunchun"
+  }
+ },
+ "琅勃拉邦": {
+  "mod": "Luang Prabang, Laos",
+  "n": {
+   "琅勃拉邦": "Luang Prabang"
+  }
+ },
+ "理县": {
+  "mod": "Lixian, Sichuan",
+  "n": {
+   "理县": "Lixian"
+  }
+ },
+ "理塘": {
+  "mod": "Litang, Sichuan",
+  "n": {
+   "理塘": "Litang"
+  }
+ },
+ "瑙鲁": {
+  "mod": "Nauru",
+  "n": {
+   "瑙鲁": "Nauru"
+  }
+ },
+ "瑞波": {
+  "mod": "Shwebo, Myanmar",
+  "n": {
+   "瑞波": "Shwebo"
+  }
+ },
+ "瑞金": {
+  "mod": "Ruijin, Jiangxi",
+  "n": {
+   "瑞金": "Ruijin"
+  }
+ },
+ "瓜廖尔": {
+  "mod": "Gwalior, India",
+  "n": {
+   "瓜廖尔": "Gwalior"
+  }
+ },
+ "瓜拉丁加奴": {
+  "mod": "Kuala Terengganu, Malaysia",
+  "n": {
+   "瓜拉丁加奴": "Kuala Trengganu"
+  }
+ },
+ "瓜拉立卑": {
+  "mod": "Kuala Lipis, Pahang, Malaysia",
+  "n": {
+   "瓜拉立卑": "Kuala Lipis"
+  }
+ },
+ "瓜达尔": {
+  "mod": "Gwadar, Pakistan",
+  "n": {
+   "瓜达尔": "Gwadar"
+  }
+ },
+ "瓜达尔卡纳尔": {
+  "mod": "Honiara, Solomon Islands",
+  "n": {
+   "瓜达尔卡纳尔": "Guadalcanal"
+  }
+ },
+ "瓦朗加尔": {
+  "mod": "Warangal, India",
+  "n": {
+   "瓦朗加尔": "Warangal"
+  }
+ },
+ "瓦窑堡": {
+  "mod": "Wayaobu, Zichang, Shaanxi",
+  "n": {
+   "瓦窑堡": "Wayaobu"
+  }
+ },
+ "瓮津": {
+  "mod": "Ongjin, North Korea",
+  "n": {
+   "瓮津": "Ongjin"
+  }
+ },
+ "甘孜": {
+  "mod": "Garze, Sichuan",
+  "n": {
+   "甘孜": "Garze"
+  }
+ },
+ "甘尼": {
+  "mod": "Kalewa, Myanmar",
+  "n": {
+   "甘尼": "Kalewa"
+  }
+ },
+ "甘托克": {
+  "mod": "Gangtok, India",
+  "n": {
+   "甘托克": "Gangtok"
+  }
+ },
+ "甘泉": {
+  "mod": "Ganquan, Shaanxi",
+  "n": {
+   "甘泉": "Ganquan"
+  }
+ },
+ "甘贾": {
+  "mod": "Ganja, Azerbaijan",
+  "n": {
+   "伊丽莎白波尔": "Elisabethpol",
+   "基洛瓦巴德": "Kirovabad",
+   "甘贾": "Ganja"
+  }
+ },
+ "甘马挽": {
+  "mod": "Kemaman, Terengganu, Malaysia",
+  "n": {
+   "甘马挽": "Kemaman"
+  }
+ },
+ "甲万那端": {
+  "mod": "Cabanatuan, Philippines",
+  "n": {
+   "甲万那端": "Cabanatuan"
+  }
+ },
+ "畹町": {
+  "mod": "Wanding, Ruili, Yunnan",
+  "n": {
+   "畹町": "Wanding"
+  }
+ },
+ "登巴萨": {
+  "mod": "Denpasar, Indonesia",
+  "n": {
+   "登巴萨": "Denpasar"
+  }
+ },
+ "白城": {
+  "mod": "Baicheng, Jilin",
+  "n": {
+   "白城": "Baicheng"
+  }
+ },
+ "白沙瓦": {
+  "mod": "Peshawar, Pakistan",
+  "n": {
+   "白沙瓦": "Peshawar"
+  }
+ },
+ "百灵庙": {
+  "mod": "Bailingmiao, Darhan Muminggan United Banner, Inner Mongolia",
+  "n": {
+   "百灵庙": "Bailingmiao"
+  }
+ },
+ "百色": {
+  "mod": "Baise, Guangxi",
+  "n": {
+   "百色": "Baise"
+  }
+ },
+ "的黎波里": {
+  "mod": "Tripoli, Lebanon",
+  "n": {
+   "的黎波里": "Tripoli"
+  }
+ },
+ "益阳": {
+  "mod": "Yiyang, Hunan",
+  "n": {
+   "益阳": "Yiyang"
+  }
+ },
+ "盐城": {
+  "mod": "Yancheng, Jiangsu",
+  "n": {
+   "盐城": "Yancheng"
+  }
+ },
+ "盐池": {
+  "mod": "Yanchi, Ningxia",
+  "n": {
+   "盐池": "Yanchi"
+  }
+ },
+ "盐源": {
+  "mod": "Yanyuan, Sichuan",
+  "n": {
+   "盐源": "Yanyuan"
+  }
+ },
+ "监利": {
+  "mod": "Jianli, Hubei",
+  "n": {
+   "监利": "Jianli"
+  }
+ },
+ "盖伊达": {
+  "mod": "Al Ghaydah, Yemen (Mahra)",
+  "n": {
+   "盖伊达": "Al Ghaydah"
+  }
+ },
+ "盘县": {
+  "mod": "Panzhou, Guizhou",
+  "n": {
+   "盘县": "Panxian"
+  }
+ },
+ "盱眙": {
+  "mod": "Xuyi, Jiangsu",
+  "n": {
+   "盱眙": "Xuyi"
+  }
+ },
+ "眉苗": {
+  "mod": "Pyin Oo Lwin, Myanmar",
+  "n": {
+   "眉苗": "Maymyo"
+  }
+ },
+ "真冈": {
+  "mod": "Kholmsk, Russia",
+  "n": {
+   "真冈": "Maoka",
+   "霍尔姆斯克": "Kholmsk"
+  }
+ },
+ "石嘴山": {
+  "mod": "Shizuishan, Ningxia",
+  "n": {
+   "石嘴山": "Shizuishan"
+  }
+ },
+ "石垣": {
+  "mod": "Ishigaki Island, Okinawa, Japan",
+  "n": {
+   "石垣": "Ishigaki"
+  }
+ },
+ "石城": {
+  "mod": "Shicheng, Jiangxi",
+  "n": {
+   "石城": "Shicheng"
+  }
+ },
+ "石家庄": {
+  "mod": "Shijiazhuang, Hebei",
+  "n": {
+   "石家庄": "Shijiazhuang",
+   "石门": "Shimen"
+  }
+ },
+ "石渠": {
+  "mod": "Serxu, Sichuan",
+  "n": {
+   "石渠": "Serxu"
+  }
+ },
+ "硫磺岛": {
+  "mod": "Iwo To, Ogasawara, Tokyo, Japan",
+  "n": {
+   "硫磺岛": "Iwo Jima"
+  }
+ },
+ "确山": {
+  "mod": "Queshan, Henan (Zhugou lies to its west)",
+  "n": {
+   "确山": "Queshan"
+  }
+ },
+ "碧瑶": {
+  "mod": "Baguio, Philippines",
+  "n": {
+   "碧瑶": "Baguio"
+  }
+ },
+ "磅同": {
+  "mod": "Kampong Thom, Cambodia",
+  "n": {
+   "磅同": "Kampong Thom"
+  }
+ },
+ "磅湛": {
+  "mod": "Kampong Cham, Cambodia",
+  "n": {
+   "磅湛": "Kampong Cham"
+  }
+ },
+ "磐石": {
+  "mod": "Panshi, Jilin",
+  "n": {
+   "磐石": "Panshi"
+  }
+ },
+ "神木": {
+  "mod": "Shenmu, Shaanxi",
+  "n": {
+   "神木": "Shenmu"
+  }
+ },
+ "禄劝": {
+  "mod": "Luquan, Yunnan",
+  "n": {
+   "禄劝": "Luquan"
+  }
+ },
+ "福冈": {
+  "mod": "Fukuoka, Japan",
+  "n": {
+   "福冈": "Fukuoka"
+  }
+ },
+ "福州": {
+  "mod": "Fuzhou, Fujian",
+  "n": {
+   "福州": "Fuzhou"
+  }
+ },
+ "福鼎": {
+  "mod": "Fuding, Fujian",
+  "n": {
+   "福鼎": "Fuding"
+  }
+ },
+ "禹县": {
+  "mod": "Yuzhou, Henan",
+  "n": {
+   "禹县": "Yuxian"
+  }
+ },
+ "离石": {
+  "mod": "Lishi District, Lüliang, Shanxi",
+  "n": {
+   "离石": "Lishi"
+  }
+ },
+ "秀山": {
+  "mod": "Xiushan, Chongqing",
+  "n": {
+   "秀山": "Xiushan"
+  }
+ },
+ "秋明": {
+  "mod": "Tyumen, Russia",
+  "n": {
+   "秋明": "Tyumen"
+  }
+ },
+ "科什阿加奇": {
+  "mod": "Kosh-Agach, Altai Republic, Russia",
+  "n": {
+   "科什阿加奇": "Kosh-Agach"
+  }
+ },
+ "科伦坡": {
+  "mod": "Colombo, Sri Lanka",
+  "n": {
+   "科伦坡": "Colombo"
+  }
+ },
+ "科威特": {
+  "mod": "Kuwait",
+  "n": {
+   "科威特": "Kuwait"
+  }
+ },
+ "科尼亚": {
+  "mod": "Konya, Türkiye",
+  "n": {
+   "科尼亚": "Konya"
+  }
+ },
+ "科布多": {
+  "mod": "Khovd, Mongolia",
+  "n": {
+   "科布多": "Kobdo"
+  }
+ },
+ "科希马": {
+  "mod": "Kohima, India",
+  "n": {
+   "科希马": "Kohima"
+  }
+ },
+ "科斯": {
+  "mod": "Kos, Greece",
+  "n": {
+   "科斯": "Kos"
+  }
+ },
+ "科科达": {
+  "mod": "Kokoda, Papua New Guinea",
+  "n": {
+   "科科达": "Kokoda"
+  }
+ },
+ "科罗尔": {
+  "mod": "Koror, Palau",
+  "n": {
+   "科罗尔": "Koror"
+  }
+ },
+ "科雷吉多": {
+  "mod": "Corregidor Island, Philippines",
+  "n": {
+   "科雷吉多": "Corregidor"
+  }
+ },
+ "秦皇岛": {
+  "mod": "Qinhuangdao, Hebei",
+  "n": {
+   "秦皇岛": "Qinhuangdao"
+  }
+ },
+ "稚内": {
+  "mod": "Wakkanai, Japan",
+  "n": {
+   "稚内": "Wakkanai"
+  }
+ },
+ "稻城": {
+  "mod": "Daocheng, Sichuan",
+  "n": {
+   "稻城": "Daocheng"
+  }
+ },
+ "穆什": {
+  "mod": "Muş, Türkiye",
+  "n": {
+   "穆什": "Muş"
+  }
+ },
+ "穆卡拉": {
+  "mod": "Mukalla, Yemen",
+  "n": {
+   "穆卡拉": "Mukalla"
+  }
+ },
+ "穆哈梅拉": {
+  "mod": "Khorramshahr, Iran",
+  "n": {
+   "穆哈梅拉": "Mohammerah"
+  }
+ },
+ "穆扎法拉巴德": {
+  "mod": "Muzaffarabad, Pakistani-controlled Kashmir",
+  "n": {
+   "穆扎法拉巴德": "Muzaffarabad"
+  }
+ },
+ "穆拉": {
+  "mod": "Muğla, Türkiye",
+  "n": {
+   "穆拉": "Muğla"
+  }
+ },
+ "米努辛斯克": {
+  "mod": "Minusinsk, Russia",
+  "n": {
+   "米努辛斯克": "Minusinsk"
+  }
+ },
+ "米尔布尔": {
+  "mod": "Mirpur, Pakistani-controlled Kashmir",
+  "n": {
+   "米尔布尔": "Mirpur"
+  }
+ },
+ "米尔恩湾": {
+  "mod": "Alotau, Papua New Guinea (Milne Bay)",
+  "n": {
+   "米尔恩湾": "Milne Bay"
+  }
+ },
+ "米脂": {
+  "mod": "Mizhi, Shaanxi",
+  "n": {
+   "米脂": "Mizhi"
+  }
+ },
+ "米蒂利尼": {
+  "mod": "Mytilene, Lesbos, Greece",
+  "n": {
+   "米蒂利尼": "Mytilene"
+  }
+ },
+ "精河": {
+  "mod": "Jinghe, Xinjiang",
+  "n": {
+   "精河": "Jinghe"
+  }
+ },
+ "索科特拉": {
+  "mod": "Socotra, Yemen",
+  "n": {
+   "索科特拉": "Socotra"
+  }
+ },
+ "索龙": {
+  "mod": "Sorong, Indonesia",
+  "n": {
+   "索龙": "Sorong"
+  }
+ },
+ "綦江": {
+  "mod": "Qijiang, Chongqing",
+  "n": {
+   "綦江": "Qijiang"
+  }
+ },
+ "约克角": {
+  "mod": "Cape York, Queensland, Australia",
+  "n": {
+   "约克角": "Cape York"
+  }
+ },
+ "纳布卢斯": {
+  "mod": "Nablus, Palestine",
+  "n": {
+   "纳布卢斯": "Nablus"
+  }
+ },
+ "纳希切万": {
+  "mod": "Nakhchivan, Azerbaijan",
+  "n": {
+   "纳希切万": "Nakhichevan"
+  }
+ },
+ "纳西里耶": {
+  "mod": "Nasiriyah, Iraq",
+  "n": {
+   "纳西里耶": "Nasiriyah"
+  }
+ },
+ "纳闽": {
+  "mod": "Labuan, Malaysia",
+  "n": {
+   "纳闽": "Labuan"
+  }
+ },
+ "纳雷姆": {
+  "mod": "Narym, Tomsk Oblast, Russia",
+  "n": {
+   "纳雷姆": "Narym"
+  }
+ },
+ "绍兴": {
+  "mod": "Shaoxing, Zhejiang",
+  "n": {
+   "绍兴": "Shaoxing"
+  }
+ },
+ "经棚": {
+  "mod": "Jingpeng, Hexigten Banner, Inner Mongolia",
+  "n": {
+   "经棚": "Jingpeng"
+  }
+ },
+ "结雅": {
+  "mod": "Zeya, Russia",
+  "n": {
+   "结雅": "Zeya"
+  }
+ },
+ "绥化": {
+  "mod": "Suihua, Heilongjiang",
+  "n": {
+   "绥化": "Suihua"
+  }
+ },
+ "绥和": {
+  "mod": "Tuy Hòa, Đắk Lắk, Vietnam",
+  "n": {
+   "绥和": "Tuy Hòa"
+  }
+ },
+ "绥德": {
+  "mod": "Suide, Shaanxi",
+  "n": {
+   "绥德": "Suide"
+  }
+ },
+ "绥来": {
+  "mod": "Manas, Xinjiang",
+  "n": {
+   "绥来": "Suilai"
+  }
+ },
+ "绥芬河": {
+  "mod": "Suifenhe, Heilongjiang",
+  "n": {
+   "绥芬河": "Suifenhe"
+  }
+ },
+ "维多利亚角": {
+  "mod": "Kawthaung, Myanmar",
+  "n": {
+   "维多利亚角": "Victoria Point"
+  }
+ },
+ "维尔内": {
+  "mod": "Almaty, Kazakhstan",
+  "n": {
+   "维尔内": "Verny",
+   "阿拉木图": "Alma-Ata"
+  }
+ },
+ "维尔霍扬斯克": {
+  "mod": "Verkhoyansk, Russia",
+  "n": {
+   "维尔霍扬斯克": "Verkhoyansk"
+  }
+ },
+ "维柳伊斯克": {
+  "mod": "Vilyuysk, Russia",
+  "n": {
+   "维柳伊斯克": "Vilyuysk"
+  }
+ },
+ "维沙卡帕特南": {
+  "mod": "Visakhapatnam, India",
+  "n": {
+   "维沙卡帕特南": "Vizagapatam"
+  }
+ },
+ "维甘": {
+  "mod": "Vigan, Philippines",
+  "n": {
+   "维甘": "Vigan"
+  }
+ },
+ "绵阳": {
+  "mod": "Mianyang, Sichuan",
+  "n": {
+   "绵州": "Mianzhou",
+   "绵阳": "Mianyang"
+  }
+ },
+ "罗得岛": {
+  "mod": "Rhodes, Greece",
+  "n": {
+   "罗得岛": "Rhodes"
+  }
+ },
+ "罗津": {
+  "mod": "Rason, North Korea",
+  "n": {
+   "罗津": "Rajin"
+  }
+ },
+ "美萩": {
+  "mod": "Mỹ Tho, Vietnam",
+  "n": {
+   "美萩": "Mỹ Tho"
+  }
+ },
+ "美里": {
+  "mod": "Miri, Malaysia",
+  "n": {
+   "美里": "Miri"
+  }
+ },
+ "群山": {
+  "mod": "Gunsan, South Korea",
+  "n": {
+   "群山": "Gunsan"
+  }
+ },
+ "老河口": {
+  "mod": "Laohekou, Hubei",
+  "n": {
+   "老河口": "Laohekou"
+  }
+ },
+ "老街": {
+  "mod": "Lào Cai, Vietnam",
+  "n": {
+   "老街": "Lào Cai"
+  }
+ },
+ "耶路撒冷": {
+  "mod": "Old City of Jerusalem",
+  "n": {
+   "耶路撒冷": "Jerusalem"
+  }
+ },
+ "聊城": {
+  "mod": "Liaocheng, Shandong",
+  "n": {
+   "聊城": "Liaocheng"
+  }
+ },
+ "肇庆": {
+  "mod": "Zhaoqing, Guangdong",
+  "n": {
+   "肇庆": "Zhaoqing"
+  }
+ },
+ "肯达里": {
+  "mod": "Kendari, Indonesia",
+  "n": {
+   "肯达里": "Kendari"
+  }
+ },
+ "胡富夫": {
+  "mod": "Hofuf, Saudi Arabia (Hasa)",
+  "n": {
+   "胡富夫": "Hofuf"
+  }
+ },
+ "腊包尔": {
+  "mod": "Rabaul, Papua New Guinea",
+  "n": {
+   "腊包尔": "Rabaul"
+  }
+ },
+ "腊戍": {
+  "mod": "Lashio, Shan State, Myanmar",
+  "n": {
+   "腊戍": "Lashio"
+  }
+ },
+ "腾冲": {
+  "mod": "Tengchong, Yunnan",
+  "n": {
+   "腾冲": "Tengchong"
+  }
+ },
+ "自贡": {
+  "mod": "Zigong, Sichuan",
+  "n": {
+   "自贡": "Zigong"
+  }
+ },
+ "舒沙": {
+  "mod": "Shusha, Azerbaijan (Karabakh)",
+  "n": {
+   "舒沙": "Shusha"
+  }
+ },
+ "色丹岛": {
+  "mod": "Shikotan, Kuril Islands, Russia",
+  "n": {
+   "色丹岛": "Shikotan"
+  }
+ },
+ "色军": {
+  "mod": "Sakon Nakhon, Thailand",
+  "n": {
+   "色军": "Sakon Nakhon"
+  }
+ },
+ "艾卜哈": {
+  "mod": "Abha, Saudi Arabia",
+  "n": {
+   "艾卜哈": "Abha"
+  }
+ },
+ "艾哈迈达巴德": {
+  "mod": "Ahmedabad, India",
+  "n": {
+   "艾哈迈达巴德": "Ahmedabad"
+  }
+ },
+ "艾塔佩": {
+  "mod": "Aitape, Papua New Guinea",
+  "n": {
+   "艾塔佩": "Aitape"
+  }
+ },
+ "艾登": {
+  "mod": "Aydın, Türkiye",
+  "n": {
+   "艾登": "Aydın"
+  }
+ },
+ "芒市": {
+  "mod": "Mangshi, Yunnan",
+  "n": {
+   "芒市": "Mangshi"
+  }
+ },
+ "芒街": {
+  "mod": "Móng Cái, Vietnam",
+  "n": {
+   "芒街": "Móng Cái"
+  }
+ },
+ "芙蓉": {
+  "mod": "Seremban, Malaysia",
+  "n": {
+   "芙蓉": "Seremban"
+  }
+ },
+ "芜湖": {
+  "mod": "Wuhu, Anhui",
+  "n": {
+   "芜湖": "Wuhu"
+  }
+ },
+ "芬什港": {
+  "mod": "Finschhafen, Papua New Guinea",
+  "n": {
+   "芬什港": "Finschhafen"
+  }
+ },
+ "花莲": {
+  "mod": "Hualien, Taiwan",
+  "n": {
+   "花莲": "Hualien"
+  }
+ },
+ "芷江": {
+  "mod": "Zhijiang, Hunan",
+  "n": {
+   "芷江": "Zhijiang"
+  }
+ },
+ "芹苴": {
+  "mod": "Cần Thơ, Vietnam",
+  "n": {
+   "芹苴": "Cần Thơ"
+  }
+ },
+ "芽庄": {
+  "mod": "Nha Trang, Vietnam",
+  "n": {
+   "芽庄": "Nha Trang"
+  }
+ },
+ "苍溪": {
+  "mod": "Cangxi, Sichuan",
+  "n": {
+   "苍溪": "Cangxi"
+  }
+ },
+ "苏呼米": {
+  "mod": "Sukhumi, Georgia",
+  "n": {
+   "苏呼米": "Sukhum"
+  }
+ },
+ "苏尔古特": {
+  "mod": "Surgut, Khanty-Mansi Autonomous Okrug, Russia",
+  "n": {
+   "苏尔古特": "Surgut"
+  }
+ },
+ "苏州": {
+  "mod": "Suzhou, Jiangsu",
+  "n": {
+   "苏州": "Suzhou"
+  }
+ },
+ "苏库尔": {
+  "mod": "Sukkur, Pakistan",
+  "n": {
+   "苏库尔": "Sukkur"
+  }
+ },
+ "苏维埃港": {
+  "mod": "Sovetskaya Gavan, Russia",
+  "n": {
+   "皇帝港": "Imperatorskaya Gavan",
+   "苏维埃港": "Sovetskaya Gavan"
+  }
+ },
+ "苏莱曼尼亚": {
+  "mod": "Sulaymaniyah, Iraq",
+  "n": {
+   "苏莱曼尼亚": "Sulaymaniyah"
+  }
+ },
+ "苏韦达": {
+  "mod": "Suwayda, Syria (Jabal Druze)",
+  "n": {
+   "苏韦达": "Suwayda"
+  }
+ },
+ "若尔盖": {
+  "mod": "Zoige, Sichuan",
+  "n": {
+   "若尔盖": "Zoige"
+  }
+ },
+ "若羌": {
+  "mod": "Ruoqiang, Xinjiang",
+  "n": {
+   "婼羌": "Ruoqiang",
+   "若羌": "Ruoqiang"
+  }
+ },
+ "苦盏": {
+  "mod": "Khujand, Tajikistan",
+  "n": {
+   "列宁纳巴德": "Leninabad",
+   "苦盏": "Khujand"
+  }
+ },
+ "英帕尔": {
+  "mod": "Imphal, India (Manipur State)",
+  "n": {
+   "英帕尔": "Imphal"
+  }
+ },
+ "茂县": {
+  "mod": "Maoxian, Sichuan",
+  "n": {
+   "茂县": "Maoxian"
+  }
+ },
+ "茂名": {
+  "mod": "Maoming, Guangdong",
+  "n": {
+   "茂名": "Maoming"
+  }
+ },
+ "茂物": {
+  "mod": "Bogor, Indonesia",
+  "n": {
+   "茂物": "Bogor"
+  }
+ },
+ "茉莉芬": {
+  "mod": "Madiun, Indonesia",
+  "n": {
+   "茉莉芬": "Madiun"
+  }
+ },
+ "茶陵": {
+  "mod": "Chaling, Hunan",
+  "n": {
+   "茶陵": "Chaling"
+  }
+ },
+ "荣市": {
+  "mod": "Vinh, Vietnam",
+  "n": {
+   "荣市": "Vinh"
+  }
+ },
+ "荷兰迪亚": {
+  "mod": "Jayapura, Indonesia",
+  "n": {
+   "荷兰迪亚": "Hollandia"
+  }
+ },
+ "荷台达": {
+  "mod": "Hodeidah, Yemen",
+  "n": {
+   "荷台达": "Hodeidah"
+  }
+ },
+ "莆田": {
+  "mod": "Putian, Fujian",
+  "n": {
+   "莆田": "Putian"
+  }
+ },
+ "莎车": {
+  "mod": "Shache, Xinjiang",
+  "n": {
+   "莎车": "Shache"
+  }
+ },
+ "莒县": {
+  "mod": "Juxian, Shandong",
+  "n": {
+   "莒县": "Juxian"
+  }
+ },
+ "莫尔兹比港": {
+  "mod": "Port Moresby, Papua New Guinea",
+  "n": {
+   "莫尔兹比港": "Port Moresby"
+  }
+ },
+ "莫戈恰": {
+  "mod": "Mogocha, Russia",
+  "n": {
+   "莫戈恰": "Mogocha"
+  }
+ },
+ "莱城": {
+  "mod": "Lae, Papua New Guinea",
+  "n": {
+   "莱城": "Lae"
+  }
+ },
+ "莱州·越": {
+  "mod": "Mường Lay, Điện Biên Province, Vietnam (old Lai Châu)",
+  "n": {
+   "莱州": "Lai Châu"
+  }
+ },
+ "莱芜": {
+  "mod": "Laiwu District, Jinan, Shandong",
+  "n": {
+   "莱芜": "Laiwu"
+  }
+ },
+ "莱阳": {
+  "mod": "Laiyang, Shandong",
+  "n": {
+   "莱阳": "Laiyang"
+  }
+ },
+ "菏泽": {
+  "mod": "Heze, Shandong",
+  "n": {
+   "曹州": "Caozhou",
+   "菏泽": "Heze"
+  }
+ },
+ "菩萨": {
+  "mod": "Pursat, Cambodia",
+  "n": {
+   "菩萨": "Pursat"
+  }
+ },
+ "萍乡": {
+  "mod": "Pingxiang, Jiangxi",
+  "n": {
+   "萍乡": "Pingxiang"
+  }
+ },
+ "营口": {
+  "mod": "Yingkou, Liaoning",
+  "n": {
+   "营口": "Yingkou"
+  }
+ },
+ "营山": {
+  "mod": "Yingshan, Sichuan",
+  "n": {
+   "营山": "Yingshan"
+  }
+ },
+ "萨列哈尔德": {
+  "mod": "Salekhard, Russia",
+  "n": {
+   "奥布多尔斯克": "Obdorsk",
+   "萨列哈尔德": "Salekhard"
+  }
+ },
+ "萨姆松": {
+  "mod": "Samsun, Türkiye",
+  "n": {
+   "萨姆松": "Samsun"
+  }
+ },
+ "萨摩斯岛": {
+  "mod": "Samos, Greece",
+  "n": {
+   "萨摩斯岛": "Samos"
+  }
+ },
+ "萨比亚": {
+  "mod": "Sabya, Saudi Arabia",
+  "n": {
+   "萨比亚": "Sabya"
+  }
+ },
+ "萨达": {
+  "mod": "Saada, Yemen",
+  "n": {
+   "萨达": "Saada"
+  }
+ },
+ "萨那": {
+  "mod": "Sanaa, Yemen",
+  "n": {
+   "萨那": "Sanaa"
+  }
+ },
+ "葛源": {
+  "mod": "Geyuan, Hengfeng, Jiangxi",
+  "n": {
+   "葛源": "Geyuan"
+  }
+ },
+ "葡萄": {
+  "mod": "Putao, Myanmar",
+  "n": {
+   "葡萄": "Putao"
+  }
+ },
+ "葫芦岛": {
+  "mod": "Huludao, Liaoning",
+  "n": {
+   "葫芦岛": "Huludao"
+  }
+ },
+ "蒙城": {
+  "mod": "Mengcheng, Anhui",
+  "n": {
+   "蒙城": "Mengcheng"
+  }
+ },
+ "蒙自": {
+  "mod": "Mengzi, Yunnan",
+  "n": {
+   "蒙自": "Mengzi"
+  }
+ },
+ "蒙达": {
+  "mod": "Munda, New Georgia, Solomon Islands",
+  "n": {
+   "蒙达": "Munda"
+  }
+ },
+ "蒙阴": {
+  "mod": "Mengyin, Shandong",
+  "n": {
+   "蒙阴": "Mengyin"
+  }
+ },
+ "蒲圻": {
+  "mod": "Chibi, Hubei",
+  "n": {
+   "蒲圻": "Puqi"
+  }
+ },
+ "蒲犁": {
+  "mod": "Taxkorgan, Xinjiang",
+  "n": {
+   "蒲犁": "Puli"
+  }
+ },
+ "蓟县": {
+  "mod": "Jizhou, Tianjin",
+  "n": {
+   "蓟县": "Jixian"
+  }
+ },
+ "蓬奇": {
+  "mod": "Poonch, Indian-controlled Kashmir",
+  "n": {
+   "蓬奇": "Poonch"
+  }
+ },
+ "蔚县": {
+  "mod": "Yuxian, Hebei",
+  "n": {
+   "蔚县": "Yuxian"
+  }
+ },
+ "蔚山": {
+  "mod": "Ulsan, South Korea",
+  "n": {
+   "蔚山": "Ulsan"
+  }
+ },
+ "虎林": {
+  "mod": "Hulin, Heilongjiang",
+  "n": {
+   "虎林": "Hulin"
+  }
+ },
+ "蚌埠": {
+  "mod": "Bengbu, Anhui",
+  "n": {
+   "蚌埠": "Bengbu"
+  }
+ },
+ "衡水": {
+  "mod": "Hengshui, Hebei",
+  "n": {
+   "衡水": "Hengshui"
+  }
+ },
+ "衡阳": {
+  "mod": "Hengyang, Hunan",
+  "n": {
+   "衡阳": "Hengyang"
+  }
+ },
+ "衢州": {
+  "mod": "Quzhou, Zhejiang",
+  "n": {
+   "衢州": "Quzhou"
+  }
+ },
+ "襄阳": {
+  "mod": "Xiangyang, Hubei",
+  "n": {
+   "襄阳": "Xiangyang"
+  }
+ },
+ "襄阳·朝鲜": {
+  "mod": "Yangyang, South Korea",
+  "n": {
+   "襄阳": "Yangyang"
+  }
+ },
+ "西宁": {
+  "mod": "Xining, Qinghai",
+  "n": {
+   "西宁": "Xining"
+  }
+ },
+ "西宁·越": {
+  "mod": "Tây Ninh, Vietnam",
+  "n": {
+   "西宁": "Tây Ninh"
+  }
+ },
+ "西安": {
+  "mod": "Xi'an, Shaanxi",
+  "n": {
+   "西安": "Xi'an"
+  }
+ },
+ "西峡口": {
+  "mod": "Xixia, Henan",
+  "n": {
+   "西峡口": "Xixiakou"
+  }
+ },
+ "西峰": {
+  "mod": "Xifeng District, Qingyang, Gansu",
+  "n": {
+   "西峰": "Xifeng"
+  }
+ },
+ "西昌": {
+  "mod": "Xichang, Sichuan",
+  "n": {
+   "西昌": "Xichang"
+  }
+ },
+ "西贡": {
+  "mod": "Hồ Chí Minh City, Vietnam",
+  "n": {
+   "西贡": "Sài Gòn"
+  }
+ },
+ "西隆": {
+  "mod": "Shillong, India",
+  "n": {
+   "西隆": "Shillong"
+  }
+ },
+ "议政府": {
+  "mod": "Uijeongbu, South Korea",
+  "n": {
+   "议政府": "Uijeongbu"
+  }
+ },
+ "许昌": {
+  "mod": "Xuchang, Henan",
+  "n": {
+   "许昌": "Xuchang"
+  }
+ },
+ "设拉子": {
+  "mod": "Shiraz, Iran",
+  "n": {
+   "设拉子": "Shiraz"
+  }
+ },
+ "诗巫": {
+  "mod": "Sibu, Malaysia",
+  "n": {
+   "诗巫": "Sibu"
+  }
+ },
+ "诗梳风": {
+  "mod": "Sisophon, Banteay Meanchey, Cambodia",
+  "n": {
+   "诗梳风": "Sisophon"
+  }
+ },
+ "话望生": {
+  "mod": "Gua Musang, Kelantan, Malaysia",
+  "n": {
+   "话望生": "Gua Musang"
+  }
+ },
+ "诸城": {
+  "mod": "Zhucheng, Shandong",
+  "n": {
+   "诸城": "Zhucheng"
+  }
+ },
+ "谅山": {
+  "mod": "Lạng Sơn, Vietnam",
+  "n": {
+   "谅山": "Lạng Sơn"
+  }
+ },
+ "谏义里": {
+  "mod": "Kediri, Indonesia",
+  "n": {
+   "谏义里": "Kediri"
+  }
+ },
+ "贝子庙": {
+  "mod": "Xilinhot, Inner Mongolia",
+  "n": {
+   "贝子庙": "Beizimiao"
+  }
+ },
+ "贝尔谢巴": {
+  "mod": "Beersheba, Israel",
+  "n": {
+   "贝尔谢巴": "Beersheba"
+  }
+ },
+ "贝拉里": {
+  "mod": "Ballari, India",
+  "n": {
+   "贝拉里": "Bellary"
+  }
+ },
+ "贝里琉": {
+  "mod": "Peleliu Island, Palau",
+  "n": {
+   "贝里琉": "Peleliu"
+  }
+ },
+ "贝鲁特": {
+  "mod": "Beirut, Lebanon",
+  "n": {
+   "贝鲁特": "Beirut"
+  }
+ },
+ "贡布": {
+  "mod": "Kampot, Cambodia",
+  "n": {
+   "贡布": "Kampot"
+  }
+ },
+ "贵县": {
+  "mod": "Guigang, Guangxi",
+  "n": {
+   "贵县": "Guixian"
+  }
+ },
+ "贵德": {
+  "mod": "Guide, Qinghai",
+  "n": {
+   "贵德": "Guide"
+  }
+ },
+ "贵溪": {
+  "mod": "Guixi, Jiangxi",
+  "n": {
+   "贵溪": "Guixi"
+  }
+ },
+ "贵阳": {
+  "mod": "Guiyang, Guizhou",
+  "n": {
+   "贵阳": "Guiyang"
+  }
+ },
+ "贾卢伊特": {
+  "mod": "Jaluit, Marshall Islands",
+  "n": {
+   "贾卢伊特": "Jaluit"
+  }
+ },
+ "贾巴尔普尔": {
+  "mod": "Jabalpur, India",
+  "n": {
+   "贾巴尔普尔": "Jubbulpore"
+  }
+ },
+ "贾拉拉巴德": {
+  "mod": "Jalalabad, Afghanistan",
+  "n": {
+   "贾拉拉巴德": "Jalalabad"
+  }
+ },
+ "赖布尔": {
+  "mod": "Raipur, India",
+  "n": {
+   "赖布尔": "Raipur"
+  }
+ },
+ "赛迪尔巴希尔": {
+  "mod": "Seddülbahir, Çanakkale, Türkiye (Cape Helles)",
+  "n": {
+   "赛迪尔巴希尔": "Seddülbahir"
+  }
+ },
+ "赛音诺颜": {
+  "mod": "Tsetserleg, Arkhangai Province, Mongolia",
+  "n": {
+   "赛音诺颜": "Sain Noyon"
+  }
+ },
+ "赞皇": {
+  "mod": "Zanhuang, Hebei",
+  "n": {
+   "赞皇": "Zanhuang"
+  }
+ },
+ "赣州": {
+  "mod": "Ganzhou, Jiangxi",
+  "n": {
+   "赣州": "Ganzhou"
+  }
+ },
+ "赤塔": {
+  "mod": "Chita, Russia",
+  "n": {
+   "赤塔": "Chita"
+  }
+ },
+ "赤峰": {
+  "mod": "Chifeng, Inner Mongolia",
+  "n": {
+   "赤峰": "Chifeng"
+  }
+ },
+ "赤水": {
+  "mod": "Chishui, Guizhou",
+  "n": {
+   "赤水": "Chishui"
+  }
+ },
+ "赫拉特": {
+  "mod": "Herat, Afghanistan",
+  "n": {
+   "赫拉特": "Herat"
+  }
+ },
+ "车臣汗部": {
+  "mod": "Chinggis City (formerly Öndörkhaan), Khentii Province, Mongolia",
+  "n": {
+   "车臣汗部": "Setsen Khan Aimag"
+  }
+ },
+ "车里": {
+  "mod": "Jinghong, Yunnan",
+  "n": {
+   "车里": "Cheli"
+  }
+ },
+ "车里雅宾斯克": {
+  "mod": "Chelyabinsk, Russia",
+  "n": {
+   "车里雅宾斯克": "Chelyabinsk"
+  }
+ },
+ "辽阳": {
+  "mod": "Liaoyang, Liaoning",
+  "n": {
+   "辽阳": "Liaoyang"
+  }
+ },
+ "达利阿": {
+  "mod": "Al Dhale, Yemen",
+  "n": {
+   "达利阿": "Dhala"
+  }
+ },
+ "达卡": {
+  "mod": "Dhaka, Bangladesh",
+  "n": {
+   "达卡": "Dacca"
+  }
+ },
+ "达县": {
+  "mod": "Dazhou, Sichuan",
+  "n": {
+   "达县": "Daxian"
+  }
+ },
+ "达尔瓦尔": {
+  "mod": "Dharwad, India",
+  "n": {
+   "达尔瓦尔": "Dharwar"
+  }
+ },
+ "达府": {
+  "mod": "Tak, Thailand",
+  "n": {
+   "达府": "Tak"
+  }
+ },
+ "达旺": {
+  "mod": "Tawang (Monyul)",
+  "n": {
+   "达旺": "Tawang"
+  }
+ },
+ "达沃": {
+  "mod": "Davao, Philippines",
+  "n": {
+   "达沃": "Davao"
+  }
+ },
+ "运城": {
+  "mod": "Yuncheng, Shanxi",
+  "n": {
+   "运城": "Yuncheng"
+  }
+ },
+ "连县": {
+  "mod": "Lianzhou, Guangdong",
+  "n": {
+   "连县": "Lianxian"
+  }
+ },
+ "连城": {
+  "mod": "Liancheng, Fujian",
+  "n": {
+   "连城": "Liancheng"
+  }
+ },
+ "迪亚巴克尔": {
+  "mod": "Diyarbakır, Türkiye",
+  "n": {
+   "迪亚巴克尔": "Diyarbakır"
+  }
+ },
+ "迪化": {
+  "mod": "Urumqi, Xinjiang",
+  "n": {
+   "乌鲁木齐": "Urumqi",
+   "迪化": "Dihua"
+  }
+ },
+ "迪布鲁加尔": {
+  "mod": "Dibrugarh, India",
+  "n": {
+   "迪布鲁加尔": "Dibrugarh"
+  }
+ },
+ "迪石": {
+  "mod": "Rạch Giá, Vietnam",
+  "n": {
+   "迪石": "Rạch Giá"
+  }
+ },
+ "迭部": {
+  "mod": "Tewo, Gansu",
+  "n": {
+   "迭部": "Tewo"
+  }
+ },
+ "通化": {
+  "mod": "Tonghua, Jilin",
+  "n": {
+   "通化": "Tonghua"
+  }
+ },
+ "通城": {
+  "mod": "Tongcheng, Hubei",
+  "n": {
+   "通城": "Tongcheng"
+  }
+ },
+ "通州": {
+  "mod": "Tongzhou, Beijing",
+  "n": {
+   "通县": "Tongxian",
+   "通州": "Tongzhou"
+  }
+ },
+ "通江": {
+  "mod": "Tongjiang, Sichuan",
+  "n": {
+   "通江": "Tongjiang"
+  }
+ },
+ "通辽": {
+  "mod": "Tongliao, Inner Mongolia",
+  "n": {
+   "通辽": "Tongliao"
+  }
+ },
+ "通道": {
+  "mod": "Tongdao, Hunan",
+  "n": {
+   "通道": "Tongdao"
+  }
+ },
+ "遂宁": {
+  "mod": "Suining, Sichuan",
+  "n": {
+   "遂宁": "Suining"
+  }
+ },
+ "道县": {
+  "mod": "Daoxian, Hunan",
+  "n": {
+   "道县": "Daoxian"
+  }
+ },
+ "道孚": {
+  "mod": "Dawu, Sichuan",
+  "n": {
+   "道孚": "Dawu"
+  }
+ },
+ "遵义": {
+  "mod": "Zunyi, Guizhou",
+  "n": {
+   "遵义": "Zunyi"
+  }
+ },
+ "遵化": {
+  "mod": "Zunhua, Hebei",
+  "n": {
+   "遵化": "Zunhua"
+  }
+ },
+ "邠县": {
+  "mod": "Binzhou, Shaanxi",
+  "n": {
+   "邠县": "Binxian"
+  }
+ },
+ "邢台": {
+  "mod": "Xingtai, Hebei",
+  "n": {
+   "邢台": "Xingtai",
+   "顺德": "Shunde"
+  }
+ },
+ "那产": {
+  "mod": "Nà Sản, Sơn La, Vietnam",
+  "n": {
+   "那产": "Nà Sản"
+  }
+ },
+ "那曲": {
+  "mod": "Nagqu, Xizang",
+  "n": {
+   "那曲": "Nagqu",
+   "黑河": "Heihe"
+  }
+ },
+ "那格浦尔": {
+  "mod": "Nagpur, India",
+  "n": {
+   "那格浦尔": "Nagpur"
+  }
+ },
+ "那空沙旺": {
+  "mod": "Nakhon Sawan, Thailand",
+  "n": {
+   "那空沙旺": "Nakhon Sawan"
+  }
+ },
+ "那霸": {
+  "mod": "Naha, Okinawa, Japan",
+  "n": {
+   "那霸": "Naha"
+  }
+ },
+ "邦加": {
+  "mod": "Pangkalpinang, Bangka, Indonesia",
+  "n": {
+   "邦加": "Bangka"
+  }
+ },
+ "邦美蜀": {
+  "mod": "Buôn Ma Thuột, Vietnam",
+  "n": {
+   "邦美蜀": "Ban Mê Thuột"
+  }
+ },
+ "邯郸": {
+  "mod": "Handan, Hebei",
+  "n": {
+   "邯郸": "Handan"
+  }
+ },
+ "邳县": {
+  "mod": "Pizhou, Jiangsu",
+  "n": {
+   "邳县": "Pixian"
+  }
+ },
+ "邵武": {
+  "mod": "Shaowu, Fujian",
+  "n": {
+   "邵武": "Shaowu"
+  }
+ },
+ "邵阳": {
+  "mod": "Shaoyang, Hunan",
+  "n": {
+   "宝庆": "Baoqing",
+   "邵阳": "Shaoyang"
+  }
+ },
+ "郑家屯": {
+  "mod": "Shuangliao, Jilin",
+  "n": {
+   "郑家屯": "Zhengjiatun"
+  }
+ },
+ "郑州": {
+  "mod": "Zhengzhou, Henan",
+  "n": {
+   "郑县": "Zhengxian",
+   "郑州": "Zhengzhou"
+  }
+ },
+ "郧县": {
+  "mod": "Yunyang District, Shiyan, Hubei",
+  "n": {
+   "郧县": "Yunxian"
+  }
+ },
+ "郴州": {
+  "mod": "Chenzhou, Hunan",
+  "n": {
+   "郴州": "Chenzhou"
+  }
+ },
+ "都兰": {
+  "mod": "Dulan, Qinghai",
+  "n": {
+   "都兰": "Dulan"
+  }
+ },
+ "都匀": {
+  "mod": "Duyun, Guizhou",
+  "n": {
+   "都匀": "Duyun"
+  }
+ },
+ "鄂木斯克": {
+  "mod": "Omsk, Russia",
+  "n": {
+   "鄂木斯克": "Omsk"
+  }
+ },
+ "鄂霍次克": {
+  "mod": "Okhotsk, Russia",
+  "n": {
+   "鄂霍次克": "Okhotsk"
+  }
+ },
+ "鄜县": {
+  "mod": "Fuxian, Shaanxi",
+  "n": {
+   "鄜县": "Fuxian"
+  }
+ },
+ "酉阳": {
+  "mod": "Youyang, Chongqing",
+  "n": {
+   "酉阳": "Youyang"
+  }
+ },
+ "酒泉": {
+  "mod": "Jiuquan, Gansu",
+  "n": {
+   "肃州": "Suzhou",
+   "酒泉": "Jiuquan"
+  }
+ },
+ "醴陵": {
+  "mod": "Liling, Hunan",
+  "n": {
+   "醴陵": "Liling"
+  }
+ },
+ "重庆": {
+  "mod": "Chongqing",
+  "n": {
+   "重庆": "Chongqing"
+  }
+ },
+ "金化": {
+  "mod": "Gimhwa, Cheorwon, South Korea",
+  "n": {
+   "金化": "Gimhwa"
+  }
+ },
+ "金华": {
+  "mod": "Jinhua, Zhejiang",
+  "n": {
+   "金华": "Jinhua"
+  }
+ },
+ "金城": {
+  "mod": "Kumsong, North Korea (now Kimhwa County)",
+  "n": {
+   "金城": "Kumsong"
+  }
+ },
+ "金寨": {
+  "mod": "Jinzhai, Anhui",
+  "n": {
+   "立煌": "Lihuang",
+   "金家寨": "Jinjiazhai",
+   "金寨": "Jinzhai"
+  }
+ },
+ "金泉": {
+  "mod": "Gimcheon, South Korea",
+  "n": {
+   "金泉": "Gimcheon"
+  }
+ },
+ "金泽": {
+  "mod": "Kanazawa, Japan",
+  "n": {
+   "金泽": "Kanazawa"
+  }
+ },
+ "金瓯": {
+  "mod": "Cà Mau, Vietnam",
+  "n": {
+   "金瓯": "Cà Mau"
+  }
+ },
+ "金积": {
+  "mod": "Wuzhong, Ningxia",
+  "n": {
+   "金积": "Jinji"
+  }
+ },
+ "金边": {
+  "mod": "Phnom Penh, Cambodia",
+  "n": {
+   "金边": "Phnom Penh"
+  }
+ },
+ "金门": {
+  "mod": "Kinmen, Fujian",
+  "n": {
+   "金门": "Kinmen"
+  }
+ },
+ "釜山": {
+  "mod": "Busan, South Korea",
+  "n": {
+   "釜山": "Busan"
+  }
+ },
+ "钏路": {
+  "mod": "Kushiro, Japan",
+  "n": {
+   "钏路": "Kushiro"
+  }
+ },
+ "钟祥": {
+  "mod": "Zhongxiang, Hubei",
+  "n": {
+   "钟祥": "Zhongxiang"
+  }
+ },
+ "钦县": {
+  "mod": "Qinzhou, Guangxi",
+  "n": {
+   "钦县": "Qinxian"
+  }
+ },
+ "铁原": {
+  "mod": "Cheorwon, South Korea (old town)",
+  "n": {
+   "铁原": "Cheorwon"
+  }
+ },
+ "铁尔梅兹": {
+  "mod": "Termez, Uzbekistan",
+  "n": {
+   "铁尔梅兹": "Termez"
+  }
+ },
+ "铁岭": {
+  "mod": "Tieling, Liaoning",
+  "n": {
+   "铁岭": "Tieling"
+  }
+ },
+ "铜仁": {
+  "mod": "Tongren, Guizhou",
+  "n": {
+   "铜仁": "Tongren"
+  }
+ },
+ "铜鼓": {
+  "mod": "Tonggu, Jiangxi",
+  "n": {
+   "铜鼓": "Tonggu"
+  }
+ },
+ "锡尔赫特": {
+  "mod": "Sylhet, Bangladesh",
+  "n": {
+   "锡尔赫特": "Sylhet"
+  }
+ },
+ "锡瓦斯": {
+  "mod": "Sivas, Türkiye",
+  "n": {
+   "锡瓦斯": "Sivas"
+  }
+ },
+ "锦州": {
+  "mod": "Jinzhou, Liaoning",
+  "n": {
+   "锦州": "Jinzhou"
+  }
+ },
+ "镇江": {
+  "mod": "Zhenjiang, Jiangsu",
+  "n": {
+   "镇江": "Zhenjiang"
+  }
+ },
+ "镇远": {
+  "mod": "Zhenyuan, Guizhou",
+  "n": {
+   "镇远": "Zhenyuan"
+  }
+ },
+ "镇雄": {
+  "mod": "Zhenxiong, Yunnan",
+  "n": {
+   "镇雄": "Zhenxiong"
+  }
+ },
+ "长崎": {
+  "mod": "Nagasaki, Japan",
+  "n": {
+   "长崎": "Nagasaki"
+  }
+ },
+ "长春": {
+  "mod": "Changchun, Jilin",
+  "n": {
+   "新京": "Xinjing",
+   "长春": "Changchun"
+  }
+ },
+ "长汀": {
+  "mod": "Changting, Fujian",
+  "n": {
+   "长汀": "Changting"
+  }
+ },
+ "长沙": {
+  "mod": "Changsha, Hunan",
+  "n": {
+   "长沙": "Changsha"
+  }
+ },
+ "长治": {
+  "mod": "Changzhi, Shanxi",
+  "n": {
+   "潞安": "Lu'an",
+   "长治": "Changzhi"
+  }
+ },
+ "长津": {
+  "mod": "Southern end of Changjin Lake (Chosin Reservoir), North Korea (Hagaru-ri)",
+  "n": {
+   "长津": "Changjin"
+  }
+ },
+ "门源": {
+  "mod": "Menyuan, Qinghai",
+  "n": {
+   "门源": "Menyuan"
+  }
+ },
+ "阆中": {
+  "mod": "Langzhong, Sichuan",
+  "n": {
+   "阆中": "Langzhong"
+  }
+ },
+ "阜宁": {
+  "mod": "Funing, Jiangsu",
+  "n": {
+   "阜宁": "Funing"
+  }
+ },
+ "阜平": {
+  "mod": "Fuping, Hebei",
+  "n": {
+   "阜平": "Fuping"
+  }
+ },
+ "阜新": {
+  "mod": "Fuxin, Liaoning",
+  "n": {
+   "阜新": "Fuxin"
+  }
+ },
+ "阜阳": {
+  "mod": "Fuyang, Anhui",
+  "n": {
+   "阜阳": "Fuyang"
+  }
+ },
+ "阳城": {
+  "mod": "Yangcheng, Shanxi",
+  "n": {
+   "阳城": "Yangcheng"
+  }
+ },
+ "阳新": {
+  "mod": "Yangxin, Hubei",
+  "n": {
+   "阳新": "Yangxin"
+  }
+ },
+ "阳江": {
+  "mod": "Yangjiang, Guangdong",
+  "n": {
+   "阳江": "Yangjiang"
+  }
+ },
+ "阳泉": {
+  "mod": "Yangquan, Shanxi",
+  "n": {
+   "阳泉": "Yangquan"
+  }
+ },
+ "阿什哈巴德": {
+  "mod": "Ashgabat, Turkmenistan",
+  "n": {
+   "波尔托拉茨克": "Poltoratsk",
+   "阿什哈巴德": "Ashkhabad"
+  }
+ },
+ "阿克纠宾斯克": {
+  "mod": "Aktobe, Kazakhstan",
+  "n": {
+   "阿克纠宾斯克": "Aktyubinsk"
+  }
+ },
+ "阿克苏": {
+  "mod": "Aksu, Xinjiang",
+  "n": {
+   "阿克苏": "Aksu"
+  }
+ },
+ "阿克莫林斯克": {
+  "mod": "Astana, Kazakhstan",
+  "n": {
+   "阿克莫林斯克": "Akmolinsk"
+  }
+ },
+ "阿兰": {
+  "mod": "Aranyaprathet, Thailand",
+  "n": {
+   "阿兰": "Aranyaprathet"
+  }
+ },
+ "阿兹拉克": {
+  "mod": "Azraq, Jordan",
+  "n": {
+   "阿兹拉克": "Azraq"
+  }
+ },
+ "阿勒颇": {
+  "mod": "Aleppo, Syria",
+  "n": {
+   "阿勒颇": "Aleppo"
+  }
+ },
+ "阿图岛": {
+  "mod": "Attu Island, Alaska, United States",
+  "n": {
+   "阿图岛": "Attu"
+  }
+ },
+ "阿坝": {
+  "mod": "Ngawa, Sichuan",
+  "n": {
+   "阿坝": "Ngawa"
+  }
+ },
+ "阿姆利则": {
+  "mod": "Amritsar, India",
+  "n": {
+   "阿姆利则": "Amritsar"
+  }
+ },
+ "阿姆劳蒂": {
+  "mod": "Amravati, India (Berar)",
+  "n": {
+   "阿姆劳蒂": "Amraoti"
+  }
+ },
+ "阿尔山": {
+  "mod": "Arxan, Inner Mongolia",
+  "n": {
+   "阿尔山": "Arxan"
+  }
+ },
+ "阿尔特温": {
+  "mod": "Artvin, Türkiye",
+  "n": {
+   "阿尔特温": "Artvin"
+  }
+ },
+ "阿尔莫拉": {
+  "mod": "Almora, India",
+  "n": {
+   "阿尔莫拉": "Almora"
+  }
+ },
+ "阿尔达比勒": {
+  "mod": "Ardabil, Iran",
+  "n": {
+   "阿尔达比勒": "Ardabil"
+  }
+ },
+ "阿尔达汉": {
+  "mod": "Ardahan, Türkiye",
+  "n": {
+   "阿尔达汉": "Ardahan"
+  }
+ },
+ "阿巴斯港": {
+  "mod": "Bandar Abbas, Iran",
+  "n": {
+   "阿巴斯港": "Bandar Abbas"
+  }
+ },
+ "阿布扎比": {
+  "mod": "Abu Dhabi, United Arab Emirates",
+  "n": {
+   "阿布扎比": "Abu Dhabi"
+  }
+ },
+ "阿帕里": {
+  "mod": "Aparri, Philippines",
+  "n": {
+   "阿帕里": "Aparri"
+  }
+ },
+ "阿恰布": {
+  "mod": "Sittwe, Myanmar",
+  "n": {
+   "阿恰布": "Akyab"
+  }
+ },
+ "阿扬": {
+  "mod": "Ayan, Khabarovsk Krai, Russia",
+  "n": {
+   "阿扬": "Ayan"
+  }
+ },
+ "阿拉哈巴德": {
+  "mod": "Prayagraj, India",
+  "n": {
+   "阿拉哈巴德": "Allahabad"
+  }
+ },
+ "阿格拉": {
+  "mod": "Agra, India",
+  "n": {
+   "阿格拉": "Agra"
+  }
+ },
+ "阿瓦士": {
+  "mod": "Ahvaz, Iran",
+  "n": {
+   "阿瓦士": "Ahvaz"
+  }
+ },
+ "阿纳德尔": {
+  "mod": "Anadyr, Russia",
+  "n": {
+   "新马林斯克": "Novo-Mariinsk",
+   "阿纳德尔": "Anadyr"
+  }
+ },
+ "阿菲永": {
+  "mod": "Afyonkarahisar, Türkiye",
+  "n": {
+   "阿菲永": "Afyon"
+  }
+ },
+ "阿达纳": {
+  "mod": "Adana, Türkiye",
+  "n": {
+   "阿达纳": "Adana"
+  }
+ },
+ "阿速坡": {
+  "mod": "Attapeu, Laos",
+  "n": {
+   "阿速坡": "Attapeu"
+  }
+ },
+ "阿里什": {
+  "mod": "El Arish, Egypt",
+  "n": {
+   "阿里什": "El Arish"
+  }
+ },
+ "阿马拉": {
+  "mod": "Amarah, Iraq",
+  "n": {
+   "阿马拉": "Amara"
+  }
+ },
+ "陆丰": {
+  "mod": "Lufeng, Guangdong",
+  "n": {
+   "陆丰": "Lufeng"
+  }
+ },
+ "陇西": {
+  "mod": "Longxi, Gansu",
+  "n": {
+   "陇西": "Longxi"
+  }
+ },
+ "陕县": {
+  "mod": "Shanzhou District, Sanmenxia, Henan",
+  "n": {
+   "陕县": "Shanxian"
+  }
+ },
+ "陕坝": {
+  "mod": "Shanba, Hanggin Rear Banner, Inner Mongolia",
+  "n": {
+   "陕坝": "Shanba"
+  }
+ },
+ "随县": {
+  "mod": "Suizhou, Hubei",
+  "n": {
+   "随县": "Suixian"
+  }
+ },
+ "隰县": {
+  "mod": "Xixian, Shanxi",
+  "n": {
+   "隰县": "Xixian"
+  }
+ },
+ "难府": {
+  "mod": "Nan, Thailand",
+  "n": {
+   "难府": "Nan"
+  }
+ },
+ "雅安": {
+  "mod": "Ya'an, Sichuan",
+  "n": {
+   "雅安": "Ya'an"
+  }
+ },
+ "雅库茨克": {
+  "mod": "Yakutsk, Russia",
+  "n": {
+   "雅库茨克": "Yakutsk"
+  }
+ },
+ "雅法": {
+  "mod": "Tel Aviv–Jaffa, Israel",
+  "n": {
+   "雅法": "Jaffa"
+  }
+ },
+ "雅浦": {
+  "mod": "Yap, Micronesia",
+  "n": {
+   "雅浦": "Yap"
+  }
+ },
+ "集宁": {
+  "mod": "Jining District, Ulanqab, Inner Mongolia",
+  "n": {
+   "集宁": "Jining"
+  }
+ },
+ "雩都": {
+  "mod": "Yudu, Jiangxi",
+  "n": {
+   "雩都": "Yudu"
+  }
+ },
+ "零陵": {
+  "mod": "Yongzhou, Hunan",
+  "n": {
+   "零陵": "Lingling"
+  }
+ },
+ "雷州": {
+  "mod": "Leizhou, Guangdong",
+  "n": {
+   "雷州": "Leizhou"
+  }
+ },
+ "霍姆斯": {
+  "mod": "Homs, Syria",
+  "n": {
+   "霍姆斯": "Homs"
+  }
+ },
+ "霍山": {
+  "mod": "Huoshan, Anhui",
+  "n": {
+   "霍山": "Huoshan"
+  }
+ },
+ "霸县": {
+  "mod": "Bazhou, Hebei",
+  "n": {
+   "霸县": "Baxian"
+  }
+ },
+ "青岛": {
+  "mod": "Qingdao, Shandong",
+  "n": {
+   "青岛": "Qingdao"
+  }
+ },
+ "青森": {
+  "mod": "Aomori, Japan",
+  "n": {
+   "青森": "Aomori"
+  }
+ },
+ "靖边": {
+  "mod": "Jingbian, Shaanxi",
+  "n": {
+   "靖边": "Jingbian"
+  }
+ },
+ "靖远": {
+  "mod": "Jingyuan, Gansu",
+  "n": {
+   "靖远": "Jingyuan"
+  }
+ },
+ "静宁": {
+  "mod": "Jingning, Gansu",
+  "n": {
+   "静宁": "Jingning"
+  }
+ },
+ "鞍山": {
+  "mod": "Anshan, Liaoning",
+  "n": {
+   "鞍山": "Anshan"
+  }
+ },
+ "韦瓦克": {
+  "mod": "Wewak, Papua New Guinea",
+  "n": {
+   "韦瓦克": "Wewak"
+  }
+ },
+ "韩城": {
+  "mod": "Hancheng, Shaanxi",
+  "n": {
+   "韩城": "Hancheng"
+  }
+ },
+ "韶关": {
+  "mod": "Shaoguan, Guangdong",
+  "n": {
+   "曲江": "Qujiang",
+   "韶关": "Shaoguan",
+   "韶州": "Shaozhou"
+  }
+ },
+ "顺化": {
+  "mod": "Huế, Vietnam",
+  "n": {
+   "顺化": "Huế"
+  }
+ },
+ "额济纳": {
+  "mod": "Ejin Banner, Inner Mongolia",
+  "n": {
+   "额济纳": "Ejin"
+  }
+ },
+ "香港": {
+  "mod": "Hong Kong",
+  "n": {
+   "香港": "Hong Kong"
+  }
+ },
+ "马什哈德": {
+  "mod": "Mashhad, Iran",
+  "n": {
+   "马什哈德": "Mashhad"
+  }
+ },
+ "马六甲": {
+  "mod": "Melaka, Malaysia",
+  "n": {
+   "马六甲": "Malacca"
+  }
+ },
+ "马利韦莱斯": {
+  "mod": "Mariveles, Bataan, Philippines",
+  "n": {
+   "马利韦莱斯": "Mariveles"
+  }
+ },
+ "马加丹": {
+  "mod": "Magadan, Russia",
+  "n": {
+   "纳加耶沃": "Nagayevo",
+   "马加丹": "Magadan"
+  }
+ },
+ "马努斯": {
+  "mod": "Lorengau, Manus Island, Papua New Guinea",
+  "n": {
+   "马努斯": "Manus"
+  }
+ },
+ "马吉达勒": {
+  "mod": "Ashkelon, Israel",
+  "n": {
+   "马吉达勒": "Majdal"
+  }
+ },
+ "马哈巴德": {
+  "mod": "Mahabad, Iran",
+  "n": {
+   "马哈巴德": "Mahabad"
+  }
+ },
+ "马塔兰": {
+  "mod": "Mataram, Indonesia",
+  "n": {
+   "马塔兰": "Mataram"
+  }
+ },
+ "马安": {
+  "mod": "Ma'an, Jordan",
+  "n": {
+   "马安": "Ma'an"
+  }
+ },
+ "马尔科沃": {
+  "mod": "Markovo, Chukotka, Russia",
+  "n": {
+   "马尔科沃": "Markovo"
+  }
+ },
+ "马尼拉": {
+  "mod": "Manila, Philippines",
+  "n": {
+   "马尼拉": "Manila"
+  }
+ },
+ "马山": {
+  "mod": "Masan, Changwon, South Korea",
+  "n": {
+   "马山": "Masan"
+  }
+ },
+ "马当": {
+  "mod": "Madang, Papua New Guinea",
+  "n": {
+   "马当": "Madang"
+  }
+ },
+ "马德拉斯": {
+  "mod": "Chennai, India",
+  "n": {
+   "马德拉斯": "Madras"
+  }
+ },
+ "马德望": {
+  "mod": "Battambang, Cambodia",
+  "n": {
+   "马德望": "Battambang"
+  }
+ },
+ "马扎里沙里夫": {
+  "mod": "Mazar-i-Sharif, Afghanistan",
+  "n": {
+   "马扎里沙里夫": "Mazar-i-Sharif"
+  }
+ },
+ "马拉什": {
+  "mod": "Kahramanmaraş, Türkiye",
+  "n": {
+   "马拉什": "Marash"
+  }
+ },
+ "马斯喀特": {
+  "mod": "Muscat, Oman",
+  "n": {
+   "马斯喀特": "Muscat"
+  }
+ },
+ "马杜赖": {
+  "mod": "Madurai, India",
+  "n": {
+   "马杜赖": "Madura"
+  }
+ },
+ "马祖": {
+  "mod": "Nangan, Matsu Islands, Lianjiang, Fujian",
+  "n": {
+   "马祖": "Matsu"
+  }
+ },
+ "马累": {
+  "mod": "Malé, Maldives",
+  "n": {
+   "马累": "Malé"
+  }
+ },
+ "马诺夸里": {
+  "mod": "Manokwari, Indonesia",
+  "n": {
+   "马诺夸里": "Manokwari"
+  }
+ },
+ "马辰": {
+  "mod": "Banjarmasin, Indonesia",
+  "n": {
+   "马辰": "Banjarmasin"
+  }
+ },
+ "马都拉": {
+  "mod": "Pamekasan, Madura, Indonesia",
+  "n": {
+   "马都拉": "Madura"
+  }
+ },
+ "马里卜": {
+  "mod": "Marib, Yemen",
+  "n": {
+   "马里卜": "Marib"
+  }
+ },
+ "驻马店": {
+  "mod": "Zhumadian, Henan",
+  "n": {
+   "驻马店": "Zhumadian"
+  }
+ },
+ "高台": {
+  "mod": "Gaotai, Gansu",
+  "n": {
+   "高台": "Gaotai"
+  }
+ },
+ "高城": {
+  "mod": "Kosong, North Korea",
+  "n": {
+   "高城": "Kosong"
+  }
+ },
+ "高平": {
+  "mod": "Cao Bằng, Vietnam",
+  "n": {
+   "高平": "Cao Bằng"
+  }
+ },
+ "高知": {
+  "mod": "Kochi, Japan",
+  "n": {
+   "高知": "Kochi"
+  }
+ },
+ "高邮": {
+  "mod": "Gaoyou, Jiangsu",
+  "n": {
+   "高邮": "Gaoyou"
+  }
+ },
+ "高雄": {
+  "mod": "Kaohsiung, Taiwan",
+  "n": {
+   "打狗": "Takow",
+   "高雄": "Kaohsiung"
+  }
+ },
+ "鲁山": {
+  "mod": "Lushan, Henan",
+  "n": {
+   "鲁山": "Lushan"
+  }
+ },
+ "鲁特巴": {
+  "mod": "Rutba, Iraq",
+  "n": {
+   "鲁特巴": "Rutba"
+  }
+ },
+ "鹤峰": {
+  "mod": "Hefeng, Hubei",
+  "n": {
+   "鹤峰": "Hefeng"
+  }
+ },
+ "鹿儿岛": {
+  "mod": "Kagoshima, Japan",
+  "n": {
+   "鹿儿岛": "Kagoshima"
+  }
+ },
+ "麟蹄": {
+  "mod": "Inje, South Korea",
+  "n": {
+   "麟蹄": "Inje"
+  }
+ },
+ "麦加": {
+  "mod": "Mecca, Saudi Arabia",
+  "n": {
+   "麦加": "Mecca"
+  }
+ },
+ "麦地那": {
+  "mod": "Medina, Saudi Arabia",
+  "n": {
+   "麦地那": "Medina"
+  }
+ },
+ "麦纳麦": {
+  "mod": "Manama, Bahrain",
+  "n": {
+   "麦纳麦": "Manama"
+  }
+ },
+ "麻坡": {
+  "mod": "Muar, Malaysia",
+  "n": {
+   "麻坡": "Muar"
+  }
+ },
+ "麻城": {
+  "mod": "Macheng, Hubei",
+  "n": {
+   "麻城": "Macheng"
+  }
+ },
+ "黄县": {
+  "mod": "Longkou, Shandong",
+  "n": {
+   "黄县": "Huangxian"
+  }
+ },
+ "黄安": {
+  "mod": "Hong'an, Hubei",
+  "n": {
+   "黄安": "Huang'an"
+  }
+ },
+ "黄州": {
+  "mod": "Huanggang, Hubei",
+  "n": {
+   "黄州": "Huangzhou"
+  }
+ },
+ "黎城": {
+  "mod": "Licheng, Shanxi",
+  "n": {
+   "黎城": "Licheng"
+  }
+ },
+ "黎川": {
+  "mod": "Lichuan, Jiangxi",
+  "n": {
+   "黎川": "Lichuan"
+  }
+ },
+ "黎平": {
+  "mod": "Liping, Guizhou",
+  "n": {
+   "黎平": "Liping"
+  }
+ },
+ "黎牙实比": {
+  "mod": "Legazpi, Philippines",
+  "n": {
+   "黎牙实比": "Legazpi"
+  }
+ },
+ "黑山": {
+  "mod": "Heishan, Liaoning",
+  "n": {
+   "黑山": "Heishan"
+  }
+ },
+ "黑河": {
+  "mod": "Heihe, Heilongjiang",
+  "n": {
+   "黑河": "Heihe"
+  }
+ },
+ "黔江": {
+  "mod": "Qianjiang, Chongqing",
+  "n": {
+   "黔江": "Qianjiang"
+  }
+ },
+ "黔西": {
+  "mod": "Qianxi, Guizhou",
+  "n": {
+   "黔西": "Qianxi"
+  }
+ },
+ "齐齐哈尔": {
+  "mod": "Qiqihar, Heilongjiang",
+  "n": {
+   "齐齐哈尔": "Qiqihar"
+  }
+ },
+ "龙岩": {
+  "mod": "Longyan, Fujian",
+  "n": {
+   "龙岩": "Longyan"
+  }
+ },
+ "龙州": {
+  "mod": "Longzhou, Guangxi",
+  "n": {
+   "龙州": "Longzhou"
+  }
+ },
+ "龙泉": {
+  "mod": "Longquan, Zhejiang",
+  "n": {
+   "龙泉": "Longquan"
+  }
+ },
+ "龙陵": {
+  "mod": "Longling, Yunnan",
+  "n": {
+   "龙陵": "Longling"
+  }
+ }
+}
